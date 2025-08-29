@@ -41,7 +41,28 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// ---- CLI parsing (no external deps) ----
+// ---- Constants ----
+const KNOWN_RACE_SLUGS = [
+  'tour-de-france',
+  'giro-d-italia',
+  'vuelta-a-espana',
+  'world-championship',
+  'milano-sanremo',
+  'amstel-gold-race',
+  'tirreno-adriatico',
+  'liege-bastogne-liege',
+  'il-lombardia',
+  'la-fleche-wallone',
+  'paris-nice',
+  'paris-roubaix',
+  'volta-a-catalunya',
+  'dauphine',
+  'ronde-van-vlaanderen',
+  'gent-wevelgem',
+  'san-sebastian',
+];
+
+// ---- Helpers: CLI parsing (no external deps) ----
 function parseArgs(argv) {
   const args = {};
   for (let i = 2; i < argv.length; i++) {
@@ -68,26 +89,6 @@ function parseArgs(argv) {
   return args;
 }
 
-const KNOWN_RACE_SLUGS = [
-  'tour-de-france',
-  'giro-d-italia',
-  'vuelta-a-espana',
-  'world-championship',
-  'milano-sanremo',
-  'amstel-gold-race',
-  'tirreno-adriatico',
-  'liege-bastogne-liege',
-  'il-lombardia',
-  'la-fleche-wallone',
-  'paris-nice',
-  'paris-roubaix',
-  'volta-a-catalunya',
-  'dauphine',
-  'ronde-van-vlaanderen',
-  'gent-wevelgem',
-  'san-sebastian',
-];
-
 function printHelpAndExit(code = 1) {
   console.error(`Usage: node getStageResult.js --race <slug> --stage <stage> [--year <yyyy>]\n\n` +
     `Examples:\n  node getStageResult.js --race tour-de-france --stage 1 --year 2025\n  npm run stage-vuelta stage=1 year=2025\n  npm run stage-vuelta stage=1  (defaults to current year)\n\n` +
@@ -95,6 +96,7 @@ function printHelpAndExit(code = 1) {
   process.exit(code);
 }
 
+// ---- Main ----
 (async function main() {
   try {
     const { race, year, stage, help } = parseArgs(process.argv);
@@ -144,28 +146,29 @@ function printHelpAndExit(code = 1) {
 
     const stageResults = [];
 
+    // ---- Helpers: scraping getters ----
     const getPlace = (el) => Number($(el).find('td').eq(0).text().trim());
     const getGc = (el) => $(el).find('td.fs11').eq(0).text().trim();
     const getTimeDifference = (el) => $(el).find('td.fs11').eq(1).text().trim();
     const getStartNumber = (el) => $(el).find('td.bibs').text().trim();
-    const getCountry = (el) => $(el).find('td.ridername > .flag').attr('class').split(' ')[1];
+    const getCountry = (el) => $(el).find('td.ridername > .flag').attr('class')?.split(' ')[1];
     const getLastName = (el) => $(el).find('td.ridername > a span.uppercase').text().trim();
-    const getFirstName = (el) => $(el).find('td.ridername > a').text().trim().split(' ').pop();
+    const getFirstName = (el) => $(el).find('td.ridername > a').text().trim()?.split(' ').pop();
     const getTeam = (el) => $(el).find('td.cu600 > a').text().trim();
-    const getShortName = (el) => $(el).find('td.cu600 > a').attr('href').split('/')[1];
+    const getShortName = (el) => $(el).find('td.cu600 > a').attr('href')?.split('/')[1];
     const getUciPoints = (el) => $(el).find('td.uci_pnt').text().trim();
     const getPoints = (el) => $(el).find('td.points').text().trim();
     const getQualificationTime = (el) => $(el).find('td.cu600 > .blue').text().trim();
     const getClass = (el) => $(el).find('td').eq(4).text().trim();
     
     const getTeamName = (el) => $(el).find('span.flag').next().text().trim();
-    const getTeamNameShort = (el) => $(el).find('span.flag').next().attr('href').split('/')[1];
+    const getTeamNameShort = (el) => $(el).find('span.flag').next().attr('href')?.split('/')[1];
 
     const getTTTPlace = (el) => Number($(el).find('.mb_w100 .w10').text().trim());
     const getTTTTeamName = (el) => $(el).find('span.flag').next().text().trim();
-    const getTTTTeamNameShort = (el) => $(el).find('span.flag').next().attr('href').split('/')[1];
+    const getTTTTeamNameShort = (el) => $(el).find('span.flag').next().attr('href')?.split('/')[1];
     
-    const getTTTSingleRiderFirstName = (el) => $(el).find('td > a').text().trim().split(' ').pop();
+    const getTTTSingleRiderFirstName = (el) => $(el).find('td > a').text().trim()?.split(' ').pop();
     const getTTTSingleRiderLastName = (el) => $(el).find('td > a span.uppercase').text().trim();
     
 
@@ -194,9 +197,6 @@ function printHelpAndExit(code = 1) {
                         place: getTTTPlace(el),
                         firstName: getTTTSingleRiderFirstName(elRider),
                         lastName: getTTTSingleRiderLastName(elRider),
-                        
-                        // shortName: getTeamNameShort(el),
-                        // class: getClass(el),
                     }
                     team.riders.push(rider)
                 })
@@ -217,18 +217,18 @@ function printHelpAndExit(code = 1) {
 
     stageResult.find('tbody > tr').each((_, el) => {
       const rider = {
-        country: getCountry(el),
-        lastName: getLastName(el),
-        firstName: getFirstName(el),
-        startNumber: getStartNumber(el),
-        gc: getGc(el),
-        place: getPlace(el),
-        timeDifference: getTimeDifference(el),
-        team: getTeam(el),
-        shortName: getShortName(el),
-        uciPoints: getUciPoints(el),
-        points: getPoints(el),
-        qualificationTime: getQualificationTime(el),
+        country: getCountry(el) || '-',
+        lastName: getLastName(el) || '-',
+        firstName: getFirstName(el) || '-',
+        startNumber: getStartNumber(el) || '-',
+        gc: getGc(el) || '-',
+        place: getPlace(el) || '-',
+        timeDifference: getTimeDifference(el) || '-',
+        team: getTeam(el) || '-',
+        shortName: getShortName(el) || '-',
+        uciPoints: getUciPoints(el) || '-',
+        points: getPoints(el) || '-',
+        qualificationTime: getQualificationTime(el) || '-',
       }     
       stageResults.push(rider);  
     });
@@ -320,9 +320,6 @@ const generalClassificationResult = $('#resultsCont > .resTab').eq(1);
       teamClassification,
       scrapedAt: new Date().toISOString(),
     };
-
-    // Print JSON to stdout
-    // console.log(JSON.stringify(output, null, 2));
 
     // Also write to file under scripts/output/
     const outDir = path.join(__dirname, 'output');

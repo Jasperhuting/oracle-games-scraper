@@ -37,25 +37,7 @@ import { fileURLToPath } from 'url';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-// ---- CLI parsing (no external deps) ----
-function parseArgs(argv) {
-  const args = {};
-  for (let i = 2; i < argv.length; i++) {
-    const part = argv[i];
-    if (part.startsWith('--')) {
-      const key = part.slice(2);
-      const next = argv[i + 1];
-      if (next && !next.startsWith('--')) {
-        args[key] = next;
-        i++;
-      } else {
-        args[key] = true;
-      }
-    }
-  }
-  return args;
-}
-
+// ---- Constants ----
 const KNOWN_RACE_SLUGS = [
   'tour-de-france',
   'giro-d-italia',
@@ -76,6 +58,25 @@ const KNOWN_RACE_SLUGS = [
   'san-sebastian',
 ];
 
+// ---- Helpers: CLI parsing (no external deps) ----
+function parseArgs(argv) {
+  const args = {};
+  for (let i = 2; i < argv.length; i++) {
+    const part = argv[i];
+    if (part.startsWith('--')) {
+      const key = part.slice(2);
+      const next = argv[i + 1];
+      if (next && !next.startsWith('--')) {
+        args[key] = next;
+        i++;
+      } else {
+        args[key] = true;
+      }
+    }
+  }
+  return args;
+}
+
 function printHelpAndExit(code = 1) {
   console.error(`Usage: node getRiders.js --race <slug> --year <yyyy>\n\n` +
     `Example: node getRiders.js --race tour-de-france --year 2025\n\n` +
@@ -83,17 +84,22 @@ function printHelpAndExit(code = 1) {
   process.exit(code);
 }
 
+// ---- Main ----
 (async function main() {
   try {
     const { race, year, help } = parseArgs(process.argv);
     if (help) printHelpAndExit(0);
 
-    if (!race || !year) {
-      console.error('Error: --race and --year are required.');
+    // Support npm run style: npm run script --year=2025 (npm_config_year)
+    const envYear = process.env.npm_config_year || process.env.year;
+    const resolvedYearStr = year || envYear || String(new Date().getFullYear());
+
+    if (!race) {
+      console.error('Error: --race is required. --year is optional (defaults to current year).');
       printHelpAndExit(1);
     }
 
-    const yearNum = Number(year);
+    const yearNum = Number(resolvedYearStr);
     if (!Number.isInteger(yearNum) || yearNum < 1900 || yearNum > 3000) {
       console.error('Error: --year must be a valid year, e.g., 2025');
       process.exit(1);
@@ -104,7 +110,7 @@ function printHelpAndExit(code = 1) {
       printHelpAndExit(1);
     }
 
-    const url = `https://www.procyclingstats.com/race/${race}/${year}/startlist`;
+    const url = `https://www.procyclingstats.com/race/${race}/${yearNum}/startlist`;
     console.error(`Fetching: ${url}`);
 
     if (typeof fetch !== 'function') {
@@ -185,7 +191,7 @@ function printHelpAndExit(code = 1) {
 
     // Also write to file under scripts/output/
     const outDir = path.join(__dirname, 'output');
-    const outFile = path.join(outDir, `startlist-${race}-${year}.json`);
+    const outFile = path.join(outDir, `startlist-${race}-${yearNum}.json`);
     fs.mkdirSync(outDir, { recursive: true });
     fs.writeFileSync(outFile, JSON.stringify(output, null, 2), 'utf8');
     console.error(`Saved: ${outFile}`);

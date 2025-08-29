@@ -9,23 +9,69 @@
   "scripts": {
     "stage-vuelta": "node getStageResult.js --race vuelta-a-espana",    
     "stage-vuelta-all": "node -e \"const {spawnSync}=require('child_process'); const y=process.env.npm_config_year||new Date().getFullYear(); for(let s=1;s<=21;s++){ const r=spawnSync(process.execPath,['getStageResult.js','--race','vuelta-a-espana','--stage',String(s),'--year',String(y)],{stdio:'inherit'}); if(r.status!==0) process.exit(r.status||1); }\"",
+
     "stage-tour": "node getStageResult.js --race tour-de-france",
+    "stage-tour-all": "node -e \"const {spawnSync}=require('child_process'); const y=process.env.npm_config_year||new Date().getFullYear(); for(let s=1;s<=21;s++){ const r=spawnSync(process.execPath,['getStageResult.js','--race','tour-de-france','--stage',String(s),'--year',String(y)],{stdio:'inherit'}); if(r.status!==0) process.exit(r.status||1); }\"",
+
     "stage-world": "node getStageResult.js --race world-championship",
+    "stage-world-all": "node -e \"const {spawnSync}=require('child_process'); const y=process.env.npm_config_year||new Date().getFullYear(); for(let s=1;s<=21;s++){ const r=spawnSync(process.execPath,['getStageResult.js','--race','world-championship','--stage',String(s),'--year',String(y)],{stdio:'inherit'}); if(r.status!==0) process.exit(r.status||1); }\"",
+    
     "stage-milanosanremo": "node getStageResult.js --race milano-sanremo",
+    "stage-milanosanremo-all": "node -e \"const {spawnSync}=require('child_process'); const y=process.env.npm_config_year||new Date().getFullYear(); for(let s=1;s<=21;s++){ const r=spawnSync(process.execPath,['getStageResult.js','--race','milano-sanremo','--stage',String(s),'--year',String(y)],{stdio:'inherit'}); if(r.status!==0) process.exit(r.status||1); }\"",
+    
     "stage-amstelgoldrace": "node getStageResult.js --race amstel-gold-race",
+    "stage-amstelgoldrace-all": "node -e \"const {spawnSync}=require('child_process'); const y=process.env.npm_config_year||new Date().getFullYear(); for(let s=1;s<=21;s++){ const r=spawnSync(process.execPath,['getStageResult.js','--race','amstel-gold-race','--stage',String(s),'--year',String(y)],{stdio:'inherit'}); if(r.status!==0) process.exit(r.status||1); }\"",
+
     "stage-tirrenoadriatico": "node getStageResult.js --race tirreno-adriatico",
+    "stage-tirrenoadriatico-all": "node -e \"const {spawnSync}=require('child_process'); const y=process.env.npm_config_year||new Date().getFullYear(); for(let s=1;s<=21;s++){ const r=spawnSync(process.execPath,['getStageResult.js','--race','tirreno-adriatico','--stage',String(s),'--year',String(y)],{stdio:'inherit'}); if(r.status!==0) process.exit(r.status||1); }\"",
+    
     "stage-liegebastogneliege": "node getStageResult.js --race liege-bastogne-liege",
+    "stage-liegebastogneliege-all": "node -e \"const {spawnSync}=require('child_process'); const y=process.env.npm_config_year||new Date().getFullYear(); for(let s=1;s<=21;s++){ const r=spawnSync(process.execPath,['getStageResult.js','--race','liege-bastogne-liege','--stage',String(s),'--year',String(y)],{stdio:'inherit'}); if(r.status!==0) process.exit(r.status||1); }\"",
+    
     "stage-il-lombardia": "node getStageResult.js --race il-lombardia",
+    "stage-il-lombardia-all": "node -e \"const {spawnSync}=require('child_process'); const y=process.env.npm_config_year||new Date().getFullYear(); for(let s=1;s<=21;s++){ const r=spawnSync(process.execPath,['getStageResult.js','--race','il-lombardia','--stage',String(s),'--year',String(y)],{stdio:'inherit'}); if(r.status!==0) process.exit(r.status||1); }\"",
+    
     "stage-la-fleche-wallone": "node getStageResult.js --race la-fleche-wallone",
+    "stage-la-fleche-wallone-all": "node -e \"const {spawnSync}=require('child_process'); const y=process.env.npm_config_year||new Date().getFullYear(); for(let s=1;s<=21;s++){ const r=spawnSync(process.execPath,['getStageResult.js','--race','la-fleche-wallone','--stage',String(s),'--year',String(y)],{stdio:'inherit'}); if(r.status!==0) process.exit(r.status||1); }\"",
+    
     "stage-parisnice": "node getStageResult.js --race paris-nice",
+    "stage-parisnice-all": "node -e \"const {spawnSync}=require('child_process'); const y=process.env.npm_config_year||new Date().getFullYear(); for(let s=1;s<=21;s++){ const r=spawnSync(process.execPath,['getStageResult.js','--race','paris-nice','--stage',String(s),'--year',String(y)],{stdio:'inherit'}); if(r.status!==0) process.exit(r.status||1); }\"",
+    
     "stage-parisroubaix": "node getStageResult.js --race paris-roubaix",
+    "stage-parisroubaix-all": "node -e \"const {spawnSync}=require('child_process'); const y=process.env.npm_config_year||new Date().getFullYear(); for(let s=1;s<=21;s++){ const r=spawnSync(process.execPath,['getStageResult.js','--race','paris-roubaix','--stage',String(s),'--year',String(y)],{stdio:'inherit'}); if(r.status!==0) process.exit(r.status||1); }\"",
+    
     "stage-voltaacatalunya": "node getStageResult.js --race volta-a-catalunya",
+    "stage-voltaacatalunya-all": "node -e \"const {spawnSync}=require('child_process'); const y=process.env.npm_config_year||new Date().getFullYear(); for(let s=1;s<=21;s++){ const r=spawnSync(process.execPath,['getStageResult.js','--race','volta-a-catalunya','--stage',String(s),'--year',String(y)],{stdio:'inherit'}); if(r.status!==0) process.exit(r.status||1); }\"",
+    
     "stage-dauphine": "node getStageResult.js --race dauphine",
+    "stage-dauphine-all": "node -e \"const {spawnSync}=require('child_process'); const y=process.env.npm_config_year||new Date().getFullYear(); for(let s=1;s<=21;s++){ const r=spawnSync(process.execPath,['getStageResult.js','--race','dauphine','--stage',String(s),'--year',String(y)],{stdio:'inherit'}); if(r.status!==0) process.exit(r.status||1); }\"",
+    
     "stage-rondevanvlaanderen": "node getStageResult.js --race ronde-van-vlaanderen",
+    "stage-rondevanvlaanderen-all": "node -e \"const {spawnSync}=require('child_process'); const y=process.env.npm_config_year||new Date().getFullYear(); for(let s=1;s<=21;s++){ const r=spawnSync(process.execPath,['getStageResult.js','--race','ronde-van-vlaanderen','--stage',String(s),'--year',String(y)],{stdio:'inherit'}); if(r.status!==0) process.exit(r.status||1); }\"",
+    
     "stage-gentwevelgem": "node getStageResult.js --race gent-wevelgem",
+    "stage-gentwevelgem-all": "node -e \"const {spawnSync}=require('child_process'); const y=process.env.npm_config_year||new Date().getFullYear(); for(let s=1;s<=21;s++){ const r=spawnSync(process.execPath,['getStageResult.js','--race','gent-wevelgem','--stage',String(s),'--year',String(y)],{stdio:'inherit'}); if(r.status!==0) process.exit(r.status||1); }\"",
+    
     "stage-sansebastian": "node getStageResult.js --race san-sebastian",
-    "start": "node bin/pcs-scrape.js",
-    "scrape": "node bin/pcs-scrape.js"
+    "stage-sansebastian-all": "node -e \"const {spawnSync}=require('child_process'); const y=process.env.npm_config_year||new Date().getFullYear(); for(let s=1;s<=21;s++){ const r=spawnSync(process.execPath,['getStageResult.js','--race','san-sebastian','--stage',String(s),'--year',String(y)],{stdio:'inherit'}); if(r.status!==0) process.exit(r.status||1); }\"",
+
+    "getRiders-Tour": "node getRiders.js --race tour-de-france",
+    "getRiders-Giro": "node getRiders.js --race giro-d-italia",
+    "getRiders-Vuelta": "node getRiders.js --race vuelta-a-espana",
+    "getRiders-World": "node getRiders.js --race world-championship",
+    "getRiders-MilanSanremo": "node getRiders.js --race milano-sanremo",
+    "getRiders-AmstelGoldRace": "node getRiders.js --race amstel-gold-race",
+    "getRiders-TirrenoAdriatico": "node getRiders.js --race tirreno-adriatico",
+    "getRiders-LiegeBastogneLiege": "node getRiders.js --race liege-bastogne-liege",
+    "getRiders-IlLombardia": "node getRiders.js --race il-lombardia",
+    "getRiders-LaFlecheWallone": "node getRiders.js --race la-fleche-wallone",
+    "getRiders-ParisNice": "node getRiders.js --race paris-nice",
+    "getRiders-ParisRoubaix": "node getRiders.js --race paris-roubaix",
+    "getRiders-VoltaACatalunya": "node getRiders.js --race volta-a-catalunya",
+    "getRiders-Dauphine": "node getRiders.js --race dauphine",
+    "getRiders-RondeVanVlaanderen": "node getRiders.js --race ronde-van-vlaanderen",
+    "getRiders-GentWevelgem": "node getRiders.js --race gent-wevelgem",
+    "getRiders-SanSebastian": "node getRiders.js --race san-sebastian"
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.12"

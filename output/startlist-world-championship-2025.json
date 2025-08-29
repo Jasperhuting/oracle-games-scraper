@@ -1,0 +1,304 @@
+{
+  "race": "world-championship",
+  "year": 2025,
+  "source": "https://www.procyclingstats.com/race/world-championship/2025/startlist",
+  "count": 13,
+  "riders": [
+    {
+      "image": "images/flags_iso/circles/au.png",
+      "name": "Australia (NAT)",
+      "shortName": "australia-2025",
+      "riders": [
+        {
+          "name": "SCOTSON Callum",
+          "country": "au",
+          "startNumber": "-"
+        },
+        {
+          "name": "HAMILTON Chris",
+          "country": "au",
+          "startNumber": "-"
+        },
+        {
+          "name": "HARPER Chris",
+          "country": "au",
+          "startNumber": "-"
+        },
+        {
+          "name": "HINDLEY Jai",
+          "country": "au",
+          "startNumber": "-"
+        },
+        {
+          "name": "MATTHEWS Michael",
+          "country": "au",
+          "startNumber": "-"
+        },
+        {
+          "name": "PLAPP Luke",
+          "country": "au",
+          "startNumber": "-"
+        },
+        {
+          "name": "STORER Michael",
+          "country": "au",
+          "startNumber": "-"
+        },
+        {
+          "name": "VINE Jay",
+          "country": "au",
+          "startNumber": "-"
+        }
+      ]
+    },
+    {
+      "image": "images/flags_iso/circles/be.png",
+      "name": "Belgium (NAT)",
+      "shortName": "belgium-2025",
+      "riders": [
+        {
+          "name": "CAMPENAERTS Victor",
+          "country": "be",
+          "startNumber": "-"
+        },
+        {
+          "name": "EVENEPOEL Remco",
+          "country": "be",
+          "startNumber": "-"
+        },
+        {
+          "name": "BENOOT Tiesj",
+          "country": "be",
+          "startNumber": "-"
+        },
+        {
+          "name": "VAN WILDER Ilan",
+          "country": "be",
+          "startNumber": "-"
+        }
+      ]
+    },
+    {
+      "image": "images/flags_iso/circles/dk.png",
+      "name": "Denmark (NAT)",
+      "shortName": "denmark-2025",
+      "riders": []
+    },
+    {
+      "image": "images/flags_iso/circles/ec.png",
+      "name": "Ecuador (NAT)",
+      "shortName": "ecuador-2025",
+      "riders": [
+        {
+          "name": "CARAPAZ Richard",
+          "country": "ec",
+          "startNumber": "-"
+        }
+      ]
+    },
+    {
+      "image": "images/flags_iso/circles/gb.png",
+      "name": "Great Britain (NAT)",
+      "shortName": "great-britain-2025",
+      "riders": [
+        {
+          "name": "PIDCOCK Thomas",
+          "country": "gb",
+          "startNumber": "-"
+        },
+        {
+          "name": "ONLEY Oscar",
+          "country": "gb",
+          "startNumber": "-"
+        }
+      ]
+    },
+    {
+      "image": "images/flags_iso/circles/ie.png",
+      "name": "Ireland (NAT)",
+      "shortName": "ireland-2025",
+      "riders": [
+        {
+          "name": "DUNBAR Eddie",
+          "country": "ie",
+          "startNumber": "-"
+        },
+        {
+          "name": "HEALY Ben",
+          "country": "ie",
+          "startNumber": "-"
+        },
+        {
+          "name": "RAFFERTY Darren",
+          "country": "ie",
+          "startNumber": "-"
+        },
+        {
+          "name": "RYAN Archie",
+          "country": "ie",
+          "startNumber": "-"
+        },
+        {
+          "name": "TOWNSEND Rory",
+          "country": "ie",
+          "startNumber": "-"
+        },
+        {
+          "name": "MULLEN Ryan",
+          "country": "ie",
+          "startNumber": "-"
+        }
+      ]
+    },
+    {
+      "image": "images/flags_iso/circles/nl.png",
+      "name": "Netherlands (NAT)",
+      "shortName": "netherlands-2025",
+      "riders": [
+        {
+          "name": "POELS Wout",
+          "country": "nl",
+          "startNumber": "-"
+        },
+        {
+          "name": "BOUWMAN Koen",
+          "country": "nl",
+          "startNumber": "-"
+        },
+        {
+          "name": "OOMEN Sam",
+          "country": "nl",
+          "startNumber": "-"
+        },
+        {
+          "name": "VAN DEN BROEK Frank",
+          "country": "nl",
+          "startNumber": "-"
+        },
+        {
+          "name": "MOLLEMA Bauke",
+          "country": "nl",
+          "startNumber": "-"
+        },
+        {
+          "name": "ARENSMAN Thymen",
+          "country": "nl",
+          "startNumber": "-"
+        }
+      ]
+    },
+    {
+      "image": "images/flags_iso/circles/no.png",
+      "name": "Norway (NAT)",
+      "shortName": "norway-2025",
+      "riders": [
+        {
+          "name": "LEKNESSUND Andreas",
+          "country": "no",
+          "startNumber": "-"
+        },
+        {
+          "name": "SVESTAD-BÅRDSENG Embret",
+          "country": "no",
+          "startNumber": "-"
+        },
+        {
+          "name": "STAUNE-MITTET Johannes",
+          "country": "no",
+          "startNumber": "-"
+        },
+        {
+          "name": "FOSS Tobias",
+          "country": "no",
+          "startNumber": "-"
+        }
+      ]
+    },
+    {
+      "image": "images/flags_iso/circles/si.png",
+      "name": "Slovenia (NAT)",
+      "shortName": "slovenia-2025",
+      "riders": [
+        {
+          "name": "POGAČAR Tadej",
+          "country": "si",
+          "startNumber": "-"
+        }
+      ]
+    },
+    {
+      "image": "images/flags_iso/circles/es.png",
+      "name": "Spain (NAT)",
+      "shortName": "spain-2025",
+      "riders": [
+        {
+          "name": "AYUSO Juan",
+          "country": "es",
+          "startNumber": "-"
+        }
+      ]
+    },
+    {
+      "image": "images/flags_iso/circles/ch.png",
+      "name": "Switzerland (NAT)",
+      "shortName": "switzerland-2025",
+      "riders": [
+        {
+          "name": "HIRSCHI Marc",
+          "country": "ch",
+          "startNumber": "-"
+        }
+      ]
+    },
+    {
+      "image": "images/flags_iso/circles/us.png",
+      "name": "United States (NAT)",
+      "shortName": "united-states-2025",
+      "riders": [
+        {
+          "name": "BARTA Will",
+          "country": "us",
+          "startNumber": "-"
+        },
+        {
+          "name": "LAMPERTI Luke",
+          "country": "us",
+          "startNumber": "-"
+        },
+        {
+          "name": "SHEFFIELD Magnus",
+          "country": "us",
+          "startNumber": "-"
+        },
+        {
+          "name": "SIMMONS Quinn",
+          "country": "us",
+          "startNumber": "-"
+        },
+        {
+          "name": "VERMAERKE Kevin",
+          "country": "us",
+          "startNumber": "-"
+        },
+        {
+          "name": "WARBASSE Larry",
+          "country": "us",
+          "startNumber": "-"
+        }
+      ]
+    },
+    {
+      "image": "images/flags_iso/circles/za.png",
+      "name": "South Africa (NAT)",
+      "shortName": "south-africa-2025",
+      "riders": [
+        {
+          "name": "MUNTON Byron",
+          "country": "za",
+          "startNumber": "-"
+        }
+      ]
+    }
+  ],
+  "scrapedAt": "2025-08-29T16:59:17.298Z"
+}
