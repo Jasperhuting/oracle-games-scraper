@@ -1,0 +1,5325 @@
+{
+  "race": "vuelta-a-espana",
+  "year": 2025,
+  "source": "https://www.procyclingstats.com/race/vuelta-a-espana/2025/stage-5",
+  "count": 1,
+  "stageResults": [
+    [
+      {
+        "place": 1,
+        "team": "UAE Team Emirates - XRGAlmeida JoãoSoler MarcBjerg MikkelAyuso JuanGroßschartner FelixOliveira IvoVine JayNovak Domen",
+        "shortName": "uae-team-emirates-xrg-2025",
+        "riders": [
+          {
+            "place": 1,
+            "firstName": "João",
+            "lastName": "Almeida"
+          },
+          {
+            "place": 1,
+            "firstName": "Marc",
+            "lastName": "Soler"
+          },
+          {
+            "place": 1,
+            "firstName": "Mikkel",
+            "lastName": "Bjerg"
+          },
+          {
+            "place": 1,
+            "firstName": "Juan",
+            "lastName": "Ayuso"
+          },
+          {
+            "place": 1,
+            "firstName": "Felix",
+            "lastName": "Großschartner"
+          },
+          {
+            "place": 1,
+            "firstName": "Ivo",
+            "lastName": "Oliveira"
+          },
+          {
+            "place": 1,
+            "firstName": "Jay",
+            "lastName": "Vine"
+          },
+          {
+            "place": 1,
+            "firstName": "Domen",
+            "lastName": "Novak"
+          }
+        ]
+      },
+      {
+        "place": 2,
+        "team": "Team Visma | Lease a BikeVingegaard JonasTulett BenJorgenson MatteoKelderman WilcoCampenaerts VictorKuss Seppvan Baarle Dylan",
+        "shortName": "team-visma-lease-a-bike-2025",
+        "riders": [
+          {
+            "place": 2,
+            "firstName": "Jonas",
+            "lastName": "Vingegaard"
+          },
+          {
+            "place": 2,
+            "firstName": "Ben",
+            "lastName": "Tulett"
+          },
+          {
+            "place": 2,
+            "firstName": "Matteo",
+            "lastName": "Jorgenson"
+          },
+          {
+            "place": 2,
+            "firstName": "Wilco",
+            "lastName": "Kelderman"
+          },
+          {
+            "place": 2,
+            "firstName": "Victor",
+            "lastName": "Campenaerts"
+          },
+          {
+            "place": 2,
+            "firstName": "Sepp",
+            "lastName": "Kuss"
+          },
+          {
+            "place": 2,
+            "firstName": "Dylan",
+            "lastName": "van Baarle"
+          }
+        ]
+      },
+      {
+        "place": 3,
+        "team": "Lidl - TrekPedersen MadsCiccone GiulioKragh Andersen SørenHoole DaanBagioli AndreaBernard JulienVerona CarlosGhebreigzabhier Amanuel",
+        "shortName": "lidl-trek-2025",
+        "riders": [
+          {
+            "place": 3,
+            "firstName": "Mads",
+            "lastName": "Pedersen"
+          },
+          {
+            "place": 3,
+            "firstName": "Giulio",
+            "lastName": "Ciccone"
+          },
+          {
+            "place": 3,
+            "firstName": "Søren",
+            "lastName": "Kragh Andersen"
+          },
+          {
+            "place": 3,
+            "firstName": "Daan",
+            "lastName": "Hoole"
+          },
+          {
+            "place": 3,
+            "firstName": "Andrea",
+            "lastName": "Bagioli"
+          },
+          {
+            "place": 3,
+            "firstName": "Julien",
+            "lastName": "Bernard"
+          },
+          {
+            "place": 3,
+            "firstName": "Carlos",
+            "lastName": "Verona"
+          },
+          {
+            "place": 3,
+            "firstName": "Amanuel",
+            "lastName": "Ghebreigzabhier"
+          }
+        ]
+      },
+      {
+        "place": 4,
+        "team": "Red Bull - BORA - hansgroheHindley JaiPellizzari GiulioAleotti GiovanniDenz NicoFisher-Black FinnZwiehoff Benvan Dijke TimSobrero Matteo",
+        "shortName": "red-bull-bora-hansgrohe-2025",
+        "riders": [
+          {
+            "place": 4,
+            "firstName": "Jai",
+            "lastName": "Hindley"
+          },
+          {
+            "place": 4,
+            "firstName": "Giulio",
+            "lastName": "Pellizzari"
+          },
+          {
+            "place": 4,
+            "firstName": "Giovanni",
+            "lastName": "Aleotti"
+          },
+          {
+            "place": 4,
+            "firstName": "Nico",
+            "lastName": "Denz"
+          },
+          {
+            "place": 4,
+            "firstName": "Finn",
+            "lastName": "Fisher-Black"
+          },
+          {
+            "place": 4,
+            "firstName": "Ben",
+            "lastName": "Zwiehoff"
+          },
+          {
+            "place": 4,
+            "firstName": "Tim",
+            "lastName": "van Dijke"
+          },
+          {
+            "place": 4,
+            "firstName": "Matteo",
+            "lastName": "Sobrero"
+          }
+        ]
+      },
+      {
+        "place": 5,
+        "team": "INEOS GrenadiersBernal EganGanna FilippoKwiatkowski MichałTurner BenRivera Brandon SmithSheffield MagnusJungels BobLangellotti Victor",
+        "shortName": "ineos-grenadiers-2025",
+        "riders": [
+          {
+            "place": 5,
+            "firstName": "Egan",
+            "lastName": "Bernal"
+          },
+          {
+            "place": 5,
+            "firstName": "Filippo",
+            "lastName": "Ganna"
+          },
+          {
+            "place": 5,
+            "firstName": "Michał",
+            "lastName": "Kwiatkowski"
+          },
+          {
+            "place": 5,
+            "firstName": "Ben",
+            "lastName": "Turner"
+          },
+          {
+            "place": 5,
+            "firstName": "Smith",
+            "lastName": "Rivera"
+          },
+          {
+            "place": 5,
+            "firstName": "Magnus",
+            "lastName": "Sheffield"
+          },
+          {
+            "place": 5,
+            "firstName": "Bob",
+            "lastName": "Jungels"
+          },
+          {
+            "place": 5,
+            "firstName": "Victor",
+            "lastName": "Langellotti"
+          }
+        ]
+      },
+      {
+        "place": 6,
+        "team": "Movistar TeamCastrillo PabloAular OrluisCepeda Jefferson AlveiroRomo JavierHessmann MichelCanal CarlosGarcía Cortina Iván",
+        "shortName": "movistar-team-2025",
+        "riders": [
+          {
+            "place": 6,
+            "firstName": "Pablo",
+            "lastName": "Castrillo"
+          },
+          {
+            "place": 6,
+            "firstName": "Orluis",
+            "lastName": "Aular"
+          },
+          {
+            "place": 6,
+            "firstName": "Alveiro",
+            "lastName": "Cepeda"
+          },
+          {
+            "place": 6,
+            "firstName": "Javier",
+            "lastName": "Romo"
+          },
+          {
+            "place": 6,
+            "firstName": "Michel",
+            "lastName": "Hessmann"
+          },
+          {
+            "place": 6,
+            "firstName": "Carlos",
+            "lastName": "Canal"
+          },
+          {
+            "place": 6,
+            "firstName": "Iván",
+            "lastName": "García Cortina"
+          }
+        ]
+      },
+      {
+        "place": 7,
+        "team": "Decathlon AG2R La Mondiale TeamBisiaux LéoGall FelixDe Pestel SanderArmirail BrunoScotson CallumStaune-Mittet JohannesLabrosse JordanPeters Nans",
+        "shortName": "decathlon-ag2r-la-mondiale-2025",
+        "riders": [
+          {
+            "place": 7,
+            "firstName": "Léo",
+            "lastName": "Bisiaux"
+          },
+          {
+            "place": 7,
+            "firstName": "Felix",
+            "lastName": "Gall"
+          },
+          {
+            "place": 7,
+            "firstName": "Sander",
+            "lastName": "De Pestel"
+          },
+          {
+            "place": 7,
+            "firstName": "Bruno",
+            "lastName": "Armirail"
+          },
+          {
+            "place": 7,
+            "firstName": "Callum",
+            "lastName": "Scotson"
+          },
+          {
+            "place": 7,
+            "firstName": "Johannes",
+            "lastName": "Staune-Mittet"
+          },
+          {
+            "place": 7,
+            "firstName": "Jordan",
+            "lastName": "Labrosse"
+          },
+          {
+            "place": 7,
+            "firstName": "Nans",
+            "lastName": "Peters"
+          }
+        ]
+      },
+      {
+        "place": 8,
+        "team": "Q36.5 Pro Cycling TeamPidcock Thomasde la Cruz DavidAzparren Xabier MikelHowson DamienZukowsky NickolasChristen FabioGonzález DavidCamprubí Marcel",
+        "shortName": "q365-pro-cycing-team-2025",
+        "riders": [
+          {
+            "place": 8,
+            "firstName": "Thomas",
+            "lastName": "Pidcock"
+          },
+          {
+            "place": 8,
+            "firstName": "David",
+            "lastName": "de la Cruz"
+          },
+          {
+            "place": 8,
+            "firstName": "Mikel",
+            "lastName": "Azparren"
+          },
+          {
+            "place": 8,
+            "firstName": "Damien",
+            "lastName": "Howson"
+          },
+          {
+            "place": 8,
+            "firstName": "Nickolas",
+            "lastName": "Zukowsky"
+          },
+          {
+            "place": 8,
+            "firstName": "Fabio",
+            "lastName": "Christen"
+          },
+          {
+            "place": 8,
+            "firstName": "David",
+            "lastName": "González"
+          },
+          {
+            "place": 8,
+            "firstName": "Marcel",
+            "lastName": "Camprubí"
+          }
+        ]
+      },
+      {
+        "place": 9,
+        "team": "Groupama - FDJGaudu DavidCavagna RémiGruel ThibaudKüng StefanMolard RudyRolland BrieucBraz Afonso Clément",
+        "shortName": "groupama-fdj-2025",
+        "riders": [
+          {
+            "place": 9,
+            "firstName": "David",
+            "lastName": "Gaudu"
+          },
+          {
+            "place": 9,
+            "firstName": "Rémi",
+            "lastName": "Cavagna"
+          },
+          {
+            "place": 9,
+            "firstName": "Thibaud",
+            "lastName": "Gruel"
+          },
+          {
+            "place": 9,
+            "firstName": "Stefan",
+            "lastName": "Küng"
+          },
+          {
+            "place": 9,
+            "firstName": "Rudy",
+            "lastName": "Molard"
+          },
+          {
+            "place": 9,
+            "firstName": "Brieuc",
+            "lastName": "Rolland"
+          },
+          {
+            "place": 9,
+            "firstName": "Clément",
+            "lastName": "Braz Afonso"
+          }
+        ]
+      },
+      {
+        "place": 10,
+        "team": "LottoSepúlveda EduardoSegaert AlecDe Buyst JasperCraps LarsGregaard JonasSlock LiamViviani EliaLivyns Arjen",
+        "shortName": "lotto-2025",
+        "riders": [
+          {
+            "place": 10,
+            "firstName": "Eduardo",
+            "lastName": "Sepúlveda"
+          },
+          {
+            "place": 10,
+            "firstName": "Alec",
+            "lastName": "Segaert"
+          },
+          {
+            "place": 10,
+            "firstName": "Jasper",
+            "lastName": "De Buyst"
+          },
+          {
+            "place": 10,
+            "firstName": "Lars",
+            "lastName": "Craps"
+          },
+          {
+            "place": 10,
+            "firstName": "Jonas",
+            "lastName": "Gregaard"
+          },
+          {
+            "place": 10,
+            "firstName": "Liam",
+            "lastName": "Slock"
+          },
+          {
+            "place": 10,
+            "firstName": "Elia",
+            "lastName": "Viviani"
+          },
+          {
+            "place": 10,
+            "firstName": "Arjen",
+            "lastName": "Livyns"
+          }
+        ]
+      },
+      {
+        "place": 11,
+        "team": "Bahrain - VictoriousTiberi AntonioTræen TorsteinBuitrago SantiagoErmakov RomanHaig JackPaasschens MathijsBuratti NicolòPickering Finlay",
+        "shortName": "bahrain-victorious-2025",
+        "riders": [
+          {
+            "place": 11,
+            "firstName": "Antonio",
+            "lastName": "Tiberi"
+          },
+          {
+            "place": 11,
+            "firstName": "Torstein",
+            "lastName": "Træen"
+          },
+          {
+            "place": 11,
+            "firstName": "Santiago",
+            "lastName": "Buitrago"
+          },
+          {
+            "place": 11,
+            "firstName": "Roman",
+            "lastName": "Ermakov"
+          },
+          {
+            "place": 11,
+            "firstName": "Jack",
+            "lastName": "Haig"
+          },
+          {
+            "place": 11,
+            "firstName": "Mathijs",
+            "lastName": "Paasschens"
+          },
+          {
+            "place": 11,
+            "firstName": "Nicolò",
+            "lastName": "Buratti"
+          },
+          {
+            "place": 11,
+            "firstName": "Finlay",
+            "lastName": "Pickering"
+          }
+        ]
+      },
+      {
+        "place": 12,
+        "team": "Arkéa - B&B HotelsBiermans JentheGarcía Pierna RaúlThierry PierreRodríguez CristiánVerre AlessandroGuernalec VictorRouland LouisLozouet Léandre",
+        "shortName": "arkea-b-b-hotels-2025",
+        "riders": [
+          {
+            "place": 12,
+            "firstName": "Jenthe",
+            "lastName": "Biermans"
+          },
+          {
+            "place": 12,
+            "firstName": "Raúl",
+            "lastName": "García Pierna"
+          },
+          {
+            "place": 12,
+            "firstName": "Pierre",
+            "lastName": "Thierry"
+          },
+          {
+            "place": 12,
+            "firstName": "Cristián",
+            "lastName": "Rodríguez"
+          },
+          {
+            "place": 12,
+            "firstName": "Alessandro",
+            "lastName": "Verre"
+          },
+          {
+            "place": 12,
+            "firstName": "Victor",
+            "lastName": "Guernalec"
+          },
+          {
+            "place": 12,
+            "firstName": "Louis",
+            "lastName": "Rouland"
+          },
+          {
+            "place": 12,
+            "firstName": "Léandre",
+            "lastName": "Lozouet"
+          }
+        ]
+      },
+      {
+        "place": 13,
+        "team": "Intermarché - WantyArtz HuubDe Pooter DriesMarit ArneMeintjes LouisPetilli SimoneSmith DionVan Boven LucaBonneu Kamiel",
+        "shortName": "intermarche-wanty-2025",
+        "riders": [
+          {
+            "place": 13,
+            "firstName": "Huub",
+            "lastName": "Artz"
+          },
+          {
+            "place": 13,
+            "firstName": "Dries",
+            "lastName": "De Pooter"
+          },
+          {
+            "place": 13,
+            "firstName": "Arne",
+            "lastName": "Marit"
+          },
+          {
+            "place": 13,
+            "firstName": "Louis",
+            "lastName": "Meintjes"
+          },
+          {
+            "place": 13,
+            "firstName": "Simone",
+            "lastName": "Petilli"
+          },
+          {
+            "place": 13,
+            "firstName": "Dion",
+            "lastName": "Smith"
+          },
+          {
+            "place": 13,
+            "firstName": "Luca",
+            "lastName": "Van Boven"
+          },
+          {
+            "place": 13,
+            "firstName": "Kamiel",
+            "lastName": "Bonneu"
+          }
+        ]
+      },
+      {
+        "place": 14,
+        "team": "Israel - Premier TechFrigo MarcoRiccitello MatthewVernon EthanStewart JakeCôté Pier-AndréRaisberg NadavHirt JanBennett George",
+        "shortName": "israel-premier-tech-2025",
+        "riders": [
+          {
+            "place": 14,
+            "firstName": "Marco",
+            "lastName": "Frigo"
+          },
+          {
+            "place": 14,
+            "firstName": "Matthew",
+            "lastName": "Riccitello"
+          },
+          {
+            "place": 14,
+            "firstName": "Ethan",
+            "lastName": "Vernon"
+          },
+          {
+            "place": 14,
+            "firstName": "Jake",
+            "lastName": "Stewart"
+          },
+          {
+            "place": 14,
+            "firstName": "Pier-André",
+            "lastName": "Côté"
+          },
+          {
+            "place": 14,
+            "firstName": "Nadav",
+            "lastName": "Raisberg"
+          },
+          {
+            "place": 14,
+            "firstName": "Jan",
+            "lastName": "Hirt"
+          },
+          {
+            "place": 14,
+            "firstName": "George",
+            "lastName": "Bennett"
+          }
+        ]
+      },
+      {
+        "place": 15,
+        "team": "EF Education - EasyPostBeloki MarkelChaves EstebanMihkels MadisNerurkar LukasShaw JamesQuinn Seanvan der Lee Jardi ChristiaanRyan Archie",
+        "shortName": "ef-education-easypost-2025",
+        "riders": [
+          {
+            "place": 15,
+            "firstName": "Markel",
+            "lastName": "Beloki"
+          },
+          {
+            "place": 15,
+            "firstName": "Esteban",
+            "lastName": "Chaves"
+          },
+          {
+            "place": 15,
+            "firstName": "Madis",
+            "lastName": "Mihkels"
+          },
+          {
+            "place": 15,
+            "firstName": "Lukas",
+            "lastName": "Nerurkar"
+          },
+          {
+            "place": 15,
+            "firstName": "James",
+            "lastName": "Shaw"
+          },
+          {
+            "place": 15,
+            "firstName": "Sean",
+            "lastName": "Quinn"
+          },
+          {
+            "place": 15,
+            "firstName": "Christiaan",
+            "lastName": "van der Lee"
+          },
+          {
+            "place": 15,
+            "firstName": "Archie",
+            "lastName": "Ryan"
+          }
+        ]
+      },
+      {
+        "place": 16,
+        "team": "Alpecin - DeceuninckPlanckaert EdwardPhilipsen JasperGlivar GalDebruyne RamsesRickaert JonasBayer TobiasVergallito LucaRiesebeek Oscar",
+        "shortName": "alpecin-deceuninck-2025",
+        "riders": [
+          {
+            "place": 16,
+            "firstName": "Edward",
+            "lastName": "Planckaert"
+          },
+          {
+            "place": 16,
+            "firstName": "Jasper",
+            "lastName": "Philipsen"
+          },
+          {
+            "place": 16,
+            "firstName": "Gal",
+            "lastName": "Glivar"
+          },
+          {
+            "place": 16,
+            "firstName": "Ramses",
+            "lastName": "Debruyne"
+          },
+          {
+            "place": 16,
+            "firstName": "Jonas",
+            "lastName": "Rickaert"
+          },
+          {
+            "place": 16,
+            "firstName": "Tobias",
+            "lastName": "Bayer"
+          },
+          {
+            "place": 16,
+            "firstName": "Luca",
+            "lastName": "Vergallito"
+          },
+          {
+            "place": 16,
+            "firstName": "Oscar",
+            "lastName": "Riesebeek"
+          }
+        ]
+      },
+      {
+        "place": 17,
+        "team": "Team Jayco AlUlaO'Connor BenHarper ChrisO'Brien KellandJuul-Jensen ChristopherDunbar EddieGamper PatrickFoldager AndersBouwman Koen",
+        "shortName": "team-jayco-alula-2025",
+        "riders": [
+          {
+            "place": 17,
+            "firstName": "Ben",
+            "lastName": "O'Connor"
+          },
+          {
+            "place": 17,
+            "firstName": "Chris",
+            "lastName": "Harper"
+          },
+          {
+            "place": 17,
+            "firstName": "Kelland",
+            "lastName": "O'Brien"
+          },
+          {
+            "place": 17,
+            "firstName": "Christopher",
+            "lastName": "Juul-Jensen"
+          },
+          {
+            "place": 17,
+            "firstName": "Eddie",
+            "lastName": "Dunbar"
+          },
+          {
+            "place": 17,
+            "firstName": "Patrick",
+            "lastName": "Gamper"
+          },
+          {
+            "place": 17,
+            "firstName": "Anders",
+            "lastName": "Foldager"
+          },
+          {
+            "place": 17,
+            "firstName": "Koen",
+            "lastName": "Bouwman"
+          }
+        ]
+      },
+      {
+        "place": 18,
+        "team": "Soudal Quick-StepLanda MikelVervaeke LouisLecerf JuniorSchachmann MaximilianGarofoli GianmarcoVansevenant MauriReinderink Pepijn",
+        "shortName": "soudal-quick-step-2025",
+        "riders": [
+          {
+            "place": 18,
+            "firstName": "Mikel",
+            "lastName": "Landa"
+          },
+          {
+            "place": 18,
+            "firstName": "Louis",
+            "lastName": "Vervaeke"
+          },
+          {
+            "place": 18,
+            "firstName": "Junior",
+            "lastName": "Lecerf"
+          },
+          {
+            "place": 18,
+            "firstName": "Maximilian",
+            "lastName": "Schachmann"
+          },
+          {
+            "place": 18,
+            "firstName": "Gianmarco",
+            "lastName": "Garofoli"
+          },
+          {
+            "place": 18,
+            "firstName": "Mauri",
+            "lastName": "Vansevenant"
+          },
+          {
+            "place": 18,
+            "firstName": "Pepijn",
+            "lastName": "Reinderink"
+          }
+        ]
+      },
+      {
+        "place": 19,
+        "team": "Team Picnic PostNLKoerdt BjornEddy PatrickHamilton ChrisVermaerke KevinMartinez Juan Guillermovan Uden CasperLeemreize GijsRoosen Timo",
+        "shortName": "team-picnic-postnl-2025",
+        "riders": [
+          {
+            "place": 19,
+            "firstName": "Bjorn",
+            "lastName": "Koerdt"
+          },
+          {
+            "place": 19,
+            "firstName": "Patrick",
+            "lastName": "Eddy"
+          },
+          {
+            "place": 19,
+            "firstName": "Chris",
+            "lastName": "Hamilton"
+          },
+          {
+            "place": 19,
+            "firstName": "Kevin",
+            "lastName": "Vermaerke"
+          },
+          {
+            "place": 19,
+            "firstName": "Guillermo",
+            "lastName": "Martinez"
+          },
+          {
+            "place": 19,
+            "firstName": "Casper",
+            "lastName": "van Uden"
+          },
+          {
+            "place": 19,
+            "firstName": "Gijs",
+            "lastName": "Leemreize"
+          },
+          {
+            "place": 19,
+            "firstName": "Timo",
+            "lastName": "Roosen"
+          }
+        ]
+      },
+      {
+        "place": 20,
+        "team": "CofidisAniołkowski StanisławCoquard BryanHerrada JesúsKnight OliverSamitier SergioOurselin PaulBuchmann EmanuelCarr Simon",
+        "shortName": "cofidis-2025",
+        "riders": [
+          {
+            "place": 20,
+            "firstName": "Stanisław",
+            "lastName": "Aniołkowski"
+          },
+          {
+            "place": 20,
+            "firstName": "Bryan",
+            "lastName": "Coquard"
+          },
+          {
+            "place": 20,
+            "firstName": "Jesús",
+            "lastName": "Herrada"
+          },
+          {
+            "place": 20,
+            "firstName": "Oliver",
+            "lastName": "Knight"
+          },
+          {
+            "place": 20,
+            "firstName": "Sergio",
+            "lastName": "Samitier"
+          },
+          {
+            "place": 20,
+            "firstName": "Paul",
+            "lastName": "Ourselin"
+          },
+          {
+            "place": 20,
+            "firstName": "Emanuel",
+            "lastName": "Buchmann"
+          },
+          {
+            "place": 20,
+            "firstName": "Simon",
+            "lastName": "Carr"
+          }
+        ]
+      },
+      {
+        "place": 21,
+        "team": "Caja Rural - Seguros RGASilva Guillermo ThomasOtruba JakubGuardeño JaumeBalderstone AbelMolenaar AlexBou JoanNicolau JoelBarceló Fernando",
+        "shortName": "caja-rural-seguros-rga-2025",
+        "riders": [
+          {
+            "place": 21,
+            "firstName": "Thomas",
+            "lastName": "Silva"
+          },
+          {
+            "place": 21,
+            "firstName": "Jakub",
+            "lastName": "Otruba"
+          },
+          {
+            "place": 21,
+            "firstName": "Jaume",
+            "lastName": "Guardeño"
+          },
+          {
+            "place": 21,
+            "firstName": "Abel",
+            "lastName": "Balderstone"
+          },
+          {
+            "place": 21,
+            "firstName": "Alex",
+            "lastName": "Molenaar"
+          },
+          {
+            "place": 21,
+            "firstName": "Joan",
+            "lastName": "Bou"
+          },
+          {
+            "place": 21,
+            "firstName": "Joel",
+            "lastName": "Nicolau"
+          },
+          {
+            "place": 21,
+            "firstName": "Fernando",
+            "lastName": "Barceló"
+          }
+        ]
+      },
+      {
+        "place": 22,
+        "team": "XDS Astana TeamFortunato LorenzoHiguita SergioLópez Harold MartínMasnada FaustoTejada HaroldConci NicolaPoels WoutVinokurov Nicolas",
+        "shortName": "xds-astana-team-2025",
+        "riders": [
+          {
+            "place": 22,
+            "firstName": "Lorenzo",
+            "lastName": "Fortunato"
+          },
+          {
+            "place": 22,
+            "firstName": "Sergio",
+            "lastName": "Higuita"
+          },
+          {
+            "place": 22,
+            "firstName": "Martín",
+            "lastName": "López"
+          },
+          {
+            "place": 22,
+            "firstName": "Fausto",
+            "lastName": "Masnada"
+          },
+          {
+            "place": 22,
+            "firstName": "Harold",
+            "lastName": "Tejada"
+          },
+          {
+            "place": 22,
+            "firstName": "Nicola",
+            "lastName": "Conci"
+          },
+          {
+            "place": 22,
+            "firstName": "Wout",
+            "lastName": "Poels"
+          },
+          {
+            "place": 22,
+            "firstName": "Nicolas",
+            "lastName": "Vinokurov"
+          }
+        ]
+      },
+      {
+        "place": 23,
+        "team": "Burgos Burpellet BHFagúndez Eric AntonioAparicio MarioFaura José LuisCavia Danielde la Calle HugoChumil Sergio GeovaniFernández Sinuhé",
+        "shortName": "burgos-burpellet-bh-2025",
+        "riders": [
+          {
+            "place": 23,
+            "firstName": "Antonio",
+            "lastName": "Fagúndez"
+          },
+          {
+            "place": 23,
+            "firstName": "Mario",
+            "lastName": "Aparicio"
+          },
+          {
+            "place": 23,
+            "firstName": "Luis",
+            "lastName": "Faura"
+          },
+          {
+            "place": 23,
+            "firstName": "Daniel",
+            "lastName": "Cavia"
+          },
+          {
+            "place": 23,
+            "firstName": "Hugo",
+            "lastName": "de la Calle"
+          },
+          {
+            "place": 23,
+            "firstName": "Geovani",
+            "lastName": "Chumil"
+          },
+          {
+            "place": 23,
+            "firstName": "Sinuhé",
+            "lastName": "Fernández"
+          }
+        ]
+      }
+    ]
+  ],
+  "generalClassification": [
+    {
+      "country": "dk",
+      "lastName": "Vingegaard",
+      "firstName": "Jonas",
+      "startNumber": "11",
+      "gc": "",
+      "place": 1,
+      "timeDifference": "",
+      "team": "Team Visma | Lease a Bike14″",
+      "shortName": "team-visma-lease-a-bike-2025",
+      "uciPoints": "20",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Ayuso",
+      "firstName": "Juan",
+      "startNumber": "2",
+      "gc": "",
+      "place": 2,
+      "timeDifference": "",
+      "team": "UAE Team Emirates - XRG",
+      "shortName": "uae-team-emirates-xrg-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "pt",
+      "lastName": "Almeida",
+      "firstName": "João",
+      "startNumber": "1",
+      "gc": "",
+      "place": 3,
+      "timeDifference": "",
+      "team": "UAE Team Emirates - XRG",
+      "shortName": "uae-team-emirates-xrg-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Soler",
+      "firstName": "Marc",
+      "startNumber": "7",
+      "gc": "",
+      "place": 4,
+      "timeDifference": "",
+      "team": "UAE Team Emirates - XRG",
+      "shortName": "uae-team-emirates-xrg-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "it",
+      "lastName": "Ciccone",
+      "firstName": "Giulio",
+      "startNumber": "23",
+      "gc": "",
+      "place": 5,
+      "timeDifference": "",
+      "team": "Lidl - Trek6″",
+      "shortName": "lidl-trek-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "fr",
+      "lastName": "Gaudu",
+      "firstName": "David",
+      "startNumber": "133",
+      "gc": "",
+      "place": 6,
+      "timeDifference": "",
+      "team": "Groupama - FDJ14″",
+      "shortName": "groupama-fdj-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "us",
+      "lastName": "Jorgenson",
+      "firstName": "Matteo",
+      "startNumber": "14",
+      "gc": "",
+      "place": 7,
+      "timeDifference": "",
+      "team": "Team Visma | Lease a Bike",
+      "shortName": "team-visma-lease-a-bike-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "au",
+      "lastName": "Hindley",
+      "firstName": "Jai",
+      "startNumber": "41",
+      "gc": "",
+      "place": 8,
+      "timeDifference": "",
+      "team": "Red Bull - BORA - hansgrohe",
+      "shortName": "red-bull-bora-hansgrohe-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "it",
+      "lastName": "Pellizzari",
+      "firstName": "Giulio",
+      "startNumber": "45",
+      "gc": "",
+      "place": 9,
+      "timeDifference": "",
+      "team": "Red Bull - BORA - hansgrohe",
+      "shortName": "red-bull-bora-hansgrohe-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "co",
+      "lastName": "Bernal",
+      "firstName": "Egan",
+      "startNumber": "62",
+      "gc": "",
+      "place": 10,
+      "timeDifference": "",
+      "team": "INEOS Grenadiers",
+      "shortName": "ineos-grenadiers-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "ec",
+      "lastName": "Cepeda",
+      "firstName": "Alveiro",
+      "startNumber": "35",
+      "gc": "",
+      "place": 11,
+      "timeDifference": "",
+      "team": "Movistar Team",
+      "shortName": "movistar-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "at",
+      "lastName": "Gall",
+      "firstName": "Felix",
+      "startNumber": "91",
+      "gc": "",
+      "place": 12,
+      "timeDifference": "",
+      "team": "Decathlon AG2R La Mondiale Team",
+      "shortName": "decathlon-ag2r-la-mondiale-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "gb",
+      "lastName": "Pidcock",
+      "firstName": "Thomas",
+      "startNumber": "111",
+      "gc": "",
+      "place": 13,
+      "timeDifference": "",
+      "team": "Q36.5 Pro Cycling Team",
+      "shortName": "q365-pro-cycing-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "co",
+      "lastName": "Buitrago",
+      "firstName": "Santiago",
+      "startNumber": "102",
+      "gc": "",
+      "place": 14,
+      "timeDifference": "",
+      "team": "Bahrain - Victorious",
+      "shortName": "bahrain-victorious-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "gb",
+      "lastName": "Tulett",
+      "firstName": "Ben",
+      "startNumber": "17",
+      "gc": "",
+      "place": 15,
+      "timeDifference": "",
+      "team": "Team Visma | Lease a Bike",
+      "shortName": "team-visma-lease-a-bike-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "it",
+      "lastName": "Frigo",
+      "firstName": "Marco",
+      "startNumber": "223",
+      "gc": "",
+      "place": 16,
+      "timeDifference": "",
+      "team": "Israel - Premier Tech",
+      "shortName": "israel-premier-tech-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "us",
+      "lastName": "Riccitello",
+      "firstName": "Matthew",
+      "startNumber": "228",
+      "gc": "",
+      "place": 17,
+      "timeDifference": "",
+      "team": "Israel - Premier Tech",
+      "shortName": "israel-premier-tech-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "nz",
+      "lastName": "Fisher-Black",
+      "firstName": "Finn",
+      "startNumber": "44",
+      "gc": "",
+      "place": 18,
+      "timeDifference": "",
+      "team": "Red Bull - BORA - hansgrohe",
+      "shortName": "red-bull-bora-hansgrohe-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "it",
+      "lastName": "Aleotti",
+      "firstName": "Giovanni",
+      "startNumber": "42",
+      "gc": "",
+      "place": 19,
+      "timeDifference": "",
+      "team": "Red Bull - BORA - hansgrohe",
+      "shortName": "red-bull-bora-hansgrohe-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "au",
+      "lastName": "O'Connor",
+      "firstName": "Ben",
+      "startNumber": "151",
+      "gc": "",
+      "place": 20,
+      "timeDifference": "",
+      "team": "Team Jayco AlUla",
+      "shortName": "team-jayco-alula-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Romo",
+      "firstName": "Javier",
+      "startNumber": "38",
+      "gc": "",
+      "place": 21,
+      "timeDifference": "",
+      "team": "Movistar Team",
+      "shortName": "movistar-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "Lecerf",
+      "firstName": "Junior",
+      "startNumber": "52",
+      "gc": "",
+      "place": 22,
+      "timeDifference": "",
+      "team": "Soudal Quick-Step",
+      "shortName": "soudal-quick-step-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Landa",
+      "firstName": "Mikel",
+      "startNumber": "51",
+      "gc": "",
+      "place": 23,
+      "timeDifference": "",
+      "team": "Soudal Quick-Step",
+      "shortName": "soudal-quick-step-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "fr",
+      "lastName": "Bisiaux",
+      "firstName": "Léo",
+      "startNumber": "93",
+      "gc": "",
+      "place": 24,
+      "timeDifference": "",
+      "team": "Decathlon AG2R La Mondiale Team",
+      "shortName": "decathlon-ag2r-la-mondiale-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "it",
+      "lastName": "Tiberi",
+      "firstName": "Antonio",
+      "startNumber": "101",
+      "gc": "",
+      "place": 25,
+      "timeDifference": "",
+      "team": "Bahrain - Victorious",
+      "shortName": "bahrain-victorious-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "no",
+      "lastName": "Træen",
+      "firstName": "Torstein",
+      "startNumber": "108",
+      "gc": "",
+      "place": 26,
+      "timeDifference": "",
+      "team": "Bahrain - Victorious",
+      "shortName": "bahrain-victorious-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "fr",
+      "lastName": "Armirail",
+      "firstName": "Bruno",
+      "startNumber": "92",
+      "gc": "",
+      "place": 27,
+      "timeDifference": "",
+      "team": "Decathlon AG2R La Mondiale Team",
+      "shortName": "decathlon-ag2r-la-mondiale-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Rodríguez",
+      "firstName": "Cristián",
+      "startNumber": "165",
+      "gc": "",
+      "place": 28,
+      "timeDifference": "",
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "us",
+      "lastName": "Kuss",
+      "firstName": "Sepp",
+      "startNumber": "16",
+      "gc": "",
+      "place": 29,
+      "timeDifference": "",
+      "team": "Team Visma | Lease a Bike",
+      "shortName": "team-visma-lease-a-bike-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "za",
+      "lastName": "Meintjes",
+      "firstName": "Louis",
+      "startNumber": "185",
+      "gc": "",
+      "place": 30,
+      "timeDifference": "",
+      "team": "Intermarché - Wanty",
+      "shortName": "intermarche-wanty-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "us",
+      "lastName": "Vermaerke",
+      "firstName": "Kevin",
+      "startNumber": "198",
+      "gc": "",
+      "place": 31,
+      "timeDifference": "",
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "ve",
+      "lastName": "Aular",
+      "firstName": "Orluis",
+      "startNumber": "32",
+      "gc": "",
+      "place": 32,
+      "timeDifference": "",
+      "team": "Movistar Team4″",
+      "shortName": "movistar-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "Vervaeke",
+      "firstName": "Louis",
+      "startNumber": "57",
+      "gc": "",
+      "place": 33,
+      "timeDifference": "",
+      "team": "Soudal Quick-Step",
+      "shortName": "soudal-quick-step-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Beloki",
+      "firstName": "Markel",
+      "startNumber": "82",
+      "gc": "",
+      "place": 34,
+      "timeDifference": "",
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "it",
+      "lastName": "Fortunato",
+      "firstName": "Lorenzo",
+      "startNumber": "123",
+      "gc": "",
+      "place": 35,
+      "timeDifference": "",
+      "team": "XDS Astana Team",
+      "shortName": "xds-astana-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "co",
+      "lastName": "Tejada",
+      "firstName": "Harold",
+      "startNumber": "121",
+      "gc": "",
+      "place": 36,
+      "timeDifference": "",
+      "team": "XDS Astana Team",
+      "shortName": "xds-astana-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "ec",
+      "lastName": "López",
+      "firstName": "Martín",
+      "startNumber": "125",
+      "gc": "",
+      "place": 37,
+      "timeDifference": "",
+      "team": "XDS Astana Team",
+      "shortName": "xds-astana-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "De Pestel",
+      "firstName": "Sander",
+      "startNumber": "94",
+      "gc": "",
+      "place": 38,
+      "timeDifference": "",
+      "team": "Decathlon AG2R La Mondiale Team",
+      "shortName": "decathlon-ag2r-la-mondiale-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "García Pierna",
+      "firstName": "Raúl",
+      "startNumber": "161",
+      "gc": "",
+      "place": 39,
+      "timeDifference": "",
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "uy",
+      "lastName": "Silva",
+      "firstName": "Thomas",
+      "startNumber": "141",
+      "gc": "",
+      "place": 40,
+      "timeDifference": "",
+      "team": "Caja Rural - Seguros RGA",
+      "shortName": "caja-rural-seguros-rga-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Balderstone",
+      "firstName": "Abel",
+      "startNumber": "142",
+      "gc": "",
+      "place": 41,
+      "timeDifference": "",
+      "team": "Caja Rural - Seguros RGA",
+      "shortName": "caja-rural-seguros-rga-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "de",
+      "lastName": "Schachmann",
+      "firstName": "Maximilian",
+      "startNumber": "55",
+      "gc": "",
+      "place": 42,
+      "timeDifference": "",
+      "team": "Soudal Quick-Step",
+      "shortName": "soudal-quick-step-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "au",
+      "lastName": "Harper",
+      "firstName": "Chris",
+      "startNumber": "156",
+      "gc": "",
+      "place": 43,
+      "timeDifference": "",
+      "team": "Team Jayco AlUla",
+      "shortName": "team-jayco-alula-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Samitier",
+      "firstName": "Sergio",
+      "startNumber": "172",
+      "gc": "",
+      "place": 44,
+      "timeDifference": "",
+      "team": "Cofidis",
+      "shortName": "cofidis-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "gt",
+      "lastName": "Chumil",
+      "firstName": "Geovani",
+      "startNumber": "212",
+      "gc": "",
+      "place": 45,
+      "timeDifference": "",
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Aparicio",
+      "firstName": "Mario",
+      "startNumber": "211",
+      "gc": "",
+      "place": 46,
+      "timeDifference": "",
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "fr",
+      "lastName": "Molard",
+      "firstName": "Rudy",
+      "startNumber": "136",
+      "gc": "",
+      "place": 47,
+      "timeDifference": "",
+      "team": "Groupama - FDJ",
+      "shortName": "groupama-fdj-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "nl",
+      "lastName": "Molenaar",
+      "firstName": "Alex",
+      "startNumber": "146",
+      "gc": "",
+      "place": 48,
+      "timeDifference": "",
+      "team": "Caja Rural - Seguros RGA",
+      "shortName": "caja-rural-seguros-rga-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "de la Cruz",
+      "firstName": "David",
+      "startNumber": "112",
+      "gc": "",
+      "place": 49,
+      "timeDifference": "",
+      "team": "Q36.5 Pro Cycling Team",
+      "shortName": "q365-pro-cycing-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "pl",
+      "lastName": "Kwiatkowski",
+      "firstName": "Michał",
+      "startNumber": "65",
+      "gc": "",
+      "place": 50,
+      "timeDifference": "",
+      "team": "INEOS Grenadiers",
+      "shortName": "ineos-grenadiers-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "co",
+      "lastName": "Higuita",
+      "firstName": "Sergio",
+      "startNumber": "124",
+      "gc": "",
+      "place": 51,
+      "timeDifference": "",
+      "team": "XDS Astana Team",
+      "shortName": "xds-astana-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "it",
+      "lastName": "Conci",
+      "firstName": "Nicola",
+      "startNumber": "122",
+      "gc": "",
+      "place": 52,
+      "timeDifference": "",
+      "team": "XDS Astana Team",
+      "shortName": "xds-astana-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "gb",
+      "lastName": "Nerurkar",
+      "firstName": "Lukas",
+      "startNumber": "84",
+      "gc": "",
+      "place": 53,
+      "timeDifference": "",
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "it",
+      "lastName": "Garofoli",
+      "firstName": "Gianmarco",
+      "startNumber": "58",
+      "gc": "",
+      "place": 54,
+      "timeDifference": "",
+      "team": "Soudal Quick-Step",
+      "shortName": "soudal-quick-step-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "gb",
+      "lastName": "Shaw",
+      "firstName": "James",
+      "startNumber": "87",
+      "gc": "",
+      "place": 55,
+      "timeDifference": "",
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "Vansevenant",
+      "firstName": "Mauri",
+      "startNumber": "56",
+      "gc": "",
+      "place": 56,
+      "timeDifference": "",
+      "team": "Soudal Quick-Step",
+      "shortName": "soudal-quick-step-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "fr",
+      "lastName": "Rolland",
+      "firstName": "Brieuc",
+      "startNumber": "137",
+      "gc": "",
+      "place": 57,
+      "timeDifference": "",
+      "team": "Groupama - FDJ",
+      "shortName": "groupama-fdj-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "it",
+      "lastName": "Masnada",
+      "firstName": "Fausto",
+      "startNumber": "126",
+      "gc": "",
+      "place": 58,
+      "timeDifference": "",
+      "team": "XDS Astana Team",
+      "shortName": "xds-astana-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "nl",
+      "lastName": "Poels",
+      "firstName": "Wout",
+      "startNumber": "127",
+      "gc": "",
+      "place": 59,
+      "timeDifference": "",
+      "team": "XDS Astana Team",
+      "shortName": "xds-astana-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "mc",
+      "lastName": "Langellotti",
+      "firstName": "Victor",
+      "startNumber": "66",
+      "gc": "",
+      "place": 60,
+      "timeDifference": "",
+      "team": "INEOS Grenadiers",
+      "shortName": "ineos-grenadiers-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "ie",
+      "lastName": "Ryan",
+      "firstName": "Archie",
+      "startNumber": "86",
+      "gc": "",
+      "place": 61,
+      "timeDifference": "",
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "de",
+      "lastName": "Zwiehoff",
+      "firstName": "Ben",
+      "startNumber": "48",
+      "gc": "",
+      "place": 62,
+      "timeDifference": "",
+      "team": "Red Bull - BORA - hansgrohe",
+      "shortName": "red-bull-bora-hansgrohe-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "fr",
+      "lastName": "Braz Afonso",
+      "firstName": "Clément",
+      "startNumber": "131",
+      "gc": "",
+      "place": 63,
+      "timeDifference": "",
+      "team": "Groupama - FDJ",
+      "shortName": "groupama-fdj-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Herrada",
+      "firstName": "Jesús",
+      "startNumber": "176",
+      "gc": "",
+      "place": 64,
+      "timeDifference": "",
+      "team": "Cofidis",
+      "shortName": "cofidis-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "au",
+      "lastName": "Scotson",
+      "firstName": "Callum",
+      "startNumber": "97",
+      "gc": "",
+      "place": 65,
+      "timeDifference": "",
+      "team": "Decathlon AG2R La Mondiale Team",
+      "shortName": "decathlon-ag2r-la-mondiale-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "co",
+      "lastName": "Rivera",
+      "firstName": "Smith",
+      "startNumber": "67",
+      "gc": "",
+      "place": 66,
+      "timeDifference": "",
+      "team": "INEOS Grenadiers",
+      "shortName": "ineos-grenadiers-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Canal",
+      "firstName": "Carlos",
+      "startNumber": "33",
+      "gc": "",
+      "place": 67,
+      "timeDifference": "",
+      "team": "Movistar Team",
+      "shortName": "movistar-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "it",
+      "lastName": "Bagioli",
+      "firstName": "Andrea",
+      "startNumber": "21",
+      "gc": "",
+      "place": 68,
+      "timeDifference": "",
+      "team": "Lidl - Trek",
+      "shortName": "lidl-trek-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Faura",
+      "firstName": "Luis",
+      "startNumber": "214",
+      "gc": "",
+      "place": 69,
+      "timeDifference": "",
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "fr",
+      "lastName": "Ourselin",
+      "firstName": "Paul",
+      "startNumber": "178",
+      "gc": "",
+      "place": 70,
+      "timeDifference": "",
+      "team": "Cofidis",
+      "shortName": "cofidis-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "fr",
+      "lastName": "Bernard",
+      "firstName": "Julien",
+      "startNumber": "22",
+      "gc": "",
+      "place": 71,
+      "timeDifference": "",
+      "team": "Lidl - Trek",
+      "shortName": "lidl-trek-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "no",
+      "lastName": "Staune-Mittet",
+      "firstName": "Johannes",
+      "startNumber": "98",
+      "gc": "",
+      "place": 72,
+      "timeDifference": "",
+      "team": "Decathlon AG2R La Mondiale Team",
+      "shortName": "decathlon-ag2r-la-mondiale-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "dk",
+      "lastName": "Pedersen",
+      "firstName": "Mads",
+      "startNumber": "27",
+      "gc": "",
+      "place": 73,
+      "timeDifference": "",
+      "team": "Lidl - Trek14″",
+      "shortName": "lidl-trek-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "it",
+      "lastName": "Sobrero",
+      "firstName": "Matteo",
+      "startNumber": "46",
+      "gc": "",
+      "place": 74,
+      "timeDifference": "",
+      "team": "Red Bull - BORA - hansgrohe",
+      "shortName": "red-bull-bora-hansgrohe-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "ca",
+      "lastName": "Côté",
+      "firstName": "Pier-André",
+      "startNumber": "222",
+      "gc": "",
+      "place": 75,
+      "timeDifference": "",
+      "team": "Israel - Premier Tech",
+      "shortName": "israel-premier-tech-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "au",
+      "lastName": "Howson",
+      "firstName": "Damien",
+      "startNumber": "115",
+      "gc": "",
+      "place": 76,
+      "timeDifference": "",
+      "team": "Q36.5 Pro Cycling Team",
+      "shortName": "q365-pro-cycing-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "fr",
+      "lastName": "Gruel",
+      "firstName": "Thibaud",
+      "startNumber": "134",
+      "gc": "",
+      "place": 77,
+      "timeDifference": "",
+      "team": "Groupama - FDJ",
+      "shortName": "groupama-fdj-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "ch",
+      "lastName": "Küng",
+      "firstName": "Stefan",
+      "startNumber": "138",
+      "gc": "",
+      "place": 78,
+      "timeDifference": "",
+      "team": "Groupama - FDJ",
+      "shortName": "groupama-fdj-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "Craps",
+      "firstName": "Lars",
+      "startNumber": "201",
+      "gc": "",
+      "place": 79,
+      "timeDifference": "",
+      "team": "Lotto",
+      "shortName": "lotto-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Guardeño",
+      "firstName": "Jaume",
+      "startNumber": "145",
+      "gc": "",
+      "place": 80,
+      "timeDifference": "",
+      "team": "Caja Rural - Seguros RGA",
+      "shortName": "caja-rural-seguros-rga-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "cz",
+      "lastName": "Hirt",
+      "firstName": "Jan",
+      "startNumber": "224",
+      "gc": "",
+      "place": 81,
+      "timeDifference": "",
+      "team": "Israel - Premier Tech",
+      "shortName": "israel-premier-tech-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "fr",
+      "lastName": "Labrosse",
+      "firstName": "Jordan",
+      "startNumber": "95",
+      "gc": "",
+      "place": 82,
+      "timeDifference": "",
+      "team": "Decathlon AG2R La Mondiale Team",
+      "shortName": "decathlon-ag2r-la-mondiale-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "nl",
+      "lastName": "Kelderman",
+      "firstName": "Wilco",
+      "startNumber": "15",
+      "gc": "",
+      "place": 83,
+      "timeDifference": "",
+      "team": "Team Visma | Lease a Bike",
+      "shortName": "team-visma-lease-a-bike-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "gb",
+      "lastName": "Carr",
+      "firstName": "Simon",
+      "startNumber": "174",
+      "gc": "",
+      "place": 84,
+      "timeDifference": "",
+      "team": "Cofidis",
+      "shortName": "cofidis-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "gb",
+      "lastName": "Pickering",
+      "firstName": "Finlay",
+      "startNumber": "107",
+      "gc": "",
+      "place": 85,
+      "timeDifference": "",
+      "team": "Bahrain - Victorious",
+      "shortName": "bahrain-victorious-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "Campenaerts",
+      "firstName": "Victor",
+      "startNumber": "13",
+      "gc": "",
+      "place": 86,
+      "timeDifference": "",
+      "team": "Team Visma | Lease a Bike",
+      "shortName": "team-visma-lease-a-bike-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "uy",
+      "lastName": "Fagúndez",
+      "firstName": "Antonio",
+      "startNumber": "213",
+      "gc": "",
+      "place": 87,
+      "timeDifference": "",
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "fr",
+      "lastName": "Peters",
+      "firstName": "Nans",
+      "startNumber": "96",
+      "gc": "",
+      "place": 88,
+      "timeDifference": "",
+      "team": "Decathlon AG2R La Mondiale Team",
+      "shortName": "decathlon-ag2r-la-mondiale-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "ru",
+      "lastName": "Ermakov",
+      "firstName": "Roman",
+      "startNumber": "104",
+      "gc": "",
+      "place": 89,
+      "timeDifference": "",
+      "team": "Bahrain - Victorious",
+      "shortName": "bahrain-victorious-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "de",
+      "lastName": "Buchmann",
+      "firstName": "Emanuel",
+      "startNumber": "171",
+      "gc": "",
+      "place": 90,
+      "timeDifference": "",
+      "team": "Cofidis",
+      "shortName": "cofidis-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "de la Calle",
+      "firstName": "Hugo",
+      "startNumber": "215",
+      "gc": "",
+      "place": 91,
+      "timeDifference": "",
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "De Pooter",
+      "firstName": "Dries",
+      "startNumber": "183",
+      "gc": "",
+      "place": 92,
+      "timeDifference": "",
+      "team": "Intermarché - Wanty",
+      "shortName": "intermarche-wanty-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "de",
+      "lastName": "Hessmann",
+      "firstName": "Michel",
+      "startNumber": "37",
+      "gc": "",
+      "place": 93,
+      "timeDifference": "",
+      "team": "Movistar Team",
+      "shortName": "movistar-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "us",
+      "lastName": "Sheffield",
+      "firstName": "Magnus",
+      "startNumber": "61",
+      "gc": "",
+      "place": 94,
+      "timeDifference": "",
+      "team": "INEOS Grenadiers",
+      "shortName": "ineos-grenadiers-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "gb",
+      "lastName": "Koerdt",
+      "firstName": "Bjorn",
+      "startNumber": "193",
+      "gc": "",
+      "place": 95,
+      "timeDifference": "",
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "lu",
+      "lastName": "Jungels",
+      "firstName": "Bob",
+      "startNumber": "64",
+      "gc": "",
+      "place": 96,
+      "timeDifference": "",
+      "team": "INEOS Grenadiers",
+      "shortName": "ineos-grenadiers-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "it",
+      "lastName": "Verre",
+      "firstName": "Alessandro",
+      "startNumber": "167",
+      "gc": "",
+      "place": 97,
+      "timeDifference": "",
+      "team": "Arkéa - B&B Hotels4″",
+      "shortName": "arkea-b-b-hotels-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "Bonneu",
+      "firstName": "Kamiel",
+      "startNumber": "182",
+      "gc": "",
+      "place": 98,
+      "timeDifference": "",
+      "team": "Intermarché - Wanty",
+      "shortName": "intermarche-wanty-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "Rickaert",
+      "firstName": "Jonas",
+      "startNumber": "76",
+      "gc": "",
+      "place": 99,
+      "timeDifference": "",
+      "team": "Alpecin - Deceuninck",
+      "shortName": "alpecin-deceuninck-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "nl",
+      "lastName": "Leemreize",
+      "firstName": "Gijs",
+      "startNumber": "194",
+      "gc": "",
+      "place": 100,
+      "timeDifference": "",
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "fr",
+      "lastName": "Thierry",
+      "firstName": "Pierre",
+      "startNumber": "168",
+      "gc": "",
+      "place": 101,
+      "timeDifference": "",
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "fr",
+      "lastName": "Cavagna",
+      "firstName": "Rémi",
+      "startNumber": "132",
+      "gc": "",
+      "place": 102,
+      "timeDifference": "",
+      "team": "Groupama - FDJ",
+      "shortName": "groupama-fdj-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "au",
+      "lastName": "Hamilton",
+      "firstName": "Chris",
+      "startNumber": "192",
+      "gc": "",
+      "place": 103,
+      "timeDifference": "",
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "fr",
+      "lastName": "Coquard",
+      "firstName": "Bryan",
+      "startNumber": "175",
+      "gc": "",
+      "place": 104,
+      "timeDifference": "",
+      "team": "Cofidis",
+      "shortName": "cofidis-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "fr",
+      "lastName": "Lozouet",
+      "firstName": "Léandre",
+      "startNumber": "164",
+      "gc": "",
+      "place": 105,
+      "timeDifference": "",
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "at",
+      "lastName": "Gamper",
+      "firstName": "Patrick",
+      "startNumber": "155",
+      "gc": "",
+      "place": 106,
+      "timeDifference": "",
+      "team": "Team Jayco AlUla",
+      "shortName": "team-jayco-alula-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "au",
+      "lastName": "O'Brien",
+      "firstName": "Kelland",
+      "startNumber": "158",
+      "gc": "",
+      "place": 107,
+      "timeDifference": "",
+      "team": "Team Jayco AlUla",
+      "shortName": "team-jayco-alula-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "au",
+      "lastName": "Haig",
+      "firstName": "Jack",
+      "startNumber": "105",
+      "gc": "",
+      "place": 108,
+      "timeDifference": "",
+      "team": "Bahrain - Victorious",
+      "shortName": "bahrain-victorious-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "at",
+      "lastName": "Großschartner",
+      "firstName": "Felix",
+      "startNumber": "4",
+      "gc": "",
+      "place": 109,
+      "timeDifference": "",
+      "team": "UAE Team Emirates - XRG",
+      "shortName": "uae-team-emirates-xrg-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "ar",
+      "lastName": "Sepúlveda",
+      "firstName": "Eduardo",
+      "startNumber": "205",
+      "gc": "",
+      "place": 110,
+      "timeDifference": "",
+      "team": "Lotto",
+      "shortName": "lotto-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "Planckaert",
+      "firstName": "Edward",
+      "startNumber": "75",
+      "gc": "",
+      "place": 111,
+      "timeDifference": "",
+      "team": "Alpecin - Deceuninck4″",
+      "shortName": "alpecin-deceuninck-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "co",
+      "lastName": "Chaves",
+      "firstName": "Esteban",
+      "startNumber": "81",
+      "gc": "",
+      "place": 112,
+      "timeDifference": "",
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "gb",
+      "lastName": "Turner",
+      "firstName": "Ben",
+      "startNumber": "68",
+      "gc": "",
+      "place": 113,
+      "timeDifference": "",
+      "team": "INEOS Grenadiers10″",
+      "shortName": "ineos-grenadiers-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "gb",
+      "lastName": "Vernon",
+      "firstName": "Ethan",
+      "startNumber": "227",
+      "gc": "",
+      "place": 114,
+      "timeDifference": "",
+      "team": "Israel - Premier Tech10″",
+      "shortName": "israel-premier-tech-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "García Cortina",
+      "firstName": "Iván",
+      "startNumber": "36",
+      "gc": "",
+      "place": 115,
+      "timeDifference": "",
+      "team": "Movistar Team",
+      "shortName": "movistar-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "co",
+      "lastName": "Martinez",
+      "firstName": "Guillermo",
+      "startNumber": "195",
+      "gc": "",
+      "place": 116,
+      "timeDifference": "",
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "pt",
+      "lastName": "Oliveira",
+      "firstName": "Ivo",
+      "startNumber": "6",
+      "gc": "",
+      "place": 117,
+      "timeDifference": "",
+      "team": "UAE Team Emirates - XRG",
+      "shortName": "uae-team-emirates-xrg-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "it",
+      "lastName": "Ganna",
+      "firstName": "Filippo",
+      "startNumber": "63",
+      "gc": "",
+      "place": 118,
+      "timeDifference": "",
+      "team": "INEOS Grenadiers",
+      "shortName": "ineos-grenadiers-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Castrillo",
+      "firstName": "Pablo",
+      "startNumber": "34",
+      "gc": "",
+      "place": 119,
+      "timeDifference": "",
+      "team": "Movistar Team",
+      "shortName": "movistar-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "dk",
+      "lastName": "Gregaard",
+      "firstName": "Jonas",
+      "startNumber": "208",
+      "gc": "",
+      "place": 120,
+      "timeDifference": "",
+      "team": "Lotto",
+      "shortName": "lotto-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "ee",
+      "lastName": "Mihkels",
+      "firstName": "Madis",
+      "startNumber": "83",
+      "gc": "",
+      "place": 121,
+      "timeDifference": "",
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "ch",
+      "lastName": "Christen",
+      "firstName": "Fabio",
+      "startNumber": "114",
+      "gc": "",
+      "place": 122,
+      "timeDifference": "",
+      "team": "Q36.5 Pro Cycling Team",
+      "shortName": "q365-pro-cycing-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "dk",
+      "lastName": "Kragh Andersen",
+      "firstName": "Søren",
+      "startNumber": "26",
+      "gc": "",
+      "place": 123,
+      "timeDifference": "",
+      "team": "Lidl - Trek",
+      "shortName": "lidl-trek-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "gb",
+      "lastName": "Stewart",
+      "firstName": "Jake",
+      "startNumber": "226",
+      "gc": "",
+      "place": 124,
+      "timeDifference": "",
+      "team": "Israel - Premier Tech2″",
+      "shortName": "israel-premier-tech-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "it",
+      "lastName": "Buratti",
+      "firstName": "Nicolò",
+      "startNumber": "103",
+      "gc": "",
+      "place": 125,
+      "timeDifference": "",
+      "team": "Bahrain - Victorious",
+      "shortName": "bahrain-victorious-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "González",
+      "firstName": "David",
+      "startNumber": "117",
+      "gc": "",
+      "place": 126,
+      "timeDifference": "",
+      "team": "Q36.5 Pro Cycling Team",
+      "shortName": "q365-pro-cycing-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "Segaert",
+      "firstName": "Alec",
+      "startNumber": "204",
+      "gc": "",
+      "place": 127,
+      "timeDifference": "",
+      "team": "Lotto",
+      "shortName": "lotto-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "ie",
+      "lastName": "Dunbar",
+      "firstName": "Eddie",
+      "startNumber": "153",
+      "gc": "",
+      "place": 128,
+      "timeDifference": "",
+      "team": "Team Jayco AlUla",
+      "shortName": "team-jayco-alula-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Camprubí",
+      "firstName": "Marcel",
+      "startNumber": "118",
+      "gc": "",
+      "place": 129,
+      "timeDifference": "",
+      "team": "Q36.5 Pro Cycling Team",
+      "shortName": "q365-pro-cycing-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "il",
+      "lastName": "Raisberg",
+      "firstName": "Nadav",
+      "startNumber": "225",
+      "gc": "",
+      "place": 130,
+      "timeDifference": "",
+      "team": "Israel - Premier Tech",
+      "shortName": "israel-premier-tech-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "Livyns",
+      "firstName": "Arjen",
+      "startNumber": "203",
+      "gc": "",
+      "place": 131,
+      "timeDifference": "",
+      "team": "Lotto",
+      "shortName": "lotto-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "gb",
+      "lastName": "Knight",
+      "firstName": "Oliver",
+      "startNumber": "177",
+      "gc": "",
+      "place": 132,
+      "timeDifference": "",
+      "team": "Cofidis",
+      "shortName": "cofidis-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "nl",
+      "lastName": "van Baarle",
+      "firstName": "Dylan",
+      "startNumber": "18",
+      "gc": "",
+      "place": 133,
+      "timeDifference": "",
+      "team": "Team Visma | Lease a Bike",
+      "shortName": "team-visma-lease-a-bike-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "De Buyst",
+      "firstName": "Jasper",
+      "startNumber": "202",
+      "gc": "",
+      "place": 134,
+      "timeDifference": "",
+      "team": "Lotto",
+      "shortName": "lotto-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "us",
+      "lastName": "Quinn",
+      "firstName": "Sean",
+      "startNumber": "85",
+      "gc": "",
+      "place": 135,
+      "timeDifference": "",
+      "team": "EF Education - EasyPost6″",
+      "shortName": "ef-education-easypost-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Barceló",
+      "firstName": "Fernando",
+      "startNumber": "143",
+      "gc": "",
+      "place": 136,
+      "timeDifference": "",
+      "team": "Caja Rural - Seguros RGA",
+      "shortName": "caja-rural-seguros-rga-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "nl",
+      "lastName": "Paasschens",
+      "firstName": "Mathijs",
+      "startNumber": "106",
+      "gc": "",
+      "place": 137,
+      "timeDifference": "",
+      "team": "Bahrain - Victorious",
+      "shortName": "bahrain-victorious-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "Philipsen",
+      "firstName": "Jasper",
+      "startNumber": "71",
+      "gc": "",
+      "place": 138,
+      "timeDifference": "",
+      "team": "Alpecin - Deceuninck16″",
+      "shortName": "alpecin-deceuninck-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "de",
+      "lastName": "Denz",
+      "firstName": "Nico",
+      "startNumber": "43",
+      "gc": "",
+      "place": 139,
+      "timeDifference": "",
+      "team": "Red Bull - BORA - hansgrohe",
+      "shortName": "red-bull-bora-hansgrohe-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "it",
+      "lastName": "Petilli",
+      "firstName": "Simone",
+      "startNumber": "186",
+      "gc": "",
+      "place": 140,
+      "timeDifference": "",
+      "team": "Intermarché - Wanty",
+      "shortName": "intermarche-wanty-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "fr",
+      "lastName": "Rouland",
+      "firstName": "Louis",
+      "startNumber": "166",
+      "gc": "",
+      "place": 141,
+      "timeDifference": "",
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "at",
+      "lastName": "Bayer",
+      "firstName": "Tobias",
+      "startNumber": "72",
+      "gc": "",
+      "place": 142,
+      "timeDifference": "",
+      "team": "Alpecin - Deceuninck",
+      "shortName": "alpecin-deceuninck-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "nz",
+      "lastName": "Bennett",
+      "firstName": "George",
+      "startNumber": "221",
+      "gc": "",
+      "place": 143,
+      "timeDifference": "",
+      "team": "Israel - Premier Tech",
+      "shortName": "israel-premier-tech-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Verona",
+      "firstName": "Carlos",
+      "startNumber": "28",
+      "gc": "",
+      "place": 144,
+      "timeDifference": "",
+      "team": "Lidl - Trek",
+      "shortName": "lidl-trek-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "kz",
+      "lastName": "Vinokurov",
+      "firstName": "Nicolas",
+      "startNumber": "128",
+      "gc": "",
+      "place": 145,
+      "timeDifference": "",
+      "team": "XDS Astana Team4″",
+      "shortName": "xds-astana-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "fr",
+      "lastName": "Guernalec",
+      "firstName": "Victor",
+      "startNumber": "163",
+      "gc": "",
+      "place": 146,
+      "timeDifference": "",
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "Biermans",
+      "firstName": "Jenthe",
+      "startNumber": "162",
+      "gc": "",
+      "place": 147,
+      "timeDifference": "",
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "cz",
+      "lastName": "Otruba",
+      "firstName": "Jakub",
+      "startNumber": "148",
+      "gc": "",
+      "place": 148,
+      "timeDifference": "",
+      "team": "Caja Rural - Seguros RGA4″",
+      "shortName": "caja-rural-seguros-rga-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "nz",
+      "lastName": "Smith",
+      "firstName": "Dion",
+      "startNumber": "187",
+      "gc": "",
+      "place": 149,
+      "timeDifference": "",
+      "team": "Intermarché - Wanty",
+      "shortName": "intermarche-wanty-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Bou",
+      "firstName": "Joan",
+      "startNumber": "144",
+      "gc": "",
+      "place": 150,
+      "timeDifference": "",
+      "team": "Caja Rural - Seguros RGA",
+      "shortName": "caja-rural-seguros-rga-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "au",
+      "lastName": "Vine",
+      "firstName": "Jay",
+      "startNumber": "8",
+      "gc": "",
+      "place": 151,
+      "timeDifference": "",
+      "team": "UAE Team Emirates - XRG",
+      "shortName": "uae-team-emirates-xrg-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "Debruyne",
+      "firstName": "Ramses",
+      "startNumber": "73",
+      "gc": "",
+      "place": 152,
+      "timeDifference": "",
+      "team": "Alpecin - Deceuninck",
+      "shortName": "alpecin-deceuninck-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "si",
+      "lastName": "Glivar",
+      "firstName": "Gal",
+      "startNumber": "74",
+      "gc": "",
+      "place": 153,
+      "timeDifference": "",
+      "team": "Alpecin - Deceuninck",
+      "shortName": "alpecin-deceuninck-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "Van Boven",
+      "firstName": "Luca",
+      "startNumber": "188",
+      "gc": "",
+      "place": 154,
+      "timeDifference": "",
+      "team": "Intermarché - Wanty",
+      "shortName": "intermarche-wanty-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "dk",
+      "lastName": "Bjerg",
+      "firstName": "Mikkel",
+      "startNumber": "3",
+      "gc": "",
+      "place": 155,
+      "timeDifference": "",
+      "team": "UAE Team Emirates - XRG",
+      "shortName": "uae-team-emirates-xrg-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Nicolau",
+      "firstName": "Joel",
+      "startNumber": "147",
+      "gc": "",
+      "place": 156,
+      "timeDifference": "",
+      "team": "Caja Rural - Seguros RGA",
+      "shortName": "caja-rural-seguros-rga-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "dk",
+      "lastName": "Juul-Jensen",
+      "firstName": "Christopher",
+      "startNumber": "157",
+      "gc": "",
+      "place": 157,
+      "timeDifference": "",
+      "team": "Team Jayco AlUla",
+      "shortName": "team-jayco-alula-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "nl",
+      "lastName": "Hoole",
+      "firstName": "Daan",
+      "startNumber": "25",
+      "gc": "",
+      "place": 158,
+      "timeDifference": "",
+      "team": "Lidl - Trek",
+      "shortName": "lidl-trek-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "nl",
+      "lastName": "Reinderink",
+      "firstName": "Pepijn",
+      "startNumber": "54",
+      "gc": "",
+      "place": 159,
+      "timeDifference": "",
+      "team": "Soudal Quick-Step6″",
+      "shortName": "soudal-quick-step-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "Marit",
+      "firstName": "Arne",
+      "startNumber": "184",
+      "gc": "",
+      "place": 160,
+      "timeDifference": "",
+      "team": "Intermarché - Wanty",
+      "shortName": "intermarche-wanty-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "au",
+      "lastName": "Eddy",
+      "firstName": "Patrick",
+      "startNumber": "191",
+      "gc": "",
+      "place": 161,
+      "timeDifference": "",
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "it",
+      "lastName": "Vergallito",
+      "firstName": "Luca",
+      "startNumber": "78",
+      "gc": "",
+      "place": 162,
+      "timeDifference": "",
+      "team": "Alpecin - Deceuninck",
+      "shortName": "alpecin-deceuninck-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "pl",
+      "lastName": "Aniołkowski",
+      "firstName": "Stanisław",
+      "startNumber": "173",
+      "gc": "",
+      "place": 163,
+      "timeDifference": "",
+      "team": "Cofidis",
+      "shortName": "cofidis-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "nl",
+      "lastName": "Roosen",
+      "firstName": "Timo",
+      "startNumber": "196",
+      "gc": "",
+      "place": 164,
+      "timeDifference": "",
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "nl",
+      "lastName": "van Uden",
+      "firstName": "Casper",
+      "startNumber": "197",
+      "gc": "",
+      "place": 165,
+      "timeDifference": "",
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "nl",
+      "lastName": "Artz",
+      "firstName": "Huub",
+      "startNumber": "181",
+      "gc": "",
+      "place": 166,
+      "timeDifference": "",
+      "team": "Intermarché - Wanty",
+      "shortName": "intermarche-wanty-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "dk",
+      "lastName": "Foldager",
+      "firstName": "Anders",
+      "startNumber": "154",
+      "gc": "",
+      "place": 167,
+      "timeDifference": "",
+      "team": "Team Jayco AlUla",
+      "shortName": "team-jayco-alula-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "nl",
+      "lastName": "van der Lee",
+      "firstName": "Christiaan",
+      "startNumber": "88",
+      "gc": "",
+      "place": 168,
+      "timeDifference": "",
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Cavia",
+      "firstName": "Daniel",
+      "startNumber": "218",
+      "gc": "",
+      "place": 169,
+      "timeDifference": "",
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "nl",
+      "lastName": "Bouwman",
+      "firstName": "Koen",
+      "startNumber": "152",
+      "gc": "",
+      "place": 170,
+      "timeDifference": "",
+      "team": "Team Jayco AlUla2″",
+      "shortName": "team-jayco-alula-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Fernández",
+      "firstName": "Sinuhé",
+      "startNumber": "217",
+      "gc": "",
+      "place": 171,
+      "timeDifference": "",
+      "team": "Burgos Burpellet BH2″",
+      "shortName": "burgos-burpellet-bh-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "er",
+      "lastName": "Ghebreigzabhier",
+      "firstName": "Amanuel",
+      "startNumber": "24",
+      "gc": "",
+      "place": 172,
+      "timeDifference": "",
+      "team": "Lidl - Trek",
+      "shortName": "lidl-trek-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "it",
+      "lastName": "Viviani",
+      "firstName": "Elia",
+      "startNumber": "207",
+      "gc": "",
+      "place": 173,
+      "timeDifference": "",
+      "team": "Lotto",
+      "shortName": "lotto-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "nl",
+      "lastName": "van Dijke",
+      "firstName": "Tim",
+      "startNumber": "47",
+      "gc": "",
+      "place": 174,
+      "timeDifference": "",
+      "team": "Red Bull - BORA - hansgrohe",
+      "shortName": "red-bull-bora-hansgrohe-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "si",
+      "lastName": "Novak",
+      "firstName": "Domen",
+      "startNumber": "5",
+      "gc": "",
+      "place": 175,
+      "timeDifference": "",
+      "team": "UAE Team Emirates - XRG",
+      "shortName": "uae-team-emirates-xrg-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "ca",
+      "lastName": "Zukowsky",
+      "firstName": "Nickolas",
+      "startNumber": "116",
+      "gc": "",
+      "place": 176,
+      "timeDifference": "",
+      "team": "Q36.5 Pro Cycling Team",
+      "shortName": "q365-pro-cycing-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "be",
+      "lastName": "Slock",
+      "firstName": "Liam",
+      "startNumber": "206",
+      "gc": "",
+      "place": 177,
+      "timeDifference": "",
+      "team": "Lotto6″",
+      "shortName": "lotto-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "es",
+      "lastName": "Azparren",
+      "firstName": "Mikel",
+      "startNumber": "113",
+      "gc": "",
+      "place": 178,
+      "timeDifference": "",
+      "team": "Q36.5 Pro Cycling Team",
+      "shortName": "q365-pro-cycing-team-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    },
+    {
+      "country": "nl",
+      "lastName": "Riesebeek",
+      "firstName": "Oscar",
+      "startNumber": "77",
+      "gc": "",
+      "place": 179,
+      "timeDifference": "",
+      "team": "Alpecin - Deceuninck",
+      "shortName": "alpecin-deceuninck-2025",
+      "uciPoints": "",
+      "points": "",
+      "qualificationTime": ""
+    }
+  ],
+  "pointsClassification": [
+    {
+      "place": 1,
+      "rider": "Pedersen",
+      "team": "Lidl - Trek",
+      "pointsTotal": 78,
+      "points": null
+    },
+    {
+      "place": 2,
+      "rider": "Vernon",
+      "team": "Israel - Premier Tech",
+      "pointsTotal": 76,
+      "points": null
+    },
+    {
+      "place": 3,
+      "rider": "Philipsen",
+      "team": "Alpecin - Deceuninck",
+      "pointsTotal": 75,
+      "points": null
+    },
+    {
+      "place": 4,
+      "rider": "Ciccone",
+      "team": "Lidl - Trek",
+      "pointsTotal": 67,
+      "points": null
+    },
+    {
+      "place": 5,
+      "rider": "Vingegaard",
+      "team": "Team Visma | Lease a Bike",
+      "pointsTotal": 65,
+      "points": null
+    },
+    {
+      "place": 6,
+      "rider": "Gaudu",
+      "team": "Groupama - FDJ",
+      "pointsTotal": 62,
+      "points": null
+    },
+    {
+      "place": 7,
+      "rider": "Aular",
+      "team": "Movistar Team",
+      "pointsTotal": 46,
+      "points": null
+    },
+    {
+      "place": 8,
+      "rider": "Turner",
+      "team": "INEOS Grenadiers",
+      "pointsTotal": 35,
+      "points": null
+    },
+    {
+      "place": 9,
+      "rider": "Bernal",
+      "team": "INEOS Grenadiers",
+      "pointsTotal": 30,
+      "points": null
+    },
+    {
+      "place": 10,
+      "rider": "Planckaert",
+      "team": "Alpecin - Deceuninck",
+      "pointsTotal": 29,
+      "points": null
+    },
+    {
+      "place": 11,
+      "rider": "Quinn",
+      "team": "EF Education - EasyPost",
+      "pointsTotal": 20,
+      "points": null
+    },
+    {
+      "place": 12,
+      "rider": "Reinderink",
+      "team": "Soudal Quick-Step",
+      "pointsTotal": 20,
+      "points": null
+    },
+    {
+      "place": 13,
+      "rider": "Slock",
+      "team": "Lotto",
+      "pointsTotal": 20,
+      "points": null
+    },
+    {
+      "place": 14,
+      "rider": "Hindley",
+      "team": "Red Bull - BORA - hansgrohe",
+      "pointsTotal": 20,
+      "points": null
+    },
+    {
+      "place": 15,
+      "rider": "Silva",
+      "team": "Caja Rural - Seguros RGA",
+      "pointsTotal": 19,
+      "points": null
+    },
+    {
+      "place": 16,
+      "rider": "Christen",
+      "team": "Q36.5 Pro Cycling Team",
+      "pointsTotal": 19,
+      "points": null
+    },
+    {
+      "place": 17,
+      "rider": "González",
+      "team": "Q36.5 Pro Cycling Team",
+      "pointsTotal": 18,
+      "points": null
+    },
+    {
+      "place": 18,
+      "rider": "Viviani",
+      "team": "Lotto",
+      "pointsTotal": 18,
+      "points": null
+    },
+    {
+      "place": 19,
+      "rider": "Almeida",
+      "team": "UAE Team Emirates - XRG",
+      "pointsTotal": 17,
+      "points": null
+    },
+    {
+      "place": 20,
+      "rider": "Labrosse",
+      "team": "Decathlon AG2R La Mondiale Team",
+      "pointsTotal": 17,
+      "points": null
+    },
+    {
+      "place": 21,
+      "rider": "Verre",
+      "team": "Arkéa - B&B Hotels",
+      "pointsTotal": 17,
+      "points": null
+    },
+    {
+      "place": 22,
+      "rider": "Vinokurov",
+      "team": "XDS Astana Team",
+      "pointsTotal": 17,
+      "points": null
+    },
+    {
+      "place": 23,
+      "rider": "Biermans",
+      "team": "Arkéa - B&B Hotels",
+      "pointsTotal": 17,
+      "points": null
+    },
+    {
+      "place": 24,
+      "rider": "Otruba",
+      "team": "Caja Rural - Seguros RGA",
+      "pointsTotal": 17,
+      "points": null
+    },
+    {
+      "place": 25,
+      "rider": "Coquard",
+      "team": "Cofidis",
+      "pointsTotal": 16,
+      "points": null
+    },
+    {
+      "place": 26,
+      "rider": "García Cortina",
+      "team": "Movistar Team",
+      "pointsTotal": 16,
+      "points": null
+    },
+    {
+      "place": 27,
+      "rider": "Gall",
+      "team": "Decathlon AG2R La Mondiale Team",
+      "pointsTotal": 15,
+      "points": null
+    },
+    {
+      "place": 28,
+      "rider": "Pidcock",
+      "team": "Q36.5 Pro Cycling Team",
+      "pointsTotal": 15,
+      "points": null
+    },
+    {
+      "place": 29,
+      "rider": "Stewart",
+      "team": "Israel - Premier Tech",
+      "pointsTotal": 15,
+      "points": null
+    },
+    {
+      "place": 30,
+      "rider": "Bouwman",
+      "team": "Team Jayco AlUla",
+      "pointsTotal": 15,
+      "points": null
+    },
+    {
+      "place": 31,
+      "rider": "Fernández",
+      "team": "Burgos Burpellet BH",
+      "pointsTotal": 15,
+      "points": null
+    },
+    {
+      "place": 32,
+      "rider": "Buitrago",
+      "team": "Bahrain - Victorious",
+      "pointsTotal": 13,
+      "points": null
+    },
+    {
+      "place": 33,
+      "rider": "de la Calle",
+      "team": "Burgos Burpellet BH",
+      "pointsTotal": 13,
+      "points": null
+    },
+    {
+      "place": 34,
+      "rider": "Mihkels",
+      "team": "EF Education - EasyPost",
+      "pointsTotal": 13,
+      "points": null
+    },
+    {
+      "place": 35,
+      "rider": "Glivar",
+      "team": "Alpecin - Deceuninck",
+      "pointsTotal": 13,
+      "points": null
+    },
+    {
+      "place": 36,
+      "rider": "Ayuso",
+      "team": "UAE Team Emirates - XRG",
+      "pointsTotal": 11,
+      "points": null
+    },
+    {
+      "place": 37,
+      "rider": "Nicolau",
+      "team": "Caja Rural - Seguros RGA",
+      "pointsTotal": 10,
+      "points": null
+    },
+    {
+      "place": 38,
+      "rider": "Jorgenson",
+      "team": "Team Visma | Lease a Bike",
+      "pointsTotal": 9,
+      "points": null
+    },
+    {
+      "place": 39,
+      "rider": "Koerdt",
+      "team": "Team Picnic PostNL",
+      "pointsTotal": 9,
+      "points": null
+    },
+    {
+      "place": 40,
+      "rider": "Buratti",
+      "team": "Bahrain - Victorious",
+      "pointsTotal": 7,
+      "points": null
+    },
+    {
+      "place": 41,
+      "rider": "López",
+      "team": "XDS Astana Team",
+      "pointsTotal": 6,
+      "points": null
+    },
+    {
+      "place": 42,
+      "rider": "van Dijke",
+      "team": "Red Bull - BORA - hansgrohe",
+      "pointsTotal": 6,
+      "points": null
+    },
+    {
+      "place": 43,
+      "rider": "Fisher-Black",
+      "team": "Red Bull - BORA - hansgrohe",
+      "pointsTotal": 5,
+      "points": null
+    },
+    {
+      "place": 44,
+      "rider": "Kuss",
+      "team": "Team Visma | Lease a Bike",
+      "pointsTotal": 5,
+      "points": null
+    },
+    {
+      "place": 45,
+      "rider": "Aniołkowski",
+      "team": "Cofidis",
+      "pointsTotal": 5,
+      "points": null
+    },
+    {
+      "place": 46,
+      "rider": "O'Connor",
+      "team": "Team Jayco AlUla",
+      "pointsTotal": 4,
+      "points": null
+    },
+    {
+      "place": 47,
+      "rider": "Camprubí",
+      "team": "Q36.5 Pro Cycling Team",
+      "pointsTotal": 3,
+      "points": null
+    },
+    {
+      "place": 48,
+      "rider": "Garofoli",
+      "team": "Soudal Quick-Step",
+      "pointsTotal": 2,
+      "points": null
+    },
+    {
+      "place": 49,
+      "rider": "Langellotti",
+      "team": "INEOS Grenadiers",
+      "pointsTotal": 2,
+      "points": null
+    },
+    {
+      "place": 50,
+      "rider": "Canal",
+      "team": "Movistar Team",
+      "pointsTotal": 2,
+      "points": null
+    },
+    {
+      "place": 51,
+      "rider": "Cavia",
+      "team": "Burgos Burpellet BH",
+      "pointsTotal": 2,
+      "points": null
+    }
+  ],
+  "mountainsClassification": [
+    {
+      "place": 1,
+      "rider": "Nicolau",
+      "team": "Caja Rural - Seguros RGA",
+      "pointsTotal": 11,
+      "points": 0
+    },
+    {
+      "place": 2,
+      "rider": "Quinn",
+      "team": "EF Education - EasyPost",
+      "pointsTotal": 9,
+      "points": 0
+    },
+    {
+      "place": 3,
+      "rider": "Verre",
+      "team": "Arkéa - B&B Hotels",
+      "pointsTotal": 8,
+      "points": 0
+    },
+    {
+      "place": 4,
+      "rider": "Vervaeke",
+      "team": "Soudal Quick-Step",
+      "pointsTotal": 8,
+      "points": 0
+    },
+    {
+      "place": 5,
+      "rider": "Vingegaard",
+      "team": "Team Visma | Lease a Bike",
+      "pointsTotal": 5,
+      "points": 0
+    },
+    {
+      "place": 6,
+      "rider": "Gaudu",
+      "team": "Groupama - FDJ",
+      "pointsTotal": 3,
+      "points": 0
+    },
+    {
+      "place": 7,
+      "rider": "Ciccone",
+      "team": "Lidl - Trek",
+      "pointsTotal": 3,
+      "points": 0
+    },
+    {
+      "place": 8,
+      "rider": "Aparicio",
+      "team": "Burgos Burpellet BH",
+      "pointsTotal": 1,
+      "points": 0
+    },
+    {
+      "place": 9,
+      "rider": "Pedersen",
+      "team": "Lidl - Trek",
+      "pointsTotal": 1,
+      "points": 0
+    },
+    {
+      "place": 10,
+      "rider": "Gamper",
+      "team": "Team Jayco AlUla",
+      "pointsTotal": 1,
+      "points": 0
+    },
+    {
+      "place": 11,
+      "rider": "Vinokurov",
+      "team": "XDS Astana Team",
+      "pointsTotal": 1,
+      "points": 0
+    }
+  ],
+  "youthClassification": [
+    {
+      "country": "es",
+      "lastName": "Ayuso",
+      "firstName": "Juan",
+      "startNumber": "2",
+      "place": 1,
+      "team": "UAE Team Emirates - XRG",
+      "shortName": "uae-team-emirates-xrg-2025"
+    },
+    {
+      "country": "it",
+      "lastName": "Pellizzari",
+      "firstName": "Giulio",
+      "startNumber": "45",
+      "place": 2,
+      "team": "Red Bull - BORA - hansgrohe",
+      "shortName": "red-bull-bora-hansgrohe-2025"
+    },
+    {
+      "country": "gb",
+      "lastName": "Tulett",
+      "firstName": "Ben",
+      "startNumber": "17",
+      "place": 3,
+      "team": "Team Visma | Lease a Bike",
+      "shortName": "team-visma-lease-a-bike-2025"
+    },
+    {
+      "country": "it",
+      "lastName": "Frigo",
+      "firstName": "Marco",
+      "startNumber": "223",
+      "place": 4,
+      "team": "Israel - Premier Tech",
+      "shortName": "israel-premier-tech-2025"
+    },
+    {
+      "country": "us",
+      "lastName": "Riccitello",
+      "firstName": "Matthew",
+      "startNumber": "228",
+      "place": 5,
+      "team": "Israel - Premier Tech",
+      "shortName": "israel-premier-tech-2025"
+    },
+    {
+      "country": "nz",
+      "lastName": "Fisher-Black",
+      "firstName": "Finn",
+      "startNumber": "44",
+      "place": 6,
+      "team": "Red Bull - BORA - hansgrohe",
+      "shortName": "red-bull-bora-hansgrohe-2025"
+    },
+    {
+      "country": "be",
+      "lastName": "Lecerf",
+      "firstName": "Junior",
+      "startNumber": "52",
+      "place": 7,
+      "team": "Soudal Quick-Step",
+      "shortName": "soudal-quick-step-2025"
+    },
+    {
+      "country": "fr",
+      "lastName": "Bisiaux",
+      "firstName": "Léo",
+      "startNumber": "93",
+      "place": 8,
+      "team": "Decathlon AG2R La Mondiale Team",
+      "shortName": "decathlon-ag2r-la-mondiale-2025"
+    },
+    {
+      "country": "it",
+      "lastName": "Tiberi",
+      "firstName": "Antonio",
+      "startNumber": "101",
+      "place": 9,
+      "team": "Bahrain - Victorious",
+      "shortName": "bahrain-victorious-2025"
+    },
+    {
+      "country": "us",
+      "lastName": "Vermaerke",
+      "firstName": "Kevin",
+      "startNumber": "198",
+      "place": 10,
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Beloki",
+      "firstName": "Markel",
+      "startNumber": "82",
+      "place": 11,
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025"
+    },
+    {
+      "country": "ec",
+      "lastName": "López",
+      "firstName": "Martín",
+      "startNumber": "125",
+      "place": 12,
+      "team": "XDS Astana Team",
+      "shortName": "xds-astana-team-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "García Pierna",
+      "firstName": "Raúl",
+      "startNumber": "161",
+      "place": 13,
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025"
+    },
+    {
+      "country": "uy",
+      "lastName": "Silva",
+      "firstName": "Thomas",
+      "startNumber": "141",
+      "place": 14,
+      "team": "Caja Rural - Seguros RGA",
+      "shortName": "caja-rural-seguros-rga-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Balderstone",
+      "firstName": "Abel",
+      "startNumber": "142",
+      "place": 15,
+      "team": "Caja Rural - Seguros RGA",
+      "shortName": "caja-rural-seguros-rga-2025"
+    },
+    {
+      "country": "gt",
+      "lastName": "Chumil",
+      "firstName": "Geovani",
+      "startNumber": "212",
+      "place": 16,
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Aparicio",
+      "firstName": "Mario",
+      "startNumber": "211",
+      "place": 17,
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025"
+    },
+    {
+      "country": "gb",
+      "lastName": "Nerurkar",
+      "firstName": "Lukas",
+      "startNumber": "84",
+      "place": 18,
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025"
+    },
+    {
+      "country": "it",
+      "lastName": "Garofoli",
+      "firstName": "Gianmarco",
+      "startNumber": "58",
+      "place": 19,
+      "team": "Soudal Quick-Step",
+      "shortName": "soudal-quick-step-2025"
+    },
+    {
+      "country": "fr",
+      "lastName": "Rolland",
+      "firstName": "Brieuc",
+      "startNumber": "137",
+      "place": 20,
+      "team": "Groupama - FDJ",
+      "shortName": "groupama-fdj-2025"
+    },
+    {
+      "country": "ie",
+      "lastName": "Ryan",
+      "firstName": "Archie",
+      "startNumber": "86",
+      "place": 21,
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Canal",
+      "firstName": "Carlos",
+      "startNumber": "33",
+      "place": 22,
+      "team": "Movistar Team",
+      "shortName": "movistar-team-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Faura",
+      "firstName": "Luis",
+      "startNumber": "214",
+      "place": 23,
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025"
+    },
+    {
+      "country": "no",
+      "lastName": "Staune-Mittet",
+      "firstName": "Johannes",
+      "startNumber": "98",
+      "place": 24,
+      "team": "Decathlon AG2R La Mondiale Team",
+      "shortName": "decathlon-ag2r-la-mondiale-2025"
+    },
+    {
+      "country": "fr",
+      "lastName": "Gruel",
+      "firstName": "Thibaud",
+      "startNumber": "134",
+      "place": 25,
+      "team": "Groupama - FDJ",
+      "shortName": "groupama-fdj-2025"
+    },
+    {
+      "country": "be",
+      "lastName": "Craps",
+      "firstName": "Lars",
+      "startNumber": "201",
+      "place": 26,
+      "team": "Lotto",
+      "shortName": "lotto-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Guardeño",
+      "firstName": "Jaume",
+      "startNumber": "145",
+      "place": 27,
+      "team": "Caja Rural - Seguros RGA",
+      "shortName": "caja-rural-seguros-rga-2025"
+    },
+    {
+      "country": "fr",
+      "lastName": "Labrosse",
+      "firstName": "Jordan",
+      "startNumber": "95",
+      "place": 28,
+      "team": "Decathlon AG2R La Mondiale Team",
+      "shortName": "decathlon-ag2r-la-mondiale-2025"
+    },
+    {
+      "country": "gb",
+      "lastName": "Pickering",
+      "firstName": "Finlay",
+      "startNumber": "107",
+      "place": 29,
+      "team": "Bahrain - Victorious",
+      "shortName": "bahrain-victorious-2025"
+    },
+    {
+      "country": "ru",
+      "lastName": "Ermakov",
+      "firstName": "Roman",
+      "startNumber": "104",
+      "place": 30,
+      "team": "Bahrain - Victorious",
+      "shortName": "bahrain-victorious-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "de la Calle",
+      "firstName": "Hugo",
+      "startNumber": "215",
+      "place": 31,
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025"
+    },
+    {
+      "country": "be",
+      "lastName": "De Pooter",
+      "firstName": "Dries",
+      "startNumber": "183",
+      "place": 32,
+      "team": "Intermarché - Wanty",
+      "shortName": "intermarche-wanty-2025"
+    },
+    {
+      "country": "de",
+      "lastName": "Hessmann",
+      "firstName": "Michel",
+      "startNumber": "37",
+      "place": 33,
+      "team": "Movistar Team",
+      "shortName": "movistar-team-2025"
+    },
+    {
+      "country": "us",
+      "lastName": "Sheffield",
+      "firstName": "Magnus",
+      "startNumber": "61",
+      "place": 34,
+      "team": "INEOS Grenadiers",
+      "shortName": "ineos-grenadiers-2025"
+    },
+    {
+      "country": "gb",
+      "lastName": "Koerdt",
+      "firstName": "Bjorn",
+      "startNumber": "193",
+      "place": 35,
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025"
+    },
+    {
+      "country": "it",
+      "lastName": "Verre",
+      "firstName": "Alessandro",
+      "startNumber": "167",
+      "place": 36,
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025"
+    },
+    {
+      "country": "fr",
+      "lastName": "Thierry",
+      "firstName": "Pierre",
+      "startNumber": "168",
+      "place": 37,
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025"
+    },
+    {
+      "country": "fr",
+      "lastName": "Lozouet",
+      "firstName": "Léandre",
+      "startNumber": "164",
+      "place": 38,
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025"
+    },
+    {
+      "country": "gb",
+      "lastName": "Vernon",
+      "firstName": "Ethan",
+      "startNumber": "227",
+      "place": 39,
+      "team": "Israel - Premier Tech",
+      "shortName": "israel-premier-tech-2025"
+    },
+    {
+      "country": "co",
+      "lastName": "Martinez",
+      "firstName": "Guillermo",
+      "startNumber": "195",
+      "place": 40,
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Castrillo",
+      "firstName": "Pablo",
+      "startNumber": "34",
+      "place": 41,
+      "team": "Movistar Team",
+      "shortName": "movistar-team-2025"
+    },
+    {
+      "country": "ee",
+      "lastName": "Mihkels",
+      "firstName": "Madis",
+      "startNumber": "83",
+      "place": 42,
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025"
+    },
+    {
+      "country": "ch",
+      "lastName": "Christen",
+      "firstName": "Fabio",
+      "startNumber": "114",
+      "place": 43,
+      "team": "Q36.5 Pro Cycling Team",
+      "shortName": "q365-pro-cycing-team-2025"
+    },
+    {
+      "country": "it",
+      "lastName": "Buratti",
+      "firstName": "Nicolò",
+      "startNumber": "103",
+      "place": 44,
+      "team": "Bahrain - Victorious",
+      "shortName": "bahrain-victorious-2025"
+    },
+    {
+      "country": "be",
+      "lastName": "Segaert",
+      "firstName": "Alec",
+      "startNumber": "204",
+      "place": 45,
+      "team": "Lotto",
+      "shortName": "lotto-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Camprubí",
+      "firstName": "Marcel",
+      "startNumber": "118",
+      "place": 46,
+      "team": "Q36.5 Pro Cycling Team",
+      "shortName": "q365-pro-cycing-team-2025"
+    },
+    {
+      "country": "il",
+      "lastName": "Raisberg",
+      "firstName": "Nadav",
+      "startNumber": "225",
+      "place": 47,
+      "team": "Israel - Premier Tech",
+      "shortName": "israel-premier-tech-2025"
+    },
+    {
+      "country": "gb",
+      "lastName": "Knight",
+      "firstName": "Oliver",
+      "startNumber": "177",
+      "place": 48,
+      "team": "Cofidis",
+      "shortName": "cofidis-2025"
+    },
+    {
+      "country": "us",
+      "lastName": "Quinn",
+      "firstName": "Sean",
+      "startNumber": "85",
+      "place": 49,
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025"
+    },
+    {
+      "country": "fr",
+      "lastName": "Rouland",
+      "firstName": "Louis",
+      "startNumber": "166",
+      "place": 50,
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025"
+    },
+    {
+      "country": "kz",
+      "lastName": "Vinokurov",
+      "firstName": "Nicolas",
+      "startNumber": "128",
+      "place": 51,
+      "team": "XDS Astana Team",
+      "shortName": "xds-astana-team-2025"
+    },
+    {
+      "country": "fr",
+      "lastName": "Guernalec",
+      "firstName": "Victor",
+      "startNumber": "163",
+      "place": 52,
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025"
+    },
+    {
+      "country": "be",
+      "lastName": "Debruyne",
+      "firstName": "Ramses",
+      "startNumber": "73",
+      "place": 53,
+      "team": "Alpecin - Deceuninck",
+      "shortName": "alpecin-deceuninck-2025"
+    },
+    {
+      "country": "si",
+      "lastName": "Glivar",
+      "firstName": "Gal",
+      "startNumber": "74",
+      "place": 54,
+      "team": "Alpecin - Deceuninck",
+      "shortName": "alpecin-deceuninck-2025"
+    },
+    {
+      "country": "be",
+      "lastName": "Van Boven",
+      "firstName": "Luca",
+      "startNumber": "188",
+      "place": 55,
+      "team": "Intermarché - Wanty",
+      "shortName": "intermarche-wanty-2025"
+    },
+    {
+      "country": "nl",
+      "lastName": "Reinderink",
+      "firstName": "Pepijn",
+      "startNumber": "54",
+      "place": 56,
+      "team": "Soudal Quick-Step",
+      "shortName": "soudal-quick-step-2025"
+    },
+    {
+      "country": "au",
+      "lastName": "Eddy",
+      "firstName": "Patrick",
+      "startNumber": "191",
+      "place": 57,
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025"
+    },
+    {
+      "country": "nl",
+      "lastName": "van Uden",
+      "firstName": "Casper",
+      "startNumber": "197",
+      "place": 58,
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025"
+    },
+    {
+      "country": "nl",
+      "lastName": "Artz",
+      "firstName": "Huub",
+      "startNumber": "181",
+      "place": 59,
+      "team": "Intermarché - Wanty",
+      "shortName": "intermarche-wanty-2025"
+    },
+    {
+      "country": "dk",
+      "lastName": "Foldager",
+      "firstName": "Anders",
+      "startNumber": "154",
+      "place": 60,
+      "team": "Team Jayco AlUla",
+      "shortName": "team-jayco-alula-2025"
+    },
+    {
+      "country": "nl",
+      "lastName": "van der Lee",
+      "firstName": "Christiaan",
+      "startNumber": "88",
+      "place": 61,
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Cavia",
+      "firstName": "Daniel",
+      "startNumber": "218",
+      "place": 62,
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Fernández",
+      "firstName": "Sinuhé",
+      "startNumber": "217",
+      "place": 63,
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025"
+    },
+    {
+      "country": "nl",
+      "lastName": "van Dijke",
+      "firstName": "Tim",
+      "startNumber": "47",
+      "place": 64,
+      "team": "Red Bull - BORA - hansgrohe",
+      "shortName": "red-bull-bora-hansgrohe-2025"
+    },
+    {
+      "country": "be",
+      "lastName": "Slock",
+      "firstName": "Liam",
+      "startNumber": "206",
+      "place": 65,
+      "team": "Lotto",
+      "shortName": "lotto-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Ayuso",
+      "firstName": "Juan",
+      "startNumber": "2",
+      "place": 1,
+      "team": "UAE Team Emirates - XRG",
+      "shortName": "uae-team-emirates-xrg-2025"
+    },
+    {
+      "country": "gb",
+      "lastName": "Tulett",
+      "firstName": "Ben",
+      "startNumber": "17",
+      "place": 2,
+      "team": "Team Visma | Lease a Bike",
+      "shortName": "team-visma-lease-a-bike-2025"
+    },
+    {
+      "country": "it",
+      "lastName": "Pellizzari",
+      "firstName": "Giulio",
+      "startNumber": "45",
+      "place": 3,
+      "team": "Red Bull - BORA - hansgrohe",
+      "shortName": "red-bull-bora-hansgrohe-2025"
+    },
+    {
+      "country": "nz",
+      "lastName": "Fisher-Black",
+      "firstName": "Finn",
+      "startNumber": "44",
+      "place": 4,
+      "team": "Red Bull - BORA - hansgrohe",
+      "shortName": "red-bull-bora-hansgrohe-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Castrillo",
+      "firstName": "Pablo",
+      "startNumber": "34",
+      "place": 5,
+      "team": "Movistar Team",
+      "shortName": "movistar-team-2025"
+    },
+    {
+      "country": "fr",
+      "lastName": "Bisiaux",
+      "firstName": "Léo",
+      "startNumber": "93",
+      "place": 6,
+      "team": "Decathlon AG2R La Mondiale Team",
+      "shortName": "decathlon-ag2r-la-mondiale-2025"
+    },
+    {
+      "country": "de",
+      "lastName": "Hessmann",
+      "firstName": "Michel",
+      "startNumber": "37",
+      "place": 7,
+      "team": "Movistar Team",
+      "shortName": "movistar-team-2025"
+    },
+    {
+      "country": "fr",
+      "lastName": "Gruel",
+      "firstName": "Thibaud",
+      "startNumber": "134",
+      "place": 8,
+      "team": "Groupama - FDJ",
+      "shortName": "groupama-fdj-2025"
+    },
+    {
+      "country": "be",
+      "lastName": "Segaert",
+      "firstName": "Alec",
+      "startNumber": "204",
+      "place": 9,
+      "team": "Lotto",
+      "shortName": "lotto-2025"
+    },
+    {
+      "country": "be",
+      "lastName": "Craps",
+      "firstName": "Lars",
+      "startNumber": "201",
+      "place": 10,
+      "team": "Lotto",
+      "shortName": "lotto-2025"
+    },
+    {
+      "country": "it",
+      "lastName": "Tiberi",
+      "firstName": "Antonio",
+      "startNumber": "101",
+      "place": 11,
+      "team": "Bahrain - Victorious",
+      "shortName": "bahrain-victorious-2025"
+    },
+    {
+      "country": "ru",
+      "lastName": "Ermakov",
+      "firstName": "Roman",
+      "startNumber": "104",
+      "place": 12,
+      "team": "Bahrain - Victorious",
+      "shortName": "bahrain-victorious-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "García Pierna",
+      "firstName": "Raúl",
+      "startNumber": "161",
+      "place": 13,
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025"
+    },
+    {
+      "country": "fr",
+      "lastName": "Thierry",
+      "firstName": "Pierre",
+      "startNumber": "168",
+      "place": 14,
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025"
+    },
+    {
+      "country": "it",
+      "lastName": "Verre",
+      "firstName": "Alessandro",
+      "startNumber": "167",
+      "place": 15,
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025"
+    },
+    {
+      "country": "nl",
+      "lastName": "Artz",
+      "firstName": "Huub",
+      "startNumber": "181",
+      "place": 16,
+      "team": "Intermarché - Wanty",
+      "shortName": "intermarche-wanty-2025"
+    },
+    {
+      "country": "be",
+      "lastName": "De Pooter",
+      "firstName": "Dries",
+      "startNumber": "183",
+      "place": 17,
+      "team": "Intermarché - Wanty",
+      "shortName": "intermarche-wanty-2025"
+    },
+    {
+      "country": "gb",
+      "lastName": "Nerurkar",
+      "firstName": "Lukas",
+      "startNumber": "84",
+      "place": 18,
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025"
+    },
+    {
+      "country": "ee",
+      "lastName": "Mihkels",
+      "firstName": "Madis",
+      "startNumber": "83",
+      "place": 19,
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Beloki",
+      "firstName": "Markel",
+      "startNumber": "82",
+      "place": 20,
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025"
+    },
+    {
+      "country": "be",
+      "lastName": "Debruyne",
+      "firstName": "Ramses",
+      "startNumber": "73",
+      "place": 21,
+      "team": "Alpecin - Deceuninck",
+      "shortName": "alpecin-deceuninck-2025"
+    },
+    {
+      "country": "si",
+      "lastName": "Glivar",
+      "firstName": "Gal",
+      "startNumber": "74",
+      "place": 22,
+      "team": "Alpecin - Deceuninck",
+      "shortName": "alpecin-deceuninck-2025"
+    },
+    {
+      "country": "be",
+      "lastName": "Lecerf",
+      "firstName": "Junior",
+      "startNumber": "52",
+      "place": 23,
+      "team": "Soudal Quick-Step",
+      "shortName": "soudal-quick-step-2025"
+    },
+    {
+      "country": "it",
+      "lastName": "Garofoli",
+      "firstName": "Gianmarco",
+      "startNumber": "58",
+      "place": 24,
+      "team": "Soudal Quick-Step",
+      "shortName": "soudal-quick-step-2025"
+    },
+    {
+      "country": "gb",
+      "lastName": "Koerdt",
+      "firstName": "Bjorn",
+      "startNumber": "193",
+      "place": 25,
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025"
+    },
+    {
+      "country": "au",
+      "lastName": "Eddy",
+      "firstName": "Patrick",
+      "startNumber": "191",
+      "place": 26,
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025"
+    },
+    {
+      "country": "us",
+      "lastName": "Vermaerke",
+      "firstName": "Kevin",
+      "startNumber": "198",
+      "place": 27,
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025"
+    },
+    {
+      "country": "gb",
+      "lastName": "Vernon",
+      "firstName": "Ethan",
+      "startNumber": "227",
+      "place": 28,
+      "team": "Israel - Premier Tech",
+      "shortName": "israel-premier-tech-2025"
+    },
+    {
+      "country": "it",
+      "lastName": "Frigo",
+      "firstName": "Marco",
+      "startNumber": "223",
+      "place": 29,
+      "team": "Israel - Premier Tech",
+      "shortName": "israel-premier-tech-2025"
+    },
+    {
+      "country": "us",
+      "lastName": "Riccitello",
+      "firstName": "Matthew",
+      "startNumber": "228",
+      "place": 30,
+      "team": "Israel - Premier Tech",
+      "shortName": "israel-premier-tech-2025"
+    },
+    {
+      "country": "co",
+      "lastName": "Martinez",
+      "firstName": "Guillermo",
+      "startNumber": "195",
+      "place": 31,
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025"
+    },
+    {
+      "country": "gb",
+      "lastName": "Knight",
+      "firstName": "Oliver",
+      "startNumber": "177",
+      "place": 32,
+      "team": "Cofidis",
+      "shortName": "cofidis-2025"
+    },
+    {
+      "country": "nl",
+      "lastName": "van Dijke",
+      "firstName": "Tim",
+      "startNumber": "47",
+      "place": 33,
+      "team": "Red Bull - BORA - hansgrohe",
+      "shortName": "red-bull-bora-hansgrohe-2025"
+    },
+    {
+      "country": "us",
+      "lastName": "Quinn",
+      "firstName": "Sean",
+      "startNumber": "85",
+      "place": 34,
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025"
+    },
+    {
+      "country": "nl",
+      "lastName": "van Uden",
+      "firstName": "Casper",
+      "startNumber": "197",
+      "place": 35,
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Balderstone",
+      "firstName": "Abel",
+      "startNumber": "142",
+      "place": 36,
+      "team": "Caja Rural - Seguros RGA",
+      "shortName": "caja-rural-seguros-rga-2025"
+    },
+    {
+      "country": "uy",
+      "lastName": "Silva",
+      "firstName": "Thomas",
+      "startNumber": "141",
+      "place": 37,
+      "team": "Caja Rural - Seguros RGA",
+      "shortName": "caja-rural-seguros-rga-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Guardeño",
+      "firstName": "Jaume",
+      "startNumber": "145",
+      "place": 38,
+      "team": "Caja Rural - Seguros RGA",
+      "shortName": "caja-rural-seguros-rga-2025"
+    },
+    {
+      "country": "ec",
+      "lastName": "López",
+      "firstName": "Martín",
+      "startNumber": "125",
+      "place": 39,
+      "team": "XDS Astana Team",
+      "shortName": "xds-astana-team-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Canal",
+      "firstName": "Carlos",
+      "startNumber": "33",
+      "place": 40,
+      "team": "Movistar Team",
+      "shortName": "movistar-team-2025"
+    },
+    {
+      "country": "fr",
+      "lastName": "Rolland",
+      "firstName": "Brieuc",
+      "startNumber": "137",
+      "place": 41,
+      "team": "Groupama - FDJ",
+      "shortName": "groupama-fdj-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Cavia",
+      "firstName": "Daniel",
+      "startNumber": "218",
+      "place": 42,
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "de la Calle",
+      "firstName": "Hugo",
+      "startNumber": "215",
+      "place": 43,
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Faura",
+      "firstName": "Luis",
+      "startNumber": "214",
+      "place": 44,
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Aparicio",
+      "firstName": "Mario",
+      "startNumber": "211",
+      "place": 45,
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025"
+    },
+    {
+      "country": "gt",
+      "lastName": "Chumil",
+      "firstName": "Geovani",
+      "startNumber": "212",
+      "place": 46,
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025"
+    },
+    {
+      "country": "il",
+      "lastName": "Raisberg",
+      "firstName": "Nadav",
+      "startNumber": "225",
+      "place": 47,
+      "team": "Israel - Premier Tech",
+      "shortName": "israel-premier-tech-2025"
+    },
+    {
+      "country": "us",
+      "lastName": "Sheffield",
+      "firstName": "Magnus",
+      "startNumber": "61",
+      "place": 48,
+      "team": "INEOS Grenadiers",
+      "shortName": "ineos-grenadiers-2025"
+    },
+    {
+      "country": "no",
+      "lastName": "Staune-Mittet",
+      "firstName": "Johannes",
+      "startNumber": "98",
+      "place": 49,
+      "team": "Decathlon AG2R La Mondiale Team",
+      "shortName": "decathlon-ag2r-la-mondiale-2025"
+    },
+    {
+      "country": "fr",
+      "lastName": "Labrosse",
+      "firstName": "Jordan",
+      "startNumber": "95",
+      "place": 50,
+      "team": "Decathlon AG2R La Mondiale Team",
+      "shortName": "decathlon-ag2r-la-mondiale-2025"
+    },
+    {
+      "country": "be",
+      "lastName": "Slock",
+      "firstName": "Liam",
+      "startNumber": "206",
+      "place": 51,
+      "team": "Lotto",
+      "shortName": "lotto-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Fernández",
+      "firstName": "Sinuhé",
+      "startNumber": "217",
+      "place": 52,
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025"
+    },
+    {
+      "country": "kz",
+      "lastName": "Vinokurov",
+      "firstName": "Nicolas",
+      "startNumber": "128",
+      "place": 53,
+      "team": "XDS Astana Team",
+      "shortName": "xds-astana-team-2025"
+    },
+    {
+      "country": "be",
+      "lastName": "Van Boven",
+      "firstName": "Luca",
+      "startNumber": "188",
+      "place": 54,
+      "team": "Intermarché - Wanty",
+      "shortName": "intermarche-wanty-2025"
+    },
+    {
+      "country": "ch",
+      "lastName": "Christen",
+      "firstName": "Fabio",
+      "startNumber": "114",
+      "place": 55,
+      "team": "Q36.5 Pro Cycling Team",
+      "shortName": "q365-pro-cycing-team-2025"
+    },
+    {
+      "country": "nl",
+      "lastName": "van der Lee",
+      "firstName": "Christiaan",
+      "startNumber": "88",
+      "place": 56,
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025"
+    },
+    {
+      "country": "fr",
+      "lastName": "Rouland",
+      "firstName": "Louis",
+      "startNumber": "166",
+      "place": 57,
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025"
+    },
+    {
+      "country": "fr",
+      "lastName": "Lozouet",
+      "firstName": "Léandre",
+      "startNumber": "164",
+      "place": 58,
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025"
+    },
+    {
+      "country": "fr",
+      "lastName": "Guernalec",
+      "firstName": "Victor",
+      "startNumber": "163",
+      "place": 59,
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025"
+    },
+    {
+      "country": "ie",
+      "lastName": "Ryan",
+      "firstName": "Archie",
+      "startNumber": "86",
+      "place": 60,
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025"
+    },
+    {
+      "country": "it",
+      "lastName": "Buratti",
+      "firstName": "Nicolò",
+      "startNumber": "103",
+      "place": 61,
+      "team": "Bahrain - Victorious",
+      "shortName": "bahrain-victorious-2025"
+    },
+    {
+      "country": "gb",
+      "lastName": "Pickering",
+      "firstName": "Finlay",
+      "startNumber": "107",
+      "place": 62,
+      "team": "Bahrain - Victorious",
+      "shortName": "bahrain-victorious-2025"
+    },
+    {
+      "country": "nl",
+      "lastName": "Reinderink",
+      "firstName": "Pepijn",
+      "startNumber": "54",
+      "place": 63,
+      "team": "Soudal Quick-Step",
+      "shortName": "soudal-quick-step-2025"
+    },
+    {
+      "country": "dk",
+      "lastName": "Foldager",
+      "firstName": "Anders",
+      "startNumber": "154",
+      "place": 64,
+      "team": "Team Jayco AlUla",
+      "shortName": "team-jayco-alula-2025"
+    },
+    {
+      "country": "es",
+      "lastName": "Camprubí",
+      "firstName": "Marcel",
+      "startNumber": "118",
+      "place": 65,
+      "team": "Q36.5 Pro Cycling Team",
+      "shortName": "q365-pro-cycing-team-2025"
+    }
+  ],
+  "teamClassification": [
+    {
+      "place": 1,
+      "team": "UAE Team Emirates - XRG",
+      "shortName": "uae-team-emirates-xrg-2025",
+      "class": "WT"
+    },
+    {
+      "place": 2,
+      "team": "Team Visma | Lease a Bike",
+      "shortName": "team-visma-lease-a-bike-2025",
+      "class": "WT"
+    },
+    {
+      "place": 3,
+      "team": "Red Bull - BORA - hansgrohe",
+      "shortName": "red-bull-bora-hansgrohe-2025",
+      "class": "WT"
+    },
+    {
+      "place": 4,
+      "team": "Soudal Quick-Step",
+      "shortName": "soudal-quick-step-2025",
+      "class": "WT"
+    },
+    {
+      "place": 5,
+      "team": "Bahrain - Victorious",
+      "shortName": "bahrain-victorious-2025",
+      "class": "WT"
+    },
+    {
+      "place": 6,
+      "team": "Israel - Premier Tech",
+      "shortName": "israel-premier-tech-2025",
+      "class": "PRT"
+    },
+    {
+      "place": 7,
+      "team": "INEOS Grenadiers",
+      "shortName": "ineos-grenadiers-2025",
+      "class": "WT"
+    },
+    {
+      "place": 8,
+      "team": "Decathlon AG2R La Mondiale Team",
+      "shortName": "decathlon-ag2r-la-mondiale-2025",
+      "class": "WT"
+    },
+    {
+      "place": 9,
+      "team": "XDS Astana Team",
+      "shortName": "xds-astana-team-2025",
+      "class": "WT"
+    },
+    {
+      "place": 10,
+      "team": "Movistar Team",
+      "shortName": "movistar-team-2025",
+      "class": "WT"
+    },
+    {
+      "place": 11,
+      "team": "Arkéa - B&B Hotels",
+      "shortName": "arkea-b-b-hotels-2025",
+      "class": "WT"
+    },
+    {
+      "place": 12,
+      "team": "Groupama - FDJ",
+      "shortName": "groupama-fdj-2025",
+      "class": "WT"
+    },
+    {
+      "place": 13,
+      "team": "Caja Rural - Seguros RGA",
+      "shortName": "caja-rural-seguros-rga-2025",
+      "class": "PRT"
+    },
+    {
+      "place": 14,
+      "team": "EF Education - EasyPost",
+      "shortName": "ef-education-easypost-2025",
+      "class": "WT"
+    },
+    {
+      "place": 15,
+      "team": "Lidl - Trek",
+      "shortName": "lidl-trek-2025",
+      "class": "WT"
+    },
+    {
+      "place": 16,
+      "team": "Q36.5 Pro Cycling Team",
+      "shortName": "q365-pro-cycing-team-2025",
+      "class": "PRT"
+    },
+    {
+      "place": 17,
+      "team": "Burgos Burpellet BH",
+      "shortName": "burgos-burpellet-bh-2025",
+      "class": "PRT"
+    },
+    {
+      "place": 18,
+      "team": "Team Jayco AlUla",
+      "shortName": "team-jayco-alula-2025",
+      "class": "WT"
+    },
+    {
+      "place": 19,
+      "team": "Cofidis",
+      "shortName": "cofidis-2025",
+      "class": "WT"
+    },
+    {
+      "place": 20,
+      "team": "Intermarché - Wanty",
+      "shortName": "intermarche-wanty-2025",
+      "class": "WT"
+    },
+    {
+      "place": 21,
+      "team": "Team Picnic PostNL",
+      "shortName": "team-picnic-postnl-2025",
+      "class": "WT"
+    },
+    {
+      "place": 22,
+      "team": "Alpecin - Deceuninck",
+      "shortName": "alpecin-deceuninck-2025",
+      "class": "WT"
+    },
+    {
+      "place": 23,
+      "team": "Lotto",
+      "shortName": "lotto-2025",
+      "class": "PRT"
+    }
+  ],
+  "scrapedAt": "2025-08-29T16:48:29.731Z"
+}

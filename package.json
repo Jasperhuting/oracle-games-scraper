@@ -1,0 +1,37 @@
+{
+  "name": "pcs-startlist-scraper",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "bin": {
+    "pcs-scrape": "bin/pcs-scrape.js"
+  },
+  "scripts": {
+    "stage-vuelta": "node getStageResult.js --race vuelta-a-espana",    
+    "stage-vuelta-all": "node -e \"const {spawnSync}=require('child_process'); const y=process.env.npm_config_year||new Date().getFullYear(); for(let s=1;s<=21;s++){ const r=spawnSync(process.execPath,['getStageResult.js','--race','vuelta-a-espana','--stage',String(s),'--year',String(y)],{stdio:'inherit'}); if(r.status!==0) process.exit(r.status||1); }\"",
+    "stage-tour": "node getStageResult.js --race tour-de-france",
+    "stage-world": "node getStageResult.js --race world-championship",
+    "stage-milanosanremo": "node getStageResult.js --race milano-sanremo",
+    "stage-amstelgoldrace": "node getStageResult.js --race amstel-gold-race",
+    "stage-tirrenoadriatico": "node getStageResult.js --race tirreno-adriatico",
+    "stage-liegebastogneliege": "node getStageResult.js --race liege-bastogne-liege",
+    "stage-il-lombardia": "node getStageResult.js --race il-lombardia",
+    "stage-la-fleche-wallone": "node getStageResult.js --race la-fleche-wallone",
+    "stage-parisnice": "node getStageResult.js --race paris-nice",
+    "stage-parisroubaix": "node getStageResult.js --race paris-roubaix",
+    "stage-voltaacatalunya": "node getStageResult.js --race volta-a-catalunya",
+    "stage-dauphine": "node getStageResult.js --race dauphine",
+    "stage-rondevanvlaanderen": "node getStageResult.js --race ronde-van-vlaanderen",
+    "stage-gentwevelgem": "node getStageResult.js --race gent-wevelgem",
+    "stage-sansebastian": "node getStageResult.js --race san-sebastian",
+    "start": "node bin/pcs-scrape.js",
+    "scrape": "node bin/pcs-scrape.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
