@@ -1,0 +1,1043 @@
+{
+  "race": "giro-d-italia",
+  "year": 2024,
+  "source": "https://www.procyclingstats.com/race/giro-d-italia/2024/startlist",
+  "count": 22,
+  "riders": [
+    {
+      "image": "images/shirts/bx/eb/ineos-grenadiers-2024.png",
+      "name": "INEOS Grenadiers (WT)",
+      "shortName": "ineos-grenadiers-2024",
+      "riders": [
+        {
+          "name": "THOMAS Geraint",
+          "country": "gb",
+          "startNumber": "1"
+        },
+        {
+          "name": "ARENSMAN Thymen",
+          "country": "nl",
+          "startNumber": "2"
+        },
+        {
+          "name": "FOSS Tobias",
+          "country": "no",
+          "startNumber": "3"
+        },
+        {
+          "name": "GANNA Filippo",
+          "country": "it",
+          "startNumber": "4"
+        },
+        {
+          "name": "NARVÁEZ Jhonatan",
+          "country": "ec",
+          "startNumber": "5"
+        },
+        {
+          "name": "SHEFFIELD Magnus",
+          "country": "us",
+          "startNumber": "6"
+        },
+        {
+          "name": "SWIFT Ben",
+          "country": "gb",
+          "startNumber": "7"
+        },
+        {
+          "name": "SWIFT Connor",
+          "country": "gb",
+          "startNumber": "8"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/alpecin-deceuninck-2024-n2.png",
+      "name": "Alpecin - Deceuninck (WT)",
+      "shortName": "alpecin-deceuninck-2024",
+      "riders": [
+        {
+          "name": "GROVES Kaden",
+          "country": "au",
+          "startNumber": "11"
+        },
+        {
+          "name": "BAYER Tobias",
+          "country": "at",
+          "startNumber": "12"
+        },
+        {
+          "name": "CONCI Nicola",
+          "country": "it",
+          "startNumber": "13"
+        },
+        {
+          "name": "HERMANS Quinten",
+          "country": "be",
+          "startNumber": "14"
+        },
+        {
+          "name": "JANSSENS Jimmy",
+          "country": "be",
+          "startNumber": "15"
+        },
+        {
+          "name": "KIELICH Timo",
+          "country": "be",
+          "startNumber": "16"
+        },
+        {
+          "name": "PLANCKAERT Edward",
+          "country": "be",
+          "startNumber": "17"
+        },
+        {
+          "name": "VAN DEN BOSSCHE Fabio",
+          "country": "be",
+          "startNumber": "18"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/arkea-b-b-hotels-2024.png",
+      "name": "Arkéa - B&B Hotels (WT)",
+      "shortName": "arkea-b-b-hotels-2024",
+      "riders": [
+        {
+          "name": "BIERMANS Jenthe",
+          "country": "be",
+          "startNumber": "21"
+        },
+        {
+          "name": "BARRÉ Louis",
+          "country": "fr",
+          "startNumber": "22"
+        },
+        {
+          "name": "COSTIOU Ewen",
+          "country": "fr",
+          "startNumber": "23"
+        },
+        {
+          "name": "DEKKER David",
+          "country": "nl",
+          "startNumber": "24"
+        },
+        {
+          "name": "GRONDIN Donavan",
+          "country": "fr",
+          "startNumber": "25"
+        },
+        {
+          "name": "RIES Michel",
+          "country": "lu",
+          "startNumber": "26"
+        },
+        {
+          "name": "RIOU Alan",
+          "country": "fr",
+          "startNumber": "27"
+        },
+        {
+          "name": "VERRE Alessandro",
+          "country": "it",
+          "startNumber": "28"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/astana-qazaqstan-team-2024.png",
+      "name": "Astana Qazaqstan Team (WT)",
+      "shortName": "astana-qazaqstan-team-2024",
+      "riders": [
+        {
+          "name": "LUTSENKO Alexey",
+          "country": "kz",
+          "startNumber": "31"
+        },
+        {
+          "name": "BALLERINI Davide",
+          "country": "it",
+          "startNumber": "32"
+        },
+        {
+          "name": "FORTUNATO Lorenzo",
+          "country": "it",
+          "startNumber": "33"
+        },
+        {
+          "name": "KANTER Max",
+          "country": "de",
+          "startNumber": "34"
+        },
+        {
+          "name": "MULUBRHAN Henok",
+          "country": "er",
+          "startNumber": "35"
+        },
+        {
+          "name": "PRONSKIY Vadim",
+          "country": "kz",
+          "startNumber": "36"
+        },
+        {
+          "name": "SCARONI Christian",
+          "country": "it",
+          "startNumber": "37"
+        },
+        {
+          "name": "VELASCO Simone",
+          "country": "it",
+          "startNumber": "38"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/bora-hansgrohe-2024.png",
+      "name": "BORA - hansgrohe (WT)",
+      "shortName": "bora-hansgrohe-2024",
+      "riders": [
+        {
+          "name": "MARTÍNEZ Daniel Felipe",
+          "country": "co",
+          "startNumber": "41"
+        },
+        {
+          "name": "ALEOTTI Giovanni",
+          "country": "it",
+          "startNumber": "42"
+        },
+        {
+          "name": "GAMPER Patrick",
+          "country": "at",
+          "startNumber": "43"
+        },
+        {
+          "name": "KOCH Jonas",
+          "country": "de",
+          "startNumber": "44"
+        },
+        {
+          "name": "LIPOWITZ Florian",
+          "country": "de",
+          "startNumber": "45"
+        },
+        {
+          "name": "MULLEN Ryan",
+          "country": "ie",
+          "startNumber": "46"
+        },
+        {
+          "name": "SCHACHMANN Maximilian",
+          "country": "de",
+          "startNumber": "47"
+        },
+        {
+          "name": "VAN POPPEL Danny",
+          "country": "nl",
+          "startNumber": "48"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/cofidis-2024.png",
+      "name": "Cofidis (WT)",
+      "shortName": "cofidis-2024",
+      "riders": [
+        {
+          "name": "OLDANI Stefano",
+          "country": "it",
+          "startNumber": "51"
+        },
+        {
+          "name": "ANIOŁKOWSKI Stanisław",
+          "country": "pl",
+          "startNumber": "52"
+        },
+        {
+          "name": "CHAMPION Thomas",
+          "country": "fr",
+          "startNumber": "53"
+        },
+        {
+          "name": "DEBEAUMARCHÉ Nicolas",
+          "country": "fr",
+          "startNumber": "54"
+        },
+        {
+          "name": "FERNÁNDEZ Rubén",
+          "country": "es",
+          "startNumber": "55"
+        },
+        {
+          "name": "GESCHKE Simon",
+          "country": "de",
+          "startNumber": "56"
+        },
+        {
+          "name": "THOMAS Benjamin",
+          "country": "fr",
+          "startNumber": "57"
+        },
+        {
+          "name": "WOOD Harrison",
+          "country": "gb",
+          "startNumber": "58"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/decathlon-ag2r-la-mondiale-2024-n2.png",
+      "name": "Decathlon AG2R La Mondiale Team (WT)",
+      "shortName": "decathlon-ag2r-la-mondiale-2024",
+      "riders": [
+        {
+          "name": "O'CONNOR Ben",
+          "country": "au",
+          "startNumber": "61"
+        },
+        {
+          "name": "BAUDIN Alex",
+          "country": "fr",
+          "startNumber": "62"
+        },
+        {
+          "name": "PARET-PEINTRE Aurélien",
+          "country": "fr",
+          "startNumber": "63"
+        },
+        {
+          "name": "PARET-PEINTRE Valentin",
+          "country": "fr",
+          "startNumber": "64"
+        },
+        {
+          "name": "TOUZÉ Damien",
+          "country": "fr",
+          "startNumber": "65"
+        },
+        {
+          "name": "TRONCHON Bastien",
+          "country": "fr",
+          "startNumber": "66"
+        },
+        {
+          "name": "VENDRAME Andrea",
+          "country": "it",
+          "startNumber": "67"
+        },
+        {
+          "name": "WARBASSE Larry",
+          "country": "us",
+          "startNumber": "68"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/ef-education-easypost-2024-n2.png",
+      "name": "EF Education - EasyPost (WT)",
+      "shortName": "ef-education-easypost-2024",
+      "riders": [
+        {
+          "name": "CHAVES Esteban",
+          "country": "co",
+          "startNumber": "71"
+        },
+        {
+          "name": "CEPEDA Jefferson Alexander",
+          "country": "ec",
+          "startNumber": "72"
+        },
+        {
+          "name": "DE BOD Stefan",
+          "country": "za",
+          "startNumber": "73"
+        },
+        {
+          "name": "CARR Simon",
+          "country": "gb",
+          "startNumber": "74"
+        },
+        {
+          "name": "HONORÉ Mikkel Frølich",
+          "country": "dk",
+          "startNumber": "75"
+        },
+        {
+          "name": "PICCOLO Andrea",
+          "country": "it",
+          "startNumber": "76"
+        },
+        {
+          "name": "STEINHAUSER Georg",
+          "country": "de",
+          "startNumber": "77"
+        },
+        {
+          "name": "VALGREN Michael",
+          "country": "dk",
+          "startNumber": "78"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/groupama-fdj-2024.png",
+      "name": "Groupama - FDJ (WT)",
+      "shortName": "groupama-fdj-2024",
+      "riders": [
+        {
+          "name": "PITHIE Laurence",
+          "country": "nz",
+          "startNumber": "81"
+        },
+        {
+          "name": "ASKEY Lewis",
+          "country": "gb",
+          "startNumber": "82"
+        },
+        {
+          "name": "BARTHE Cyril",
+          "country": "fr",
+          "startNumber": "83"
+        },
+        {
+          "name": "DAVY Clément",
+          "country": "fr",
+          "startNumber": "84"
+        },
+        {
+          "name": "GERMANI Lorenzo",
+          "country": "it",
+          "startNumber": "85"
+        },
+        {
+          "name": "LE GAC Olivier",
+          "country": "fr",
+          "startNumber": "86"
+        },
+        {
+          "name": "LIENHARD Fabian",
+          "country": "ch",
+          "startNumber": "87"
+        },
+        {
+          "name": "PALENI Enzo",
+          "country": "fr",
+          "startNumber": "88"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/intermarche-wanty-2024.png",
+      "name": "Intermarché - Wanty (WT)",
+      "shortName": "intermarche-wanty-2024",
+      "riders": [
+        {
+          "name": "GIRMAY Biniam",
+          "country": "er",
+          "startNumber": "91"
+        },
+        {
+          "name": "CALMEJANE Lilian",
+          "country": "fr",
+          "startNumber": "92"
+        },
+        {
+          "name": "COLLEONI Kevin",
+          "country": "it",
+          "startNumber": "93"
+        },
+        {
+          "name": "DE POOTER Dries",
+          "country": "be",
+          "startNumber": "94"
+        },
+        {
+          "name": "MIHKELS Madis",
+          "country": "ee",
+          "startNumber": "95"
+        },
+        {
+          "name": "PETIT Adrien",
+          "country": "fr",
+          "startNumber": "96"
+        },
+        {
+          "name": "SMITH Dion",
+          "country": "nz",
+          "startNumber": "97"
+        },
+        {
+          "name": "VAN SINTMAARTENSDIJK Roel",
+          "country": "nl",
+          "startNumber": "98"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/israel-premier-tech-2024.png",
+      "name": "Israel - Premier Tech (PRT)",
+      "shortName": "israel-premier-tech-2024",
+      "riders": [
+        {
+          "name": "WOODS Michael",
+          "country": "ca",
+          "startNumber": "101"
+        },
+        {
+          "name": "CLARKE Simon",
+          "country": "au",
+          "startNumber": "102"
+        },
+        {
+          "name": "FRIGO Marco",
+          "country": "it",
+          "startNumber": "103"
+        },
+        {
+          "name": "HOFSTETTER Hugo",
+          "country": "fr",
+          "startNumber": "104"
+        },
+        {
+          "name": "PICKRELL Riley",
+          "country": "ca",
+          "startNumber": "105"
+        },
+        {
+          "name": "RAISBERG Nadav",
+          "country": "il",
+          "startNumber": "106"
+        },
+        {
+          "name": "SCHULTZ Nick",
+          "country": "au",
+          "startNumber": "107"
+        },
+        {
+          "name": "VERNON Ethan",
+          "country": "gb",
+          "startNumber": "109"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/lidl-trek-2024.png",
+      "name": "Lidl - Trek (WT)",
+      "shortName": "lidl-trek-2024",
+      "riders": [
+        {
+          "name": "MILAN Jonathan",
+          "country": "it",
+          "startNumber": "111"
+        },
+        {
+          "name": "BAGIOLI Andrea",
+          "country": "it",
+          "startNumber": "112"
+        },
+        {
+          "name": "CONSONNI Simone",
+          "country": "it",
+          "startNumber": "113"
+        },
+        {
+          "name": "GHEBREIGZABHIER Amanuel",
+          "country": "er",
+          "startNumber": "114"
+        },
+        {
+          "name": "HOOLE Daan",
+          "country": "nl",
+          "startNumber": "115"
+        },
+        {
+          "name": "LÓPEZ Juan Pedro",
+          "country": "es",
+          "startNumber": "116"
+        },
+        {
+          "name": "STUYVEN Jasper",
+          "country": "be",
+          "startNumber": "117"
+        },
+        {
+          "name": "THEUNS Edward",
+          "country": "be",
+          "startNumber": "118"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/movistar-team-2024.png",
+      "name": "Movistar Team (WT)",
+      "shortName": "movistar-team-2024",
+      "riders": [
+        {
+          "name": "QUINTANA Nairo",
+          "country": "co",
+          "startNumber": "121"
+        },
+        {
+          "name": "BARTA Will",
+          "country": "us",
+          "startNumber": "122"
+        },
+        {
+          "name": "CIMOLAI Davide",
+          "country": "it",
+          "startNumber": "123"
+        },
+        {
+          "name": "GAVIRIA Fernando",
+          "country": "co",
+          "startNumber": "124"
+        },
+        {
+          "name": "MILESI Lorenzo",
+          "country": "it",
+          "startNumber": "125"
+        },
+        {
+          "name": "RUBIO Einer",
+          "country": "co",
+          "startNumber": "126"
+        },
+        {
+          "name": "SÁNCHEZ Pelayo",
+          "country": "es",
+          "startNumber": "127"
+        },
+        {
+          "name": "TORRES Albert",
+          "country": "es",
+          "startNumber": "128"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/soudal-quick-step-2024.png",
+      "name": "Soudal Quick-Step (WT)",
+      "shortName": "soudal-quick-step-2024",
+      "riders": [
+        {
+          "name": "ALAPHILIPPE Julian",
+          "country": "fr",
+          "startNumber": "131"
+        },
+        {
+          "name": "ČERNÝ Josef",
+          "country": "cz",
+          "startNumber": "132"
+        },
+        {
+          "name": "HIRT Jan",
+          "country": "cz",
+          "startNumber": "133"
+        },
+        {
+          "name": "LAMPERTI Luke",
+          "country": "us",
+          "startNumber": "134"
+        },
+        {
+          "name": "MERLIER Tim",
+          "country": "be",
+          "startNumber": "135"
+        },
+        {
+          "name": "SERRY Pieter",
+          "country": "be",
+          "startNumber": "136"
+        },
+        {
+          "name": "VAN LERBERGHE Bert",
+          "country": "be",
+          "startNumber": "137"
+        },
+        {
+          "name": "VANSEVENANT Mauri",
+          "country": "be",
+          "startNumber": "138"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/team-dsm-firmenich-postnl-2024.png",
+      "name": "Team dsm-firmenich PostNL (WT)",
+      "shortName": "team-dsm-firmenich-postnl-2024",
+      "riders": [
+        {
+          "name": "BARDET Romain",
+          "country": "fr",
+          "startNumber": "141"
+        },
+        {
+          "name": "ANDRESEN Tobias Lund",
+          "country": "dk",
+          "startNumber": "142"
+        },
+        {
+          "name": "HAMILTON Chris",
+          "country": "au",
+          "startNumber": "143"
+        },
+        {
+          "name": "JAKOBSEN Fabio",
+          "country": "nl",
+          "startNumber": "144"
+        },
+        {
+          "name": "LEEMREIZE Gijs",
+          "country": "nl",
+          "startNumber": "145"
+        },
+        {
+          "name": "VAN DEN BERG Julius",
+          "country": "nl",
+          "startNumber": "146"
+        },
+        {
+          "name": "VERMAERKE Kevin",
+          "country": "us",
+          "startNumber": "147"
+        },
+        {
+          "name": "WELTEN Bram",
+          "country": "nl",
+          "startNumber": "148"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/team-jayco-alula-2024.png",
+      "name": "Team Jayco AlUla (WT)",
+      "shortName": "team-jayco-alula-2024",
+      "riders": [
+        {
+          "name": "DE MARCHI Alessandro",
+          "country": "it",
+          "startNumber": "151"
+        },
+        {
+          "name": "DUNBAR Eddie",
+          "country": "ie",
+          "startNumber": "152"
+        },
+        {
+          "name": "EWAN Caleb",
+          "country": "au",
+          "startNumber": "153"
+        },
+        {
+          "name": "HEPBURN Michael",
+          "country": "au",
+          "startNumber": "154"
+        },
+        {
+          "name": "MEZGEC Luka",
+          "country": "si",
+          "startNumber": "155"
+        },
+        {
+          "name": "PLAPP Luke",
+          "country": "au",
+          "startNumber": "156"
+        },
+        {
+          "name": "WALSCHEID Max",
+          "country": "de",
+          "startNumber": "157"
+        },
+        {
+          "name": "ZANA Filippo",
+          "country": "it",
+          "startNumber": "158"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/team-polti-kometa-2024-n2.png",
+      "name": "Team Polti Kometa (PRT)",
+      "shortName": "team-polti-kometa-2024",
+      "riders": [
+        {
+          "name": "FABBRO Matteo",
+          "country": "it",
+          "startNumber": "161"
+        },
+        {
+          "name": "BAIS Davide",
+          "country": "it",
+          "startNumber": "162"
+        },
+        {
+          "name": "BAIS Mattia",
+          "country": "it",
+          "startNumber": "163"
+        },
+        {
+          "name": "LONARDI Giovanni",
+          "country": "it",
+          "startNumber": "164"
+        },
+        {
+          "name": "MAESTRI Mirco",
+          "country": "it",
+          "startNumber": "165"
+        },
+        {
+          "name": "MUÑOZ Francisco",
+          "country": "es",
+          "startNumber": "166"
+        },
+        {
+          "name": "PIETROBON Andrea",
+          "country": "it",
+          "startNumber": "167"
+        },
+        {
+          "name": "PIGANZOLI Davide",
+          "country": "it",
+          "startNumber": "168"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/team-visma-lease-a-bike-2024.png",
+      "name": "Team Visma | Lease a Bike (WT)",
+      "shortName": "team-visma-lease-a-bike-2024",
+      "riders": [
+        {
+          "name": "LAPORTE Christophe",
+          "country": "fr",
+          "startNumber": "171"
+        },
+        {
+          "name": "AFFINI Edoardo",
+          "country": "it",
+          "startNumber": "172"
+        },
+        {
+          "name": "GESINK Robert",
+          "country": "nl",
+          "startNumber": "173"
+        },
+        {
+          "name": "KOOIJ Olav",
+          "country": "nl",
+          "startNumber": "174"
+        },
+        {
+          "name": "TRATNIK Jan",
+          "country": "si",
+          "startNumber": "175"
+        },
+        {
+          "name": "UIJTDEBROEKS Cian",
+          "country": "be",
+          "startNumber": "176"
+        },
+        {
+          "name": "VALTER Attila",
+          "country": "hu",
+          "startNumber": "177"
+        },
+        {
+          "name": "VAN DIJKE Tim",
+          "country": "nl",
+          "startNumber": "178"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/tudor-pro-cycling-team-2024.png",
+      "name": "Tudor Pro Cycling Team (PRT)",
+      "shortName": "tudor-pro-cycling-team-2024",
+      "riders": [
+        {
+          "name": "TRENTIN Matteo",
+          "country": "it",
+          "startNumber": "181"
+        },
+        {
+          "name": "DAINESE Alberto",
+          "country": "it",
+          "startNumber": "182"
+        },
+        {
+          "name": "FROIDEVAUX Robin",
+          "country": "ch",
+          "startNumber": "183"
+        },
+        {
+          "name": "KAMP Alexander",
+          "country": "dk",
+          "startNumber": "184"
+        },
+        {
+          "name": "KRIEGER Alexander",
+          "country": "de",
+          "startNumber": "185"
+        },
+        {
+          "name": "MAYRHOFER Marius",
+          "country": "de",
+          "startNumber": "186"
+        },
+        {
+          "name": "STORER Michael",
+          "country": "au",
+          "startNumber": "187"
+        },
+        {
+          "name": "STORK Florian",
+          "country": "de",
+          "startNumber": "188"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/uae-team-emirates-2024.png",
+      "name": "UAE Team Emirates (WT)",
+      "shortName": "uae-team-emirates-2024",
+      "riders": [
+        {
+          "name": "POGAČAR Tadej",
+          "country": "si",
+          "startNumber": "191"
+        },
+        {
+          "name": "OLIVEIRA Rui",
+          "country": "pt",
+          "startNumber": "192"
+        },
+        {
+          "name": "BJERG Mikkel",
+          "country": "dk",
+          "startNumber": "193"
+        },
+        {
+          "name": "GROßSCHARTNER Felix",
+          "country": "at",
+          "startNumber": "194"
+        },
+        {
+          "name": "LAENGEN Vegard Stake",
+          "country": "no",
+          "startNumber": "195"
+        },
+        {
+          "name": "MAJKA Rafał",
+          "country": "pl",
+          "startNumber": "196"
+        },
+        {
+          "name": "MOLANO Juan Sebastián",
+          "country": "co",
+          "startNumber": "197"
+        },
+        {
+          "name": "NOVAK Domen",
+          "country": "si",
+          "startNumber": "198"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/green-project-bardiani-csf-faizane-2024-n2.png",
+      "name": "VF Group - Bardiani CSF - Faizanè (PRT)",
+      "shortName": "vf-group-bardiani-csf-faizane-2024",
+      "riders": [
+        {
+          "name": "POZZOVIVO Domenico",
+          "country": "it",
+          "startNumber": "201"
+        },
+        {
+          "name": "COVILI Luca",
+          "country": "it",
+          "startNumber": "202"
+        },
+        {
+          "name": "FIORELLI Filippo",
+          "country": "it",
+          "startNumber": "203"
+        },
+        {
+          "name": "MARCELLUSI Martin",
+          "country": "it",
+          "startNumber": "204"
+        },
+        {
+          "name": "PELLIZZARI Giulio",
+          "country": "it",
+          "startNumber": "205"
+        },
+        {
+          "name": "TAROZZI Manuele",
+          "country": "it",
+          "startNumber": "206"
+        },
+        {
+          "name": "TONELLI Alessandro",
+          "country": "it",
+          "startNumber": "207"
+        },
+        {
+          "name": "ZANONCELLO Enrico",
+          "country": "it",
+          "startNumber": "208"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/bahrain-victorious-2024.png",
+      "name": "Bahrain - Victorious (WT)",
+      "shortName": "bahrain-victorious-2024",
+      "riders": [
+        {
+          "name": "TIBERI Antonio",
+          "country": "it",
+          "startNumber": "211"
+        },
+        {
+          "name": "KEPPLINGER Rainer",
+          "country": "at",
+          "startNumber": "212"
+        },
+        {
+          "name": "BAUHAUS Phil",
+          "country": "de",
+          "startNumber": "213"
+        },
+        {
+          "name": "CARUSO Damiano",
+          "country": "it",
+          "startNumber": "214"
+        },
+        {
+          "name": "PASQUALON Andrea",
+          "country": "it",
+          "startNumber": "215"
+        },
+        {
+          "name": "ZAMBANINI Edoardo",
+          "country": "it",
+          "startNumber": "216"
+        },
+        {
+          "name": "SÜTTERLIN Jasha",
+          "country": "de",
+          "startNumber": "217"
+        },
+        {
+          "name": "TRÆEN Torstein",
+          "country": "no",
+          "startNumber": "218"
+        }
+      ]
+    }
+  ],
+  "scrapedAt": "2025-08-29T17:36:20.244Z"
+}
