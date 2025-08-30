@@ -150,6 +150,7 @@ function printHelpAndExit(code = 1) {
         rider.name = $el.find('a').text().trim();
         rider.country = $el.find('.flag').attr('class').split(' ')[1];
         rider.startNumber = $el.find('.bib').text().trim();
+        rider.dropout = Boolean($el.eq(0).hasClass('dropout'));
         team.riders.push(rider);
       });
       

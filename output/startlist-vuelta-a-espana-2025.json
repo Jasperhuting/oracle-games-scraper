@@ -12,42 +12,50 @@
         {
           "name": "ALMEIDA João",
           "country": "pt",
-          "startNumber": "1"
+          "startNumber": "1",
+          "dropout": false
         },
         {
           "name": "AYUSO Juan",
           "country": "es",
-          "startNumber": "2"
+          "startNumber": "2",
+          "dropout": false
         },
         {
           "name": "BJERG Mikkel",
           "country": "dk",
-          "startNumber": "3"
+          "startNumber": "3",
+          "dropout": false
         },
         {
           "name": "GROßSCHARTNER Felix",
           "country": "at",
-          "startNumber": "4"
+          "startNumber": "4",
+          "dropout": false
         },
         {
           "name": "NOVAK Domen",
           "country": "si",
-          "startNumber": "5"
+          "startNumber": "5",
+          "dropout": false
         },
         {
           "name": "OLIVEIRA Ivo",
           "country": "pt",
-          "startNumber": "6"
+          "startNumber": "6",
+          "dropout": false
         },
         {
           "name": "SOLER Marc",
           "country": "es",
-          "startNumber": "7"
+          "startNumber": "7",
+          "dropout": false
         },
         {
           "name": "VINE Jay",
           "country": "au",
-          "startNumber": "8"
+          "startNumber": "8",
+          "dropout": false
         }
       ]
     },
@@ -59,42 +67,50 @@
         {
           "name": "VINGEGAARD Jonas",
           "country": "dk",
-          "startNumber": "11"
+          "startNumber": "11",
+          "dropout": false
         },
         {
           "name": "ZINGLE Axel",
           "country": "fr",
-          "startNumber": "12"
+          "startNumber": "12",
+          "dropout": true
         },
         {
           "name": "CAMPENAERTS Victor",
           "country": "be",
-          "startNumber": "13"
+          "startNumber": "13",
+          "dropout": false
         },
         {
           "name": "JORGENSON Matteo",
           "country": "us",
-          "startNumber": "14"
+          "startNumber": "14",
+          "dropout": false
         },
         {
           "name": "KELDERMAN Wilco",
           "country": "nl",
-          "startNumber": "15"
+          "startNumber": "15",
+          "dropout": false
         },
         {
           "name": "KUSS Sepp",
           "country": "us",
-          "startNumber": "16"
+          "startNumber": "16",
+          "dropout": false
         },
         {
           "name": "TULETT Ben",
           "country": "gb",
-          "startNumber": "17"
+          "startNumber": "17",
+          "dropout": false
         },
         {
           "name": "VAN BAARLE Dylan",
           "country": "nl",
-          "startNumber": "18"
+          "startNumber": "18",
+          "dropout": false
         }
       ]
     },
@@ -106,42 +122,50 @@
         {
           "name": "BAGIOLI Andrea",
           "country": "it",
-          "startNumber": "21"
+          "startNumber": "21",
+          "dropout": false
         },
         {
           "name": "BERNARD Julien",
           "country": "fr",
-          "startNumber": "22"
+          "startNumber": "22",
+          "dropout": false
         },
         {
           "name": "CICCONE Giulio",
           "country": "it",
-          "startNumber": "23"
+          "startNumber": "23",
+          "dropout": false
         },
         {
           "name": "GHEBREIGZABHIER Amanuel",
           "country": "er",
-          "startNumber": "24"
+          "startNumber": "24",
+          "dropout": false
         },
         {
           "name": "HOOLE Daan",
           "country": "nl",
-          "startNumber": "25"
+          "startNumber": "25",
+          "dropout": false
         },
         {
           "name": "KRAGH ANDERSEN Søren",
           "country": "dk",
-          "startNumber": "26"
+          "startNumber": "26",
+          "dropout": false
         },
         {
           "name": "PEDERSEN Mads",
           "country": "dk",
-          "startNumber": "27"
+          "startNumber": "27",
+          "dropout": false
         },
         {
           "name": "VERONA Carlos",
           "country": "es",
-          "startNumber": "28"
+          "startNumber": "28",
+          "dropout": false
         }
       ]
     },
@@ -153,42 +177,50 @@
         {
           "name": "ARCAS Jorge",
           "country": "es",
-          "startNumber": "31"
+          "startNumber": "31",
+          "dropout": true
         },
         {
           "name": "AULAR Orluis",
           "country": "ve",
-          "startNumber": "32"
+          "startNumber": "32",
+          "dropout": false
         },
         {
           "name": "CANAL Carlos",
           "country": "es",
-          "startNumber": "33"
+          "startNumber": "33",
+          "dropout": false
         },
         {
           "name": "CASTRILLO Pablo",
           "country": "es",
-          "startNumber": "34"
+          "startNumber": "34",
+          "dropout": false
         },
         {
           "name": "CEPEDA Jefferson Alveiro",
           "country": "ec",
-          "startNumber": "35"
+          "startNumber": "35",
+          "dropout": false
         },
         {
           "name": "GARCÍA CORTINA Iván",
           "country": "es",
-          "startNumber": "36"
+          "startNumber": "36",
+          "dropout": false
         },
         {
           "name": "HESSMANN Michel",
           "country": "de",
-          "startNumber": "37"
+          "startNumber": "37",
+          "dropout": false
         },
         {
           "name": "ROMO Javier",
           "country": "es",
-          "startNumber": "38"
+          "startNumber": "38",
+          "dropout": false
         }
       ]
     },
@@ -200,42 +232,50 @@
         {
           "name": "HINDLEY Jai",
           "country": "au",
-          "startNumber": "41"
+          "startNumber": "41",
+          "dropout": false
         },
         {
           "name": "ALEOTTI Giovanni",
           "country": "it",
-          "startNumber": "42"
+          "startNumber": "42",
+          "dropout": false
         },
         {
           "name": "DENZ Nico",
           "country": "de",
-          "startNumber": "43"
+          "startNumber": "43",
+          "dropout": false
         },
         {
           "name": "FISHER-BLACK Finn",
           "country": "nz",
-          "startNumber": "44"
+          "startNumber": "44",
+          "dropout": false
         },
         {
           "name": "PELLIZZARI Giulio",
           "country": "it",
-          "startNumber": "45"
+          "startNumber": "45",
+          "dropout": false
         },
         {
           "name": "SOBRERO Matteo",
           "country": "it",
-          "startNumber": "46"
+          "startNumber": "46",
+          "dropout": false
         },
         {
           "name": "VAN DIJKE Tim",
           "country": "nl",
-          "startNumber": "47"
+          "startNumber": "47",
+          "dropout": false
         },
         {
           "name": "ZWIEHOFF Ben",
           "country": "de",
-          "startNumber": "48"
+          "startNumber": "48",
+          "dropout": false
         }
       ]
     },
@@ -247,42 +287,50 @@
         {
           "name": "LANDA Mikel",
           "country": "es",
-          "startNumber": "51"
+          "startNumber": "51",
+          "dropout": false
         },
         {
           "name": "LECERF Junior",
           "country": "be",
-          "startNumber": "52"
+          "startNumber": "52",
+          "dropout": false
         },
         {
           "name": "PARET-PEINTRE Valentin",
           "country": "fr",
-          "startNumber": "53"
+          "startNumber": "53",
+          "dropout": true
         },
         {
           "name": "REINDERINK Pepijn",
           "country": "nl",
-          "startNumber": "54"
+          "startNumber": "54",
+          "dropout": true
         },
         {
           "name": "SCHACHMANN Maximilian",
           "country": "de",
-          "startNumber": "55"
+          "startNumber": "55",
+          "dropout": false
         },
         {
           "name": "VANSEVENANT Mauri",
           "country": "be",
-          "startNumber": "56"
+          "startNumber": "56",
+          "dropout": false
         },
         {
           "name": "VERVAEKE Louis",
           "country": "be",
-          "startNumber": "57"
+          "startNumber": "57",
+          "dropout": false
         },
         {
           "name": "GAROFOLI Gianmarco",
           "country": "it",
-          "startNumber": "58"
+          "startNumber": "58",
+          "dropout": false
         }
       ]
     },
@@ -294,42 +342,50 @@
         {
           "name": "SHEFFIELD Magnus",
           "country": "us",
-          "startNumber": "61"
+          "startNumber": "61",
+          "dropout": false
         },
         {
           "name": "BERNAL Egan",
           "country": "co",
-          "startNumber": "62"
+          "startNumber": "62",
+          "dropout": false
         },
         {
           "name": "GANNA Filippo",
           "country": "it",
-          "startNumber": "63"
+          "startNumber": "63",
+          "dropout": false
         },
         {
           "name": "JUNGELS Bob",
           "country": "lu",
-          "startNumber": "64"
+          "startNumber": "64",
+          "dropout": false
         },
         {
           "name": "KWIATKOWSKI Michał",
           "country": "pl",
-          "startNumber": "65"
+          "startNumber": "65",
+          "dropout": false
         },
         {
           "name": "LANGELLOTTI Victor",
           "country": "mc",
-          "startNumber": "66"
+          "startNumber": "66",
+          "dropout": false
         },
         {
           "name": "RIVERA Brandon Smith",
           "country": "co",
-          "startNumber": "67"
+          "startNumber": "67",
+          "dropout": false
         },
         {
           "name": "TURNER Ben",
           "country": "gb",
-          "startNumber": "68"
+          "startNumber": "68",
+          "dropout": false
         }
       ]
     },
@@ -341,42 +397,50 @@
         {
           "name": "PHILIPSEN Jasper",
           "country": "be",
-          "startNumber": "71"
+          "startNumber": "71",
+          "dropout": false
         },
         {
           "name": "BAYER Tobias",
           "country": "at",
-          "startNumber": "72"
+          "startNumber": "72",
+          "dropout": false
         },
         {
           "name": "DEBRUYNE Ramses",
           "country": "be",
-          "startNumber": "73"
+          "startNumber": "73",
+          "dropout": false
         },
         {
           "name": "GLIVAR Gal",
           "country": "si",
-          "startNumber": "74"
+          "startNumber": "74",
+          "dropout": false
         },
         {
           "name": "PLANCKAERT Edward",
           "country": "be",
-          "startNumber": "75"
+          "startNumber": "75",
+          "dropout": false
         },
         {
           "name": "RICKAERT Jonas",
           "country": "be",
-          "startNumber": "76"
+          "startNumber": "76",
+          "dropout": false
         },
         {
           "name": "RIESEBEEK Oscar",
           "country": "nl",
-          "startNumber": "77"
+          "startNumber": "77",
+          "dropout": false
         },
         {
           "name": "VERGALLITO Luca",
           "country": "it",
-          "startNumber": "78"
+          "startNumber": "78",
+          "dropout": true
         }
       ]
     },
@@ -388,42 +452,50 @@
         {
           "name": "CHAVES Esteban",
           "country": "co",
-          "startNumber": "81"
+          "startNumber": "81",
+          "dropout": false
         },
         {
           "name": "BELOKI Markel",
           "country": "es",
-          "startNumber": "82"
+          "startNumber": "82",
+          "dropout": false
         },
         {
           "name": "MIHKELS Madis",
           "country": "ee",
-          "startNumber": "83"
+          "startNumber": "83",
+          "dropout": false
         },
         {
           "name": "NERURKAR Lukas",
           "country": "gb",
-          "startNumber": "84"
+          "startNumber": "84",
+          "dropout": false
         },
         {
           "name": "QUINN Sean",
           "country": "us",
-          "startNumber": "85"
+          "startNumber": "85",
+          "dropout": false
         },
         {
           "name": "RYAN Archie",
           "country": "ie",
-          "startNumber": "86"
+          "startNumber": "86",
+          "dropout": false
         },
         {
           "name": "SHAW James",
           "country": "gb",
-          "startNumber": "87"
+          "startNumber": "87",
+          "dropout": false
         },
         {
           "name": "VAN DER LEE Jardi Christiaan",
           "country": "nl",
-          "startNumber": "88"
+          "startNumber": "88",
+          "dropout": false
         }
       ]
     },
@@ -435,42 +507,50 @@
         {
           "name": "GALL Felix",
           "country": "at",
-          "startNumber": "91"
+          "startNumber": "91",
+          "dropout": false
         },
         {
           "name": "ARMIRAIL Bruno",
           "country": "fr",
-          "startNumber": "92"
+          "startNumber": "92",
+          "dropout": false
         },
         {
           "name": "BISIAUX Léo",
           "country": "fr",
-          "startNumber": "93"
+          "startNumber": "93",
+          "dropout": false
         },
         {
           "name": "DE PESTEL Sander",
           "country": "be",
-          "startNumber": "94"
+          "startNumber": "94",
+          "dropout": false
         },
         {
           "name": "LABROSSE Jordan",
           "country": "fr",
-          "startNumber": "95"
+          "startNumber": "95",
+          "dropout": false
         },
         {
           "name": "PETERS Nans",
           "country": "fr",
-          "startNumber": "96"
+          "startNumber": "96",
+          "dropout": false
         },
         {
           "name": "SCOTSON Callum",
           "country": "au",
-          "startNumber": "97"
+          "startNumber": "97",
+          "dropout": false
         },
         {
           "name": "STAUNE-MITTET Johannes",
           "country": "no",
-          "startNumber": "98"
+          "startNumber": "98",
+          "dropout": false
         }
       ]
     },
@@ -482,42 +562,50 @@
         {
           "name": "TIBERI Antonio",
           "country": "it",
-          "startNumber": "101"
+          "startNumber": "101",
+          "dropout": false
         },
         {
           "name": "BUITRAGO Santiago",
           "country": "co",
-          "startNumber": "102"
+          "startNumber": "102",
+          "dropout": false
         },
         {
           "name": "BURATTI Nicolò",
           "country": "it",
-          "startNumber": "103"
+          "startNumber": "103",
+          "dropout": false
         },
         {
           "name": "ERMAKOV Roman",
           "country": "ru",
-          "startNumber": "104"
+          "startNumber": "104",
+          "dropout": false
         },
         {
           "name": "HAIG Jack",
           "country": "au",
-          "startNumber": "105"
+          "startNumber": "105",
+          "dropout": false
         },
         {
           "name": "PAASSCHENS Mathijs",
           "country": "nl",
-          "startNumber": "106"
+          "startNumber": "106",
+          "dropout": false
         },
         {
           "name": "PICKERING Finlay",
           "country": "gb",
-          "startNumber": "107"
+          "startNumber": "107",
+          "dropout": false
         },
         {
           "name": "TRÆEN Torstein",
           "country": "no",
-          "startNumber": "108"
+          "startNumber": "108",
+          "dropout": false
         }
       ]
     },
@@ -529,42 +617,50 @@
         {
           "name": "PIDCOCK Thomas",
           "country": "gb",
-          "startNumber": "111"
+          "startNumber": "111",
+          "dropout": false
         },
         {
           "name": "DE LA CRUZ David",
           "country": "es",
-          "startNumber": "112"
+          "startNumber": "112",
+          "dropout": false
         },
         {
           "name": "AZPARREN Xabier Mikel",
           "country": "es",
-          "startNumber": "113"
+          "startNumber": "113",
+          "dropout": false
         },
         {
           "name": "CHRISTEN Fabio",
           "country": "ch",
-          "startNumber": "114"
+          "startNumber": "114",
+          "dropout": false
         },
         {
           "name": "HOWSON Damien",
           "country": "au",
-          "startNumber": "115"
+          "startNumber": "115",
+          "dropout": false
         },
         {
           "name": "ZUKOWSKY Nickolas",
           "country": "ca",
-          "startNumber": "116"
+          "startNumber": "116",
+          "dropout": false
         },
         {
           "name": "GONZÁLEZ David",
           "country": "es",
-          "startNumber": "117"
+          "startNumber": "117",
+          "dropout": false
         },
         {
           "name": "CAMPRUBÍ Marcel",
           "country": "es",
-          "startNumber": "118"
+          "startNumber": "118",
+          "dropout": false
         }
       ]
     },
@@ -576,42 +672,50 @@
         {
           "name": "TEJADA Harold",
           "country": "co",
-          "startNumber": "121"
+          "startNumber": "121",
+          "dropout": false
         },
         {
           "name": "CONCI Nicola",
           "country": "it",
-          "startNumber": "122"
+          "startNumber": "122",
+          "dropout": false
         },
         {
           "name": "FORTUNATO Lorenzo",
           "country": "it",
-          "startNumber": "123"
+          "startNumber": "123",
+          "dropout": false
         },
         {
           "name": "HIGUITA Sergio",
           "country": "co",
-          "startNumber": "124"
+          "startNumber": "124",
+          "dropout": false
         },
         {
           "name": "LÓPEZ Harold Martín",
           "country": "ec",
-          "startNumber": "125"
+          "startNumber": "125",
+          "dropout": false
         },
         {
           "name": "MASNADA Fausto",
           "country": "it",
-          "startNumber": "126"
+          "startNumber": "126",
+          "dropout": false
         },
         {
           "name": "POELS Wout",
           "country": "nl",
-          "startNumber": "127"
+          "startNumber": "127",
+          "dropout": false
         },
         {
           "name": "VINOKUROV Nicolas",
           "country": "kz",
-          "startNumber": "128"
+          "startNumber": "128",
+          "dropout": false
         }
       ]
     },
@@ -623,42 +727,50 @@
         {
           "name": "BRAZ AFONSO Clément",
           "country": "fr",
-          "startNumber": "131"
+          "startNumber": "131",
+          "dropout": false
         },
         {
           "name": "CAVAGNA Rémi",
           "country": "fr",
-          "startNumber": "132"
+          "startNumber": "132",
+          "dropout": false
         },
         {
           "name": "GAUDU David",
           "country": "fr",
-          "startNumber": "133"
+          "startNumber": "133",
+          "dropout": false
         },
         {
           "name": "GRUEL Thibaud",
           "country": "fr",
-          "startNumber": "134"
+          "startNumber": "134",
+          "dropout": false
         },
         {
           "name": "MARTIN Guillaume",
           "country": "fr",
-          "startNumber": "135"
+          "startNumber": "135",
+          "dropout": true
         },
         {
           "name": "MOLARD Rudy",
           "country": "fr",
-          "startNumber": "136"
+          "startNumber": "136",
+          "dropout": false
         },
         {
           "name": "ROLLAND Brieuc",
           "country": "fr",
-          "startNumber": "137"
+          "startNumber": "137",
+          "dropout": false
         },
         {
           "name": "KÜNG Stefan",
           "country": "ch",
-          "startNumber": "138"
+          "startNumber": "138",
+          "dropout": false
         }
       ]
     },
@@ -670,42 +782,50 @@
         {
           "name": "SILVA Guillermo Thomas",
           "country": "uy",
-          "startNumber": "141"
+          "startNumber": "141",
+          "dropout": false
         },
         {
           "name": "BALDERSTONE Abel",
           "country": "es",
-          "startNumber": "142"
+          "startNumber": "142",
+          "dropout": false
         },
         {
           "name": "BARCELÓ Fernando",
           "country": "es",
-          "startNumber": "143"
+          "startNumber": "143",
+          "dropout": false
         },
         {
           "name": "BOU Joan",
           "country": "es",
-          "startNumber": "144"
+          "startNumber": "144",
+          "dropout": false
         },
         {
           "name": "GUARDEÑO Jaume",
           "country": "es",
-          "startNumber": "145"
+          "startNumber": "145",
+          "dropout": false
         },
         {
           "name": "MOLENAAR Alex",
           "country": "nl",
-          "startNumber": "146"
+          "startNumber": "146",
+          "dropout": false
         },
         {
           "name": "NICOLAU Joel",
           "country": "es",
-          "startNumber": "147"
+          "startNumber": "147",
+          "dropout": false
         },
         {
           "name": "OTRUBA Jakub",
           "country": "cz",
-          "startNumber": "148"
+          "startNumber": "148",
+          "dropout": false
         }
       ]
     },
@@ -717,42 +837,50 @@
         {
           "name": "O'CONNOR Ben",
           "country": "au",
-          "startNumber": "151"
+          "startNumber": "151",
+          "dropout": false
         },
         {
           "name": "BOUWMAN Koen",
           "country": "nl",
-          "startNumber": "152"
+          "startNumber": "152",
+          "dropout": true
         },
         {
           "name": "DUNBAR Eddie",
           "country": "ie",
-          "startNumber": "153"
+          "startNumber": "153",
+          "dropout": false
         },
         {
           "name": "FOLDAGER Anders",
           "country": "dk",
-          "startNumber": "154"
+          "startNumber": "154",
+          "dropout": false
         },
         {
           "name": "GAMPER Patrick",
           "country": "at",
-          "startNumber": "155"
+          "startNumber": "155",
+          "dropout": false
         },
         {
           "name": "HARPER Chris",
           "country": "au",
-          "startNumber": "156"
+          "startNumber": "156",
+          "dropout": false
         },
         {
           "name": "JUUL-JENSEN Christopher",
           "country": "dk",
-          "startNumber": "157"
+          "startNumber": "157",
+          "dropout": false
         },
         {
           "name": "O'BRIEN Kelland",
           "country": "au",
-          "startNumber": "158"
+          "startNumber": "158",
+          "dropout": false
         }
       ]
     },
@@ -764,42 +892,50 @@
         {
           "name": "GARCÍA PIERNA Raúl",
           "country": "es",
-          "startNumber": "161"
+          "startNumber": "161",
+          "dropout": false
         },
         {
           "name": "BIERMANS Jenthe",
           "country": "be",
-          "startNumber": "162"
+          "startNumber": "162",
+          "dropout": false
         },
         {
           "name": "GUERNALEC Victor",
           "country": "fr",
-          "startNumber": "163"
+          "startNumber": "163",
+          "dropout": false
         },
         {
           "name": "LOZOUET Léandre",
           "country": "fr",
-          "startNumber": "164"
+          "startNumber": "164",
+          "dropout": false
         },
         {
           "name": "RODRÍGUEZ Cristián",
           "country": "es",
-          "startNumber": "165"
+          "startNumber": "165",
+          "dropout": true
         },
         {
           "name": "ROULAND Louis",
           "country": "fr",
-          "startNumber": "166"
+          "startNumber": "166",
+          "dropout": false
         },
         {
           "name": "VERRE Alessandro",
           "country": "it",
-          "startNumber": "167"
+          "startNumber": "167",
+          "dropout": false
         },
         {
           "name": "THIERRY Pierre",
           "country": "fr",
-          "startNumber": "168"
+          "startNumber": "168",
+          "dropout": false
         }
       ]
     },
@@ -811,42 +947,50 @@
         {
           "name": "BUCHMANN Emanuel",
           "country": "de",
-          "startNumber": "171"
+          "startNumber": "171",
+          "dropout": false
         },
         {
           "name": "SAMITIER Sergio",
           "country": "es",
-          "startNumber": "172"
+          "startNumber": "172",
+          "dropout": false
         },
         {
           "name": "ANIOŁKOWSKI Stanisław",
           "country": "pl",
-          "startNumber": "173"
+          "startNumber": "173",
+          "dropout": false
         },
         {
           "name": "CARR Simon",
           "country": "gb",
-          "startNumber": "174"
+          "startNumber": "174",
+          "dropout": true
         },
         {
           "name": "COQUARD Bryan",
           "country": "fr",
-          "startNumber": "175"
+          "startNumber": "175",
+          "dropout": false
         },
         {
           "name": "HERRADA Jesús",
           "country": "es",
-          "startNumber": "176"
+          "startNumber": "176",
+          "dropout": false
         },
         {
           "name": "KNIGHT Oliver",
           "country": "gb",
-          "startNumber": "177"
+          "startNumber": "177",
+          "dropout": false
         },
         {
           "name": "OURSELIN Paul",
           "country": "fr",
-          "startNumber": "178"
+          "startNumber": "178",
+          "dropout": false
         }
       ]
     },
@@ -858,42 +1002,50 @@
         {
           "name": "ARTZ Huub",
           "country": "nl",
-          "startNumber": "181"
+          "startNumber": "181",
+          "dropout": false
         },
         {
           "name": "BONNEU Kamiel",
           "country": "be",
-          "startNumber": "182"
+          "startNumber": "182",
+          "dropout": false
         },
         {
           "name": "DE POOTER Dries",
           "country": "be",
-          "startNumber": "183"
+          "startNumber": "183",
+          "dropout": false
         },
         {
           "name": "MARIT Arne",
           "country": "be",
-          "startNumber": "184"
+          "startNumber": "184",
+          "dropout": false
         },
         {
           "name": "MEINTJES Louis",
           "country": "za",
-          "startNumber": "185"
+          "startNumber": "185",
+          "dropout": false
         },
         {
           "name": "PETILLI Simone",
           "country": "it",
-          "startNumber": "186"
+          "startNumber": "186",
+          "dropout": false
         },
         {
           "name": "SMITH Dion",
           "country": "nz",
-          "startNumber": "187"
+          "startNumber": "187",
+          "dropout": false
         },
         {
           "name": "VAN BOVEN Luca",
           "country": "be",
-          "startNumber": "188"
+          "startNumber": "188",
+          "dropout": false
         }
       ]
     },
@@ -905,42 +1057,50 @@
         {
           "name": "EDDY Patrick",
           "country": "au",
-          "startNumber": "191"
+          "startNumber": "191",
+          "dropout": false
         },
         {
           "name": "HAMILTON Chris",
           "country": "au",
-          "startNumber": "192"
+          "startNumber": "192",
+          "dropout": false
         },
         {
           "name": "KOERDT Bjorn",
           "country": "gb",
-          "startNumber": "193"
+          "startNumber": "193",
+          "dropout": false
         },
         {
           "name": "LEEMREIZE Gijs",
           "country": "nl",
-          "startNumber": "194"
+          "startNumber": "194",
+          "dropout": false
         },
         {
           "name": "MARTINEZ Juan Guillermo",
           "country": "co",
-          "startNumber": "195"
+          "startNumber": "195",
+          "dropout": false
         },
         {
           "name": "ROOSEN Timo",
           "country": "nl",
-          "startNumber": "196"
+          "startNumber": "196",
+          "dropout": false
         },
         {
           "name": "VAN UDEN Casper",
           "country": "nl",
-          "startNumber": "197"
+          "startNumber": "197",
+          "dropout": false
         },
         {
           "name": "VERMAERKE Kevin",
           "country": "us",
-          "startNumber": "198"
+          "startNumber": "198",
+          "dropout": false
         }
       ]
     },
@@ -952,42 +1112,50 @@
         {
           "name": "CRAPS Lars",
           "country": "be",
-          "startNumber": "201"
+          "startNumber": "201",
+          "dropout": false
         },
         {
           "name": "DE BUYST Jasper",
           "country": "be",
-          "startNumber": "202"
+          "startNumber": "202",
+          "dropout": false
         },
         {
           "name": "LIVYNS Arjen",
           "country": "be",
-          "startNumber": "203"
+          "startNumber": "203",
+          "dropout": true
         },
         {
           "name": "SEGAERT Alec",
           "country": "be",
-          "startNumber": "204"
+          "startNumber": "204",
+          "dropout": false
         },
         {
           "name": "SEPÚLVEDA Eduardo",
           "country": "ar",
-          "startNumber": "205"
+          "startNumber": "205",
+          "dropout": false
         },
         {
           "name": "SLOCK Liam",
           "country": "be",
-          "startNumber": "206"
+          "startNumber": "206",
+          "dropout": false
         },
         {
           "name": "VIVIANI Elia",
           "country": "it",
-          "startNumber": "207"
+          "startNumber": "207",
+          "dropout": false
         },
         {
           "name": "GREGAARD Jonas",
           "country": "dk",
-          "startNumber": "208"
+          "startNumber": "208",
+          "dropout": false
         }
       ]
     },
@@ -999,42 +1167,50 @@
         {
           "name": "APARICIO Mario",
           "country": "es",
-          "startNumber": "211"
+          "startNumber": "211",
+          "dropout": false
         },
         {
           "name": "CHUMIL Sergio Geovani",
           "country": "gt",
-          "startNumber": "212"
+          "startNumber": "212",
+          "dropout": false
         },
         {
           "name": "FAGÚNDEZ Eric Antonio",
           "country": "uy",
-          "startNumber": "213"
+          "startNumber": "213",
+          "dropout": false
         },
         {
           "name": "FAURA José Luis",
           "country": "es",
-          "startNumber": "214"
+          "startNumber": "214",
+          "dropout": false
         },
         {
           "name": "DE LA CALLE Hugo",
           "country": "es",
-          "startNumber": "215"
+          "startNumber": "215",
+          "dropout": false
         },
         {
           "name": "GARCÍA PIERNA Carlos",
           "country": "es",
-          "startNumber": "216"
+          "startNumber": "216",
+          "dropout": true
         },
         {
           "name": "FERNÁNDEZ Sinuhé",
           "country": "es",
-          "startNumber": "217"
+          "startNumber": "217",
+          "dropout": false
         },
         {
           "name": "CAVIA Daniel",
           "country": "es",
-          "startNumber": "218"
+          "startNumber": "218",
+          "dropout": true
         }
       ]
     },
@@ -1046,45 +1222,53 @@
         {
           "name": "BENNETT George",
           "country": "nz",
-          "startNumber": "221"
+          "startNumber": "221",
+          "dropout": false
         },
         {
           "name": "CÔTÉ Pier-André",
           "country": "ca",
-          "startNumber": "222"
+          "startNumber": "222",
+          "dropout": false
         },
         {
           "name": "FRIGO Marco",
           "country": "it",
-          "startNumber": "223"
+          "startNumber": "223",
+          "dropout": false
         },
         {
           "name": "HIRT Jan",
           "country": "cz",
-          "startNumber": "224"
+          "startNumber": "224",
+          "dropout": false
         },
         {
           "name": "RAISBERG Nadav",
           "country": "il",
-          "startNumber": "225"
+          "startNumber": "225",
+          "dropout": false
         },
         {
           "name": "STEWART Jake",
           "country": "gb",
-          "startNumber": "226"
+          "startNumber": "226",
+          "dropout": false
         },
         {
           "name": "VERNON Ethan",
           "country": "gb",
-          "startNumber": "227"
+          "startNumber": "227",
+          "dropout": false
         },
         {
           "name": "RICCITELLO Matthew",
           "country": "us",
-          "startNumber": "228"
+          "startNumber": "228",
+          "dropout": false
         }
       ]
     }
   ],
-  "scrapedAt": "2025-08-30T09:23:40.221Z"
+  "scrapedAt": "2025-08-30T09:28:12.159Z"
 }
