@@ -150,7 +150,7 @@ function printHelpAndExit(code = 1) {
         rider.name = $el.find('a').text().trim();
         rider.country = $el.find('.flag').attr('class').split(' ')[1];
         rider.startNumber = $el.find('.bib').text().trim();
-        rider.dropout = Boolean($el.eq(0).hasClass('dropout'));
+        rider.dropout = Boolean($el.eq(0).hasClass('dropout')) || (Boolean($(el).text().includes('DNF')) || Boolean($(el).text().includes('DNS')));
         team.riders.push(rider);
       });
       
@@ -188,7 +188,7 @@ function printHelpAndExit(code = 1) {
     };
 
     // Print JSON to stdout
-    console.log(JSON.stringify(output, null, 2));
+    // console.log(JSON.stringify(output, null, 2));
 
     // Also write to file under scripts/output/
     const outDir = path.join(__dirname, 'output');

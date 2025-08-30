@@ -19,7 +19,7 @@
           "name": "ALMEIDA João",
           "country": "pt",
           "startNumber": "2",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "NARVÁEZ Jhonatan",
@@ -123,13 +123,13 @@
           "name": "EVENEPOEL Remco",
           "country": "be",
           "startNumber": "21",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "CATTANEO Mattia",
           "country": "it",
           "startNumber": "22",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "EENKHOORN Pascal",
@@ -220,7 +220,7 @@
           "name": "VAN DEN BERG Marijn",
           "country": "nl",
           "startNumber": "38",
-          "dropout": false
+          "dropout": true
         }
       ]
     },
@@ -275,7 +275,7 @@
           "name": "ZIMMERMANN Georg",
           "country": "de",
           "startNumber": "48",
-          "dropout": false
+          "dropout": true
         }
       ]
     },
@@ -306,7 +306,7 @@
           "name": "HAIG Jack",
           "country": "au",
           "startNumber": "54",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "MARTINEZ Lenny",
@@ -361,7 +361,7 @@
           "name": "GANNA Filippo",
           "country": "it",
           "startNumber": "64",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "LAURANCE Axel",
@@ -373,7 +373,7 @@
           "name": "RODRÍGUEZ Carlos",
           "country": "es",
           "startNumber": "66",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "SWIFT Connor",
@@ -434,7 +434,7 @@
           "name": "VAN POPPEL Danny",
           "country": "nl",
           "startNumber": "77",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "VLASOV Aleksandr",
@@ -477,7 +477,7 @@
           "name": "SKJELMOSE Mattias",
           "country": "dk",
           "startNumber": "85",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "SKUJIŅŠ Toms",
@@ -520,7 +520,7 @@
           "name": "BARTHE Cyril",
           "country": "fr",
           "startNumber": "93",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "GRÉGOIRE Romain",
@@ -563,7 +563,7 @@
           "name": "PHILIPSEN Jasper",
           "country": "be",
           "startNumber": "101",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "DILLIER Silvan",
@@ -593,7 +593,7 @@
           "name": "VAN DER POEL Mathieu",
           "country": "nl",
           "startNumber": "106",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "VERMEERSCH Gianni",
@@ -679,7 +679,7 @@
           "name": "DUNBAR Eddie",
           "country": "ie",
           "startNumber": "122",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "DURBRIDGE Luke",
@@ -783,7 +783,7 @@
           "name": "MAS Enric",
           "country": "es",
           "startNumber": "141",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "BARTA Will",
@@ -856,7 +856,7 @@
           "name": "BISSEGGER Stefan",
           "country": "ch",
           "startNumber": "154",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "NAESEN Oliver",
@@ -905,7 +905,7 @@
           "name": "COQUARD Bryan",
           "country": "fr",
           "startNumber": "163",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "IZAGIRRE Ion",
@@ -960,7 +960,7 @@
           "name": "BOL Cees",
           "country": "nl",
           "startNumber": "173",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "CHAMPOUSSIN Clément",
@@ -972,7 +972,7 @@
           "name": "FEDOROV Yevgeniy",
           "country": "kz",
           "startNumber": "175",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "HIGUITA Sergio",
@@ -1003,7 +1003,7 @@
           "name": "CRAS Steff",
           "country": "be",
           "startNumber": "181",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "BURGAUDEAU Mathieu",
@@ -1027,7 +1027,7 @@
           "name": "JEANNIÈRE Emilien",
           "country": "fr",
           "startNumber": "185",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "JEGAT Jordan",
@@ -1180,7 +1180,7 @@
           "name": "DE BUYST Jasper",
           "country": "be",
           "startNumber": "213",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "DRIZNERS Jarrad",
@@ -1204,7 +1204,7 @@
           "name": "VAN EETVELT Lennert",
           "country": "be",
           "startNumber": "217",
-          "dropout": false
+          "dropout": true
         },
         {
           "name": "VAN MOER Brent",
@@ -1265,10 +1265,10 @@
           "name": "WÆRENSKJOLD Søren",
           "country": "no",
           "startNumber": "228",
-          "dropout": false
+          "dropout": true
         }
       ]
     }
   ],
-  "scrapedAt": "2025-08-30T09:30:12.277Z"
+  "scrapedAt": "2025-08-30T09:41:21.098Z"
 }
