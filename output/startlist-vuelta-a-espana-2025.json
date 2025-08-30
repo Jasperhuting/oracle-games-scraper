@@ -1,1693 +1,1090 @@
 {
   "race": "vuelta-a-espana",
   "year": 2025,
-  "source": "https://www.procyclingstats.com/race/vuelta-a-espana/2025/stage-1",
-  "count": 592,
-  "results": [
-    {
-      "country": "be"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "ve"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "uy"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "ee"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "dk"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "pl"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "ch"
-    },
-    {
-      "country": "uy"
-    },
-    {
-      "country": "dk"
-    },
-    {
-      "country": "co"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "pt"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "dk"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "dk"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "dk"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "pl"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "gt"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "co"
-    },
-    {
-      "country": "nz"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "co"
-    },
-    {
-      "country": "ec"
-    },
-    {
-      "country": "ch"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "lu"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "pt"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "ru"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "at"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "za"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "de"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "at"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "nz"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "de"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "de"
-    },
-    {
-      "country": "il"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "ie"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "ar"
-    },
-    {
-      "country": "co"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "ec"
-    },
-    {
-      "country": "ca"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "no"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "co"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "co"
-    },
-    {
-      "country": "mc"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "ca"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "ie"
-    },
-    {
-      "country": "at"
-    },
-    {
-      "country": "de"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "co"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "kz"
-    },
-    {
-      "country": "cz"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "de"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "si"
-    },
-    {
-      "country": "no"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "si"
-    },
-    {
-      "country": "at"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "dk"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "dk"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "cz"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "nz"
-    },
-    {
-      "country": "er"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "ve"
-    },
-    {
-      "country": "kz"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "uy"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "ee"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "dk"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "pl"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "ch"
-    },
-    {
-      "country": "uy"
-    },
-    {
-      "country": "dk"
-    },
-    {
-      "country": "co"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "pt"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "dk"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "dk"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "dk"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "pl"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "gt"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "co"
-    },
-    {
-      "country": "nz"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "co"
-    },
-    {
-      "country": "ec"
-    },
-    {
-      "country": "ch"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "lu"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "pt"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "ru"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "at"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "za"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "de"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "at"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "nz"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "de"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "de"
-    },
-    {
-      "country": "il"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "ie"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "ar"
-    },
-    {
-      "country": "co"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "ec"
-    },
-    {
-      "country": "ca"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "no"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "co"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "co"
-    },
-    {
-      "country": "mc"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "ca"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "ie"
-    },
-    {
-      "country": "at"
-    },
-    {
-      "country": "de"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "co"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "cz"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "de"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "si"
-    },
-    {
-      "country": "no"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "si"
-    },
-    {
-      "country": "at"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "dk"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "dk"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "cz"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "nz"
-    },
-    {
-      "country": "er"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "ve"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "kz"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "uy"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "ee"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "dk"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "kz"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "ve"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "uy"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "ee"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "dk"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "kz"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "kz"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "kz"
-    },
-    {
-      "country": "uy"
-    },
-    {
-      "country": "ee"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "ch"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "dk"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "gt"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "co"
-    },
-    {
-      "country": "nz"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "ru"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "il"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "ie"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "ec"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "de"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "no"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "si"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "uy"
-    },
-    {
-      "country": "ee"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "ch"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "dk"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "gt"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "co"
-    },
-    {
-      "country": "nz"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "au"
-    },
-    {
-      "country": "ru"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "il"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "ie"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "ec"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "us"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "de"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "kz"
-    },
-    {
-      "country": "gb"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "it"
-    },
-    {
-      "country": "no"
-    },
-    {
-      "country": "es"
-    },
-    {
-      "country": "si"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "fr"
-    },
-    {
-      "country": "nl"
-    },
-    {
-      "country": "be"
-    },
-    {
-      "country": "be"
-    },
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {},
-    {}
+  "source": "https://www.procyclingstats.com/race/vuelta-a-espana/2025/startlist",
+  "count": 23,
+  "riders": [
+    {
+      "image": "images/shirts/bx/eb/uae-team-emirates-xrg-2025.png",
+      "name": "UAE Team Emirates - XRG (WT)",
+      "shortName": "uae-team-emirates-xrg-2025",
+      "riders": [
+        {
+          "name": "ALMEIDA João",
+          "country": "pt",
+          "startNumber": "1"
+        },
+        {
+          "name": "AYUSO Juan",
+          "country": "es",
+          "startNumber": "2"
+        },
+        {
+          "name": "BJERG Mikkel",
+          "country": "dk",
+          "startNumber": "3"
+        },
+        {
+          "name": "GROßSCHARTNER Felix",
+          "country": "at",
+          "startNumber": "4"
+        },
+        {
+          "name": "NOVAK Domen",
+          "country": "si",
+          "startNumber": "5"
+        },
+        {
+          "name": "OLIVEIRA Ivo",
+          "country": "pt",
+          "startNumber": "6"
+        },
+        {
+          "name": "SOLER Marc",
+          "country": "es",
+          "startNumber": "7"
+        },
+        {
+          "name": "VINE Jay",
+          "country": "au",
+          "startNumber": "8"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/team-visma-lease-a-bike-2025-n3.png",
+      "name": "Team Visma | Lease a Bike (WT)",
+      "shortName": "team-visma-lease-a-bike-2025",
+      "riders": [
+        {
+          "name": "VINGEGAARD Jonas",
+          "country": "dk",
+          "startNumber": "11"
+        },
+        {
+          "name": "ZINGLE Axel",
+          "country": "fr",
+          "startNumber": "12"
+        },
+        {
+          "name": "CAMPENAERTS Victor",
+          "country": "be",
+          "startNumber": "13"
+        },
+        {
+          "name": "JORGENSON Matteo",
+          "country": "us",
+          "startNumber": "14"
+        },
+        {
+          "name": "KELDERMAN Wilco",
+          "country": "nl",
+          "startNumber": "15"
+        },
+        {
+          "name": "KUSS Sepp",
+          "country": "us",
+          "startNumber": "16"
+        },
+        {
+          "name": "TULETT Ben",
+          "country": "gb",
+          "startNumber": "17"
+        },
+        {
+          "name": "VAN BAARLE Dylan",
+          "country": "nl",
+          "startNumber": "18"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/lidl-trek-2025-n2.png",
+      "name": "Lidl - Trek (WT)",
+      "shortName": "lidl-trek-2025",
+      "riders": [
+        {
+          "name": "BAGIOLI Andrea",
+          "country": "it",
+          "startNumber": "21"
+        },
+        {
+          "name": "BERNARD Julien",
+          "country": "fr",
+          "startNumber": "22"
+        },
+        {
+          "name": "CICCONE Giulio",
+          "country": "it",
+          "startNumber": "23"
+        },
+        {
+          "name": "GHEBREIGZABHIER Amanuel",
+          "country": "er",
+          "startNumber": "24"
+        },
+        {
+          "name": "HOOLE Daan",
+          "country": "nl",
+          "startNumber": "25"
+        },
+        {
+          "name": "KRAGH ANDERSEN Søren",
+          "country": "dk",
+          "startNumber": "26"
+        },
+        {
+          "name": "PEDERSEN Mads",
+          "country": "dk",
+          "startNumber": "27"
+        },
+        {
+          "name": "VERONA Carlos",
+          "country": "es",
+          "startNumber": "28"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/movistar-team-2025-n2.png",
+      "name": "Movistar Team (WT)",
+      "shortName": "movistar-team-2025",
+      "riders": [
+        {
+          "name": "ARCAS Jorge",
+          "country": "es",
+          "startNumber": "31"
+        },
+        {
+          "name": "AULAR Orluis",
+          "country": "ve",
+          "startNumber": "32"
+        },
+        {
+          "name": "CANAL Carlos",
+          "country": "es",
+          "startNumber": "33"
+        },
+        {
+          "name": "CASTRILLO Pablo",
+          "country": "es",
+          "startNumber": "34"
+        },
+        {
+          "name": "CEPEDA Jefferson Alveiro",
+          "country": "ec",
+          "startNumber": "35"
+        },
+        {
+          "name": "GARCÍA CORTINA Iván",
+          "country": "es",
+          "startNumber": "36"
+        },
+        {
+          "name": "HESSMANN Michel",
+          "country": "de",
+          "startNumber": "37"
+        },
+        {
+          "name": "ROMO Javier",
+          "country": "es",
+          "startNumber": "38"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/red-bull-bora-hansgrohe-2025.png",
+      "name": "Red Bull - BORA - hansgrohe (WT)",
+      "shortName": "red-bull-bora-hansgrohe-2025",
+      "riders": [
+        {
+          "name": "HINDLEY Jai",
+          "country": "au",
+          "startNumber": "41"
+        },
+        {
+          "name": "ALEOTTI Giovanni",
+          "country": "it",
+          "startNumber": "42"
+        },
+        {
+          "name": "DENZ Nico",
+          "country": "de",
+          "startNumber": "43"
+        },
+        {
+          "name": "FISHER-BLACK Finn",
+          "country": "nz",
+          "startNumber": "44"
+        },
+        {
+          "name": "PELLIZZARI Giulio",
+          "country": "it",
+          "startNumber": "45"
+        },
+        {
+          "name": "SOBRERO Matteo",
+          "country": "it",
+          "startNumber": "46"
+        },
+        {
+          "name": "VAN DIJKE Tim",
+          "country": "nl",
+          "startNumber": "47"
+        },
+        {
+          "name": "ZWIEHOFF Ben",
+          "country": "de",
+          "startNumber": "48"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/soudal-quick-step-2025-n2.png",
+      "name": "Soudal Quick-Step (WT)",
+      "shortName": "soudal-quick-step-2025",
+      "riders": [
+        {
+          "name": "LANDA Mikel",
+          "country": "es",
+          "startNumber": "51"
+        },
+        {
+          "name": "LECERF Junior",
+          "country": "be",
+          "startNumber": "52"
+        },
+        {
+          "name": "PARET-PEINTRE Valentin",
+          "country": "fr",
+          "startNumber": "53"
+        },
+        {
+          "name": "REINDERINK Pepijn",
+          "country": "nl",
+          "startNumber": "54"
+        },
+        {
+          "name": "SCHACHMANN Maximilian",
+          "country": "de",
+          "startNumber": "55"
+        },
+        {
+          "name": "VANSEVENANT Mauri",
+          "country": "be",
+          "startNumber": "56"
+        },
+        {
+          "name": "VERVAEKE Louis",
+          "country": "be",
+          "startNumber": "57"
+        },
+        {
+          "name": "GAROFOLI Gianmarco",
+          "country": "it",
+          "startNumber": "58"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/ineos-grenadiers-2025-n2.png",
+      "name": "INEOS Grenadiers (WT)",
+      "shortName": "ineos-grenadiers-2025",
+      "riders": [
+        {
+          "name": "SHEFFIELD Magnus",
+          "country": "us",
+          "startNumber": "61"
+        },
+        {
+          "name": "BERNAL Egan",
+          "country": "co",
+          "startNumber": "62"
+        },
+        {
+          "name": "GANNA Filippo",
+          "country": "it",
+          "startNumber": "63"
+        },
+        {
+          "name": "JUNGELS Bob",
+          "country": "lu",
+          "startNumber": "64"
+        },
+        {
+          "name": "KWIATKOWSKI Michał",
+          "country": "pl",
+          "startNumber": "65"
+        },
+        {
+          "name": "LANGELLOTTI Victor",
+          "country": "mc",
+          "startNumber": "66"
+        },
+        {
+          "name": "RIVERA Brandon Smith",
+          "country": "co",
+          "startNumber": "67"
+        },
+        {
+          "name": "TURNER Ben",
+          "country": "gb",
+          "startNumber": "68"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/alpecin-deceuninck-2025-n2.png",
+      "name": "Alpecin - Deceuninck (WT)",
+      "shortName": "alpecin-deceuninck-2025",
+      "riders": [
+        {
+          "name": "PHILIPSEN Jasper",
+          "country": "be",
+          "startNumber": "71"
+        },
+        {
+          "name": "BAYER Tobias",
+          "country": "at",
+          "startNumber": "72"
+        },
+        {
+          "name": "DEBRUYNE Ramses",
+          "country": "be",
+          "startNumber": "73"
+        },
+        {
+          "name": "GLIVAR Gal",
+          "country": "si",
+          "startNumber": "74"
+        },
+        {
+          "name": "PLANCKAERT Edward",
+          "country": "be",
+          "startNumber": "75"
+        },
+        {
+          "name": "RICKAERT Jonas",
+          "country": "be",
+          "startNumber": "76"
+        },
+        {
+          "name": "RIESEBEEK Oscar",
+          "country": "nl",
+          "startNumber": "77"
+        },
+        {
+          "name": "VERGALLITO Luca",
+          "country": "it",
+          "startNumber": "78"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/ef-education-easypost-2025-n3.png",
+      "name": "EF Education - EasyPost (WT)",
+      "shortName": "ef-education-easypost-2025",
+      "riders": [
+        {
+          "name": "CHAVES Esteban",
+          "country": "co",
+          "startNumber": "81"
+        },
+        {
+          "name": "BELOKI Markel",
+          "country": "es",
+          "startNumber": "82"
+        },
+        {
+          "name": "MIHKELS Madis",
+          "country": "ee",
+          "startNumber": "83"
+        },
+        {
+          "name": "NERURKAR Lukas",
+          "country": "gb",
+          "startNumber": "84"
+        },
+        {
+          "name": "QUINN Sean",
+          "country": "us",
+          "startNumber": "85"
+        },
+        {
+          "name": "RYAN Archie",
+          "country": "ie",
+          "startNumber": "86"
+        },
+        {
+          "name": "SHAW James",
+          "country": "gb",
+          "startNumber": "87"
+        },
+        {
+          "name": "VAN DER LEE Jardi Christiaan",
+          "country": "nl",
+          "startNumber": "88"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/decathlon-ag2r-la-mondiale-2025-n2.png",
+      "name": "Decathlon AG2R La Mondiale Team (WT)",
+      "shortName": "decathlon-ag2r-la-mondiale-2025",
+      "riders": [
+        {
+          "name": "GALL Felix",
+          "country": "at",
+          "startNumber": "91"
+        },
+        {
+          "name": "ARMIRAIL Bruno",
+          "country": "fr",
+          "startNumber": "92"
+        },
+        {
+          "name": "BISIAUX Léo",
+          "country": "fr",
+          "startNumber": "93"
+        },
+        {
+          "name": "DE PESTEL Sander",
+          "country": "be",
+          "startNumber": "94"
+        },
+        {
+          "name": "LABROSSE Jordan",
+          "country": "fr",
+          "startNumber": "95"
+        },
+        {
+          "name": "PETERS Nans",
+          "country": "fr",
+          "startNumber": "96"
+        },
+        {
+          "name": "SCOTSON Callum",
+          "country": "au",
+          "startNumber": "97"
+        },
+        {
+          "name": "STAUNE-MITTET Johannes",
+          "country": "no",
+          "startNumber": "98"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/bahrain-victorious-2025-n2.png",
+      "name": "Bahrain - Victorious (WT)",
+      "shortName": "bahrain-victorious-2025",
+      "riders": [
+        {
+          "name": "TIBERI Antonio",
+          "country": "it",
+          "startNumber": "101"
+        },
+        {
+          "name": "BUITRAGO Santiago",
+          "country": "co",
+          "startNumber": "102"
+        },
+        {
+          "name": "BURATTI Nicolò",
+          "country": "it",
+          "startNumber": "103"
+        },
+        {
+          "name": "ERMAKOV Roman",
+          "country": "ru",
+          "startNumber": "104"
+        },
+        {
+          "name": "HAIG Jack",
+          "country": "au",
+          "startNumber": "105"
+        },
+        {
+          "name": "PAASSCHENS Mathijs",
+          "country": "nl",
+          "startNumber": "106"
+        },
+        {
+          "name": "PICKERING Finlay",
+          "country": "gb",
+          "startNumber": "107"
+        },
+        {
+          "name": "TRÆEN Torstein",
+          "country": "no",
+          "startNumber": "108"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/q365-pro-cycing-team-2025-n2.png",
+      "name": "Q36.5 Pro Cycling Team (PRT)",
+      "shortName": "q365-pro-cycing-team-2025",
+      "riders": [
+        {
+          "name": "PIDCOCK Thomas",
+          "country": "gb",
+          "startNumber": "111"
+        },
+        {
+          "name": "DE LA CRUZ David",
+          "country": "es",
+          "startNumber": "112"
+        },
+        {
+          "name": "AZPARREN Xabier Mikel",
+          "country": "es",
+          "startNumber": "113"
+        },
+        {
+          "name": "CHRISTEN Fabio",
+          "country": "ch",
+          "startNumber": "114"
+        },
+        {
+          "name": "HOWSON Damien",
+          "country": "au",
+          "startNumber": "115"
+        },
+        {
+          "name": "ZUKOWSKY Nickolas",
+          "country": "ca",
+          "startNumber": "116"
+        },
+        {
+          "name": "GONZÁLEZ David",
+          "country": "es",
+          "startNumber": "117"
+        },
+        {
+          "name": "CAMPRUBÍ Marcel",
+          "country": "es",
+          "startNumber": "118"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/xds-astana-team-2025.png",
+      "name": "XDS Astana Team (WT)",
+      "shortName": "xds-astana-team-2025",
+      "riders": [
+        {
+          "name": "TEJADA Harold",
+          "country": "co",
+          "startNumber": "121"
+        },
+        {
+          "name": "CONCI Nicola",
+          "country": "it",
+          "startNumber": "122"
+        },
+        {
+          "name": "FORTUNATO Lorenzo",
+          "country": "it",
+          "startNumber": "123"
+        },
+        {
+          "name": "HIGUITA Sergio",
+          "country": "co",
+          "startNumber": "124"
+        },
+        {
+          "name": "LÓPEZ Harold Martín",
+          "country": "ec",
+          "startNumber": "125"
+        },
+        {
+          "name": "MASNADA Fausto",
+          "country": "it",
+          "startNumber": "126"
+        },
+        {
+          "name": "POELS Wout",
+          "country": "nl",
+          "startNumber": "127"
+        },
+        {
+          "name": "VINOKUROV Nicolas",
+          "country": "kz",
+          "startNumber": "128"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/groupama-fdj-2025-n2.png",
+      "name": "Groupama - FDJ (WT)",
+      "shortName": "groupama-fdj-2025",
+      "riders": [
+        {
+          "name": "BRAZ AFONSO Clément",
+          "country": "fr",
+          "startNumber": "131"
+        },
+        {
+          "name": "CAVAGNA Rémi",
+          "country": "fr",
+          "startNumber": "132"
+        },
+        {
+          "name": "GAUDU David",
+          "country": "fr",
+          "startNumber": "133"
+        },
+        {
+          "name": "GRUEL Thibaud",
+          "country": "fr",
+          "startNumber": "134"
+        },
+        {
+          "name": "MARTIN Guillaume",
+          "country": "fr",
+          "startNumber": "135"
+        },
+        {
+          "name": "MOLARD Rudy",
+          "country": "fr",
+          "startNumber": "136"
+        },
+        {
+          "name": "ROLLAND Brieuc",
+          "country": "fr",
+          "startNumber": "137"
+        },
+        {
+          "name": "KÜNG Stefan",
+          "country": "ch",
+          "startNumber": "138"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/caja-rural-seguros-rga-2025-n2.png",
+      "name": "Caja Rural - Seguros RGA (PRT)",
+      "shortName": "caja-rural-seguros-rga-2025",
+      "riders": [
+        {
+          "name": "SILVA Guillermo Thomas",
+          "country": "uy",
+          "startNumber": "141"
+        },
+        {
+          "name": "BALDERSTONE Abel",
+          "country": "es",
+          "startNumber": "142"
+        },
+        {
+          "name": "BARCELÓ Fernando",
+          "country": "es",
+          "startNumber": "143"
+        },
+        {
+          "name": "BOU Joan",
+          "country": "es",
+          "startNumber": "144"
+        },
+        {
+          "name": "GUARDEÑO Jaume",
+          "country": "es",
+          "startNumber": "145"
+        },
+        {
+          "name": "MOLENAAR Alex",
+          "country": "nl",
+          "startNumber": "146"
+        },
+        {
+          "name": "NICOLAU Joel",
+          "country": "es",
+          "startNumber": "147"
+        },
+        {
+          "name": "OTRUBA Jakub",
+          "country": "cz",
+          "startNumber": "148"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/team-jayco-alula-2025.png",
+      "name": "Team Jayco AlUla (WT)",
+      "shortName": "team-jayco-alula-2025",
+      "riders": [
+        {
+          "name": "O'CONNOR Ben",
+          "country": "au",
+          "startNumber": "151"
+        },
+        {
+          "name": "BOUWMAN Koen",
+          "country": "nl",
+          "startNumber": "152"
+        },
+        {
+          "name": "DUNBAR Eddie",
+          "country": "ie",
+          "startNumber": "153"
+        },
+        {
+          "name": "FOLDAGER Anders",
+          "country": "dk",
+          "startNumber": "154"
+        },
+        {
+          "name": "GAMPER Patrick",
+          "country": "at",
+          "startNumber": "155"
+        },
+        {
+          "name": "HARPER Chris",
+          "country": "au",
+          "startNumber": "156"
+        },
+        {
+          "name": "JUUL-JENSEN Christopher",
+          "country": "dk",
+          "startNumber": "157"
+        },
+        {
+          "name": "O'BRIEN Kelland",
+          "country": "au",
+          "startNumber": "158"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/arkea-b-b-hotels-2025-n2.png",
+      "name": "Arkéa - B&B Hotels (WT)",
+      "shortName": "arkea-b-b-hotels-2025",
+      "riders": [
+        {
+          "name": "GARCÍA PIERNA Raúl",
+          "country": "es",
+          "startNumber": "161"
+        },
+        {
+          "name": "BIERMANS Jenthe",
+          "country": "be",
+          "startNumber": "162"
+        },
+        {
+          "name": "GUERNALEC Victor",
+          "country": "fr",
+          "startNumber": "163"
+        },
+        {
+          "name": "LOZOUET Léandre",
+          "country": "fr",
+          "startNumber": "164"
+        },
+        {
+          "name": "RODRÍGUEZ Cristián",
+          "country": "es",
+          "startNumber": "165"
+        },
+        {
+          "name": "ROULAND Louis",
+          "country": "fr",
+          "startNumber": "166"
+        },
+        {
+          "name": "VERRE Alessandro",
+          "country": "it",
+          "startNumber": "167"
+        },
+        {
+          "name": "THIERRY Pierre",
+          "country": "fr",
+          "startNumber": "168"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/cofidis-2025-n4.png",
+      "name": "Cofidis (WT)",
+      "shortName": "cofidis-2025",
+      "riders": [
+        {
+          "name": "BUCHMANN Emanuel",
+          "country": "de",
+          "startNumber": "171"
+        },
+        {
+          "name": "SAMITIER Sergio",
+          "country": "es",
+          "startNumber": "172"
+        },
+        {
+          "name": "ANIOŁKOWSKI Stanisław",
+          "country": "pl",
+          "startNumber": "173"
+        },
+        {
+          "name": "CARR Simon",
+          "country": "gb",
+          "startNumber": "174"
+        },
+        {
+          "name": "COQUARD Bryan",
+          "country": "fr",
+          "startNumber": "175"
+        },
+        {
+          "name": "HERRADA Jesús",
+          "country": "es",
+          "startNumber": "176"
+        },
+        {
+          "name": "KNIGHT Oliver",
+          "country": "gb",
+          "startNumber": "177"
+        },
+        {
+          "name": "OURSELIN Paul",
+          "country": "fr",
+          "startNumber": "178"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/intermarche-wanty-2025-n2.png",
+      "name": "Intermarché - Wanty (WT)",
+      "shortName": "intermarche-wanty-2025",
+      "riders": [
+        {
+          "name": "ARTZ Huub",
+          "country": "nl",
+          "startNumber": "181"
+        },
+        {
+          "name": "BONNEU Kamiel",
+          "country": "be",
+          "startNumber": "182"
+        },
+        {
+          "name": "DE POOTER Dries",
+          "country": "be",
+          "startNumber": "183"
+        },
+        {
+          "name": "MARIT Arne",
+          "country": "be",
+          "startNumber": "184"
+        },
+        {
+          "name": "MEINTJES Louis",
+          "country": "za",
+          "startNumber": "185"
+        },
+        {
+          "name": "PETILLI Simone",
+          "country": "it",
+          "startNumber": "186"
+        },
+        {
+          "name": "SMITH Dion",
+          "country": "nz",
+          "startNumber": "187"
+        },
+        {
+          "name": "VAN BOVEN Luca",
+          "country": "be",
+          "startNumber": "188"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/team-picnic-postnl-2025.png",
+      "name": "Team Picnic PostNL (WT)",
+      "shortName": "team-picnic-postnl-2025",
+      "riders": [
+        {
+          "name": "EDDY Patrick",
+          "country": "au",
+          "startNumber": "191"
+        },
+        {
+          "name": "HAMILTON Chris",
+          "country": "au",
+          "startNumber": "192"
+        },
+        {
+          "name": "KOERDT Bjorn",
+          "country": "gb",
+          "startNumber": "193"
+        },
+        {
+          "name": "LEEMREIZE Gijs",
+          "country": "nl",
+          "startNumber": "194"
+        },
+        {
+          "name": "MARTINEZ Juan Guillermo",
+          "country": "co",
+          "startNumber": "195"
+        },
+        {
+          "name": "ROOSEN Timo",
+          "country": "nl",
+          "startNumber": "196"
+        },
+        {
+          "name": "VAN UDEN Casper",
+          "country": "nl",
+          "startNumber": "197"
+        },
+        {
+          "name": "VERMAERKE Kevin",
+          "country": "us",
+          "startNumber": "198"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/lotto-2025-n3.png",
+      "name": "Lotto (PRT)",
+      "shortName": "lotto-2025",
+      "riders": [
+        {
+          "name": "CRAPS Lars",
+          "country": "be",
+          "startNumber": "201"
+        },
+        {
+          "name": "DE BUYST Jasper",
+          "country": "be",
+          "startNumber": "202"
+        },
+        {
+          "name": "LIVYNS Arjen",
+          "country": "be",
+          "startNumber": "203"
+        },
+        {
+          "name": "SEGAERT Alec",
+          "country": "be",
+          "startNumber": "204"
+        },
+        {
+          "name": "SEPÚLVEDA Eduardo",
+          "country": "ar",
+          "startNumber": "205"
+        },
+        {
+          "name": "SLOCK Liam",
+          "country": "be",
+          "startNumber": "206"
+        },
+        {
+          "name": "VIVIANI Elia",
+          "country": "it",
+          "startNumber": "207"
+        },
+        {
+          "name": "GREGAARD Jonas",
+          "country": "dk",
+          "startNumber": "208"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/burgos-burpellet-bh-20251.png",
+      "name": "Burgos Burpellet BH (PRT)",
+      "shortName": "burgos-burpellet-bh-2025",
+      "riders": [
+        {
+          "name": "APARICIO Mario",
+          "country": "es",
+          "startNumber": "211"
+        },
+        {
+          "name": "CHUMIL Sergio Geovani",
+          "country": "gt",
+          "startNumber": "212"
+        },
+        {
+          "name": "FAGÚNDEZ Eric Antonio",
+          "country": "uy",
+          "startNumber": "213"
+        },
+        {
+          "name": "FAURA José Luis",
+          "country": "es",
+          "startNumber": "214"
+        },
+        {
+          "name": "DE LA CALLE Hugo",
+          "country": "es",
+          "startNumber": "215"
+        },
+        {
+          "name": "GARCÍA PIERNA Carlos",
+          "country": "es",
+          "startNumber": "216"
+        },
+        {
+          "name": "FERNÁNDEZ Sinuhé",
+          "country": "es",
+          "startNumber": "217"
+        },
+        {
+          "name": "CAVIA Daniel",
+          "country": "es",
+          "startNumber": "218"
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/israel-premier-tech-2025.png",
+      "name": "Israel - Premier Tech (PRT)",
+      "shortName": "israel-premier-tech-2025",
+      "riders": [
+        {
+          "name": "BENNETT George",
+          "country": "nz",
+          "startNumber": "221"
+        },
+        {
+          "name": "CÔTÉ Pier-André",
+          "country": "ca",
+          "startNumber": "222"
+        },
+        {
+          "name": "FRIGO Marco",
+          "country": "it",
+          "startNumber": "223"
+        },
+        {
+          "name": "HIRT Jan",
+          "country": "cz",
+          "startNumber": "224"
+        },
+        {
+          "name": "RAISBERG Nadav",
+          "country": "il",
+          "startNumber": "225"
+        },
+        {
+          "name": "STEWART Jake",
+          "country": "gb",
+          "startNumber": "226"
+        },
+        {
+          "name": "VERNON Ethan",
+          "country": "gb",
+          "startNumber": "227"
+        },
+        {
+          "name": "RICCITELLO Matthew",
+          "country": "us",
+          "startNumber": "228"
+        }
+      ]
+    }
   ],
-  "scrapedAt": "2025-08-29T14:15:21.404Z"
+  "scrapedAt": "2025-08-30T09:23:40.221Z"
 }
