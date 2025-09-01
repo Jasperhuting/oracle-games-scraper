@@ -15,7 +15,7 @@
       "team": "UAE Team Emirates - XRG",
       "shortName": "uae-team-emirates-xrg-2025",
       "uciPoints": "180",
-      "points": "",
+      "points": "-",
       "qualificationTime": "16″"
     },
     {
@@ -29,7 +29,7 @@
       "team": "Bahrain - Victorious",
       "shortName": "bahrain-victorious-2025",
       "uciPoints": "130",
-      "points": "",
+      "points": "-",
       "qualificationTime": "6″"
     },
     {
@@ -43,7 +43,7 @@
       "team": "XDS Astana Team",
       "shortName": "xds-astana-team-2025",
       "uciPoints": "95",
-      "points": "",
+      "points": "-",
       "qualificationTime": "6″"
     },
     {
@@ -57,8 +57,8 @@
       "team": "Decathlon AG2R La Mondiale Team",
       "shortName": "decathlon-ag2r-la-mondiale-2025",
       "uciPoints": "80",
-      "points": "",
-      "qualificationTime": ""
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -71,8 +71,8 @@
       "team": "Movistar Team",
       "shortName": "movistar-team-2025",
       "uciPoints": "60",
-      "points": "",
-      "qualificationTime": ""
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "gb",
@@ -85,8 +85,8 @@
       "team": "EF Education - EasyPost",
       "shortName": "ef-education-easypost-2025",
       "uciPoints": "45",
-      "points": "",
-      "qualificationTime": ""
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "be",
@@ -99,7 +99,7 @@
       "team": "Soudal Quick-Step",
       "shortName": "soudal-quick-step-2025",
       "uciPoints": "40",
-      "points": "",
+      "points": "-",
       "qualificationTime": "4″"
     },
     {
@@ -113,8 +113,8 @@
       "team": "Alpecin - Deceuninck",
       "shortName": "alpecin-deceuninck-2025",
       "uciPoints": "35",
-      "points": "",
-      "qualificationTime": ""
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "ie",
@@ -127,8 +127,8 @@
       "team": "EF Education - EasyPost",
       "shortName": "ef-education-easypost-2025",
       "uciPoints": "30",
-      "points": "",
-      "qualificationTime": ""
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "pt",
@@ -141,8 +141,8 @@
       "team": "UAE Team Emirates - XRG",
       "shortName": "uae-team-emirates-xrg-2025",
       "uciPoints": "25",
-      "points": "",
-      "qualificationTime": ""
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "dk",
@@ -155,8 +155,8 @@
       "team": "Team Visma | Lease a Bike",
       "shortName": "team-visma-lease-a-bike-2025",
       "uciPoints": "20",
-      "points": "",
-      "qualificationTime": ""
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "it",
@@ -169,8 +169,8 @@
       "team": "Lidl - Trek",
       "shortName": "lidl-trek-2025",
       "uciPoints": "15",
-      "points": "",
-      "qualificationTime": ""
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "at",
@@ -183,8 +183,8 @@
       "team": "Decathlon AG2R La Mondiale Team",
       "shortName": "decathlon-ag2r-la-mondiale-2025",
       "uciPoints": "10",
-      "points": "",
-      "qualificationTime": ""
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "co",
@@ -197,8 +197,8 @@
       "team": "INEOS Grenadiers",
       "shortName": "ineos-grenadiers-2025",
       "uciPoints": "5",
-      "points": "",
-      "qualificationTime": ""
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "it",
@@ -211,8 +211,8 @@
       "team": "Bahrain - Victorious",
       "shortName": "bahrain-victorious-2025",
       "uciPoints": "2",
-      "points": "",
-      "qualificationTime": ""
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "us",
@@ -224,9 +224,9 @@
       "timeDifference": "+3:38",
       "team": "Team Visma | Lease a Bike",
       "shortName": "team-visma-lease-a-bike-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "gb",
@@ -238,9 +238,9 @@
       "timeDifference": "+3:03",
       "team": "Q36.5 Pro Cycling Team",
       "shortName": "q365-pro-cycing-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "us",
@@ -252,9 +252,9 @@
       "timeDifference": "+2:49",
       "team": "Team Visma | Lease a Bike",
       "shortName": "team-visma-lease-a-bike-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "au",
@@ -266,9 +266,9 @@
       "timeDifference": "+2:53",
       "team": "Red Bull - BORA - hansgrohe",
       "shortName": "red-bull-bora-hansgrohe-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "it",
@@ -280,9 +280,9 @@
       "timeDifference": "+2:53",
       "team": "Red Bull - BORA - hansgrohe",
       "shortName": "red-bull-bora-hansgrohe-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "us",
@@ -294,9 +294,9 @@
       "timeDifference": "+3:20",
       "team": "Israel - Premier Tech",
       "shortName": "israel-premier-tech-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "co",
@@ -308,9 +308,9 @@
       "timeDifference": "+3:34",
       "team": "Bahrain - Victorious",
       "shortName": "bahrain-victorious-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "au",
@@ -322,9 +322,9 @@
       "timeDifference": "+3:53",
       "team": "Team Jayco AlUla",
       "shortName": "team-jayco-alula-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -336,9 +336,9 @@
       "timeDifference": "+3:57",
       "team": "Soudal Quick-Step",
       "shortName": "soudal-quick-step-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "ec",
@@ -350,9 +350,9 @@
       "timeDifference": "+3:26",
       "team": "Movistar Team",
       "shortName": "movistar-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "fr",
@@ -364,9 +364,9 @@
       "timeDifference": "+3:17",
       "team": "Groupama - FDJ",
       "shortName": "groupama-fdj-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "ec",
@@ -378,9 +378,9 @@
       "timeDifference": "+4:44",
       "team": "XDS Astana Team",
       "shortName": "xds-astana-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -392,9 +392,9 @@
       "timeDifference": "+3:09",
       "team": "UAE Team Emirates - XRG",
       "shortName": "uae-team-emirates-xrg-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -406,9 +406,9 @@
       "timeDifference": "+4:57",
       "team": "Arkéa - B&B Hotels",
       "shortName": "arkea-b-b-hotels-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "gt",
@@ -420,9 +420,9 @@
       "timeDifference": "+5:22",
       "team": "Burgos Burpellet BH",
       "shortName": "burgos-burpellet-bh-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -434,9 +434,9 @@
       "timeDifference": "+4:53",
       "team": "EF Education - EasyPost",
       "shortName": "ef-education-easypost-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "be",
@@ -448,9 +448,9 @@
       "timeDifference": "+4:15",
       "team": "Soudal Quick-Step",
       "shortName": "soudal-quick-step-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "it",
@@ -462,9 +462,9 @@
       "timeDifference": "+6:38",
       "team": "Soudal Quick-Step",
       "shortName": "soudal-quick-step-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -476,9 +476,9 @@
       "timeDifference": "+5:49",
       "team": "Caja Rural - Seguros RGA",
       "shortName": "caja-rural-seguros-rga-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "au",
@@ -490,9 +490,9 @@
       "timeDifference": "+5:58",
       "team": "Team Jayco AlUla",
       "shortName": "team-jayco-alula-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "za",
@@ -504,9 +504,9 @@
       "timeDifference": "+5:21",
       "team": "Intermarché - Wanty",
       "shortName": "intermarche-wanty-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -518,9 +518,9 @@
       "timeDifference": "+11:10",
       "team": "Caja Rural - Seguros RGA",
       "shortName": "caja-rural-seguros-rga-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -532,9 +532,9 @@
       "timeDifference": "+6:30",
       "team": "Cofidis",
       "shortName": "cofidis-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -546,9 +546,9 @@
       "timeDifference": "+5:21",
       "team": "Movistar Team",
       "shortName": "movistar-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "cz",
@@ -560,9 +560,9 @@
       "timeDifference": "+12:30",
       "team": "Israel - Premier Tech",
       "shortName": "israel-premier-tech-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "it",
@@ -574,9 +574,9 @@
       "timeDifference": "+6:10",
       "team": "Israel - Premier Tech",
       "shortName": "israel-premier-tech-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "nl",
@@ -588,9 +588,9 @@
       "timeDifference": "+9:18",
       "team": "XDS Astana Team",
       "shortName": "xds-astana-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "fr",
@@ -602,9 +602,9 @@
       "timeDifference": "+9:49",
       "team": "Groupama - FDJ",
       "shortName": "groupama-fdj-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "au",
@@ -616,9 +616,9 @@
       "timeDifference": "+12:44",
       "team": "Q36.5 Pro Cycling Team",
       "shortName": "q365-pro-cycing-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "fr",
@@ -630,9 +630,9 @@
       "timeDifference": "+14:58",
       "team": "Decathlon AG2R La Mondiale Team",
       "shortName": "decathlon-ag2r-la-mondiale-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "us",
@@ -644,9 +644,9 @@
       "timeDifference": "+16:21",
       "team": "INEOS Grenadiers",
       "shortName": "ineos-grenadiers-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "au",
@@ -658,9 +658,9 @@
       "timeDifference": "+10:38",
       "team": "Decathlon AG2R La Mondiale Team",
       "shortName": "decathlon-ag2r-la-mondiale-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "gb",
@@ -672,9 +672,9 @@
       "timeDifference": "+6:59",
       "team": "Team Visma | Lease a Bike",
       "shortName": "team-visma-lease-a-bike-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "mc",
@@ -686,9 +686,9 @@
       "timeDifference": "+10:09",
       "team": "INEOS Grenadiers",
       "shortName": "ineos-grenadiers-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -700,9 +700,9 @@
       "timeDifference": "+8:59",
       "team": "Arkéa - B&B Hotels",
       "shortName": "arkea-b-b-hotels-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "gb",
@@ -714,9 +714,9 @@
       "timeDifference": "+16:03",
       "team": "Bahrain - Victorious",
       "shortName": "bahrain-victorious-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -728,9 +728,9 @@
       "timeDifference": "+26:58",
       "team": "Lidl - Trek",
       "shortName": "lidl-trek-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "it",
@@ -742,9 +742,9 @@
       "timeDifference": "+12:54",
       "team": "Lidl - Trek",
       "shortName": "lidl-trek-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "co",
@@ -756,9 +756,9 @@
       "timeDifference": "+9:39",
       "team": "XDS Astana Team",
       "shortName": "xds-astana-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "au",
@@ -770,9 +770,9 @@
       "timeDifference": "+19:25",
       "team": "Bahrain - Victorious",
       "shortName": "bahrain-victorious-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "fr",
@@ -784,9 +784,9 @@
       "timeDifference": "+10:46",
       "team": "Groupama - FDJ",
       "shortName": "groupama-fdj-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "de",
@@ -798,9 +798,9 @@
       "timeDifference": "+10:34",
       "team": "Soudal Quick-Step",
       "shortName": "soudal-quick-step-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "co",
@@ -812,9 +812,9 @@
       "timeDifference": "+11:21",
       "team": "XDS Astana Team",
       "shortName": "xds-astana-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "fr",
@@ -826,9 +826,9 @@
       "timeDifference": "+13:01",
       "team": "Groupama - FDJ",
       "shortName": "groupama-fdj-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "co",
@@ -840,9 +840,9 @@
       "timeDifference": "+13:44",
       "team": "INEOS Grenadiers",
       "shortName": "ineos-grenadiers-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -854,9 +854,9 @@
       "timeDifference": "+15:00",
       "team": "Burgos Burpellet BH",
       "shortName": "burgos-burpellet-bh-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -868,9 +868,9 @@
       "timeDifference": "+10:13",
       "team": "UAE Team Emirates - XRG",
       "shortName": "uae-team-emirates-xrg-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "at",
@@ -882,9 +882,9 @@
       "timeDifference": "+21:44",
       "team": "UAE Team Emirates - XRG",
       "shortName": "uae-team-emirates-xrg-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "be",
@@ -896,9 +896,9 @@
       "timeDifference": "+14:04",
       "team": "Soudal Quick-Step",
       "shortName": "soudal-quick-step-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "fr",
@@ -910,9 +910,9 @@
       "timeDifference": "+16:09",
       "team": "Lidl - Trek",
       "shortName": "lidl-trek-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "fr",
@@ -924,9 +924,9 @@
       "timeDifference": "+11:57",
       "team": "Decathlon AG2R La Mondiale Team",
       "shortName": "decathlon-ag2r-la-mondiale-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "uy",
@@ -938,9 +938,9 @@
       "timeDifference": "+13:01",
       "team": "Caja Rural - Seguros RGA",
       "shortName": "caja-rural-seguros-rga-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "be",
@@ -952,9 +952,9 @@
       "timeDifference": "+13:18",
       "team": "Decathlon AG2R La Mondiale Team",
       "shortName": "decathlon-ag2r-la-mondiale-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "no",
@@ -966,9 +966,9 @@
       "timeDifference": "+17:35",
       "team": "Decathlon AG2R La Mondiale Team",
       "shortName": "decathlon-ag2r-la-mondiale-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "nl",
@@ -980,9 +980,9 @@
       "timeDifference": "+19:15",
       "team": "Team Visma | Lease a Bike",
       "shortName": "team-visma-lease-a-bike-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "de",
@@ -994,9 +994,9 @@
       "timeDifference": "+15:46",
       "team": "Red Bull - BORA - hansgrohe",
       "shortName": "red-bull-bora-hansgrohe-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "ru",
@@ -1008,9 +1008,9 @@
       "timeDifference": "+20:23",
       "team": "Bahrain - Victorious",
       "shortName": "bahrain-victorious-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -1022,9 +1022,9 @@
       "timeDifference": "+18:03",
       "team": "Movistar Team",
       "shortName": "movistar-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -1036,9 +1036,9 @@
       "timeDifference": "+28:14",
       "team": "Q36.5 Pro Cycling Team",
       "shortName": "q365-pro-cycing-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "nz",
@@ -1050,9 +1050,9 @@
       "timeDifference": "+34:23",
       "team": "Israel - Premier Tech",
       "shortName": "israel-premier-tech-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "it",
@@ -1064,9 +1064,9 @@
       "timeDifference": "+20:12",
       "team": "XDS Astana Team",
       "shortName": "xds-astana-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "it",
@@ -1078,9 +1078,9 @@
       "timeDifference": "+21:04",
       "team": "XDS Astana Team",
       "shortName": "xds-astana-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "lu",
@@ -1092,9 +1092,9 @@
       "timeDifference": "+27:35",
       "team": "INEOS Grenadiers",
       "shortName": "ineos-grenadiers-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "ie",
@@ -1106,9 +1106,9 @@
       "timeDifference": "+31:25",
       "team": "Team Jayco AlUla",
       "shortName": "team-jayco-alula-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "co",
@@ -1120,9 +1120,9 @@
       "timeDifference": "+30:03",
       "team": "Team Picnic PostNL",
       "shortName": "team-picnic-postnl-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "us",
@@ -1134,9 +1134,9 @@
       "timeDifference": "+18:36",
       "team": "Team Picnic PostNL",
       "shortName": "team-picnic-postnl-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "nz",
@@ -1148,9 +1148,9 @@
       "timeDifference": "+18:08",
       "team": "Red Bull - BORA - hansgrohe",
       "shortName": "red-bull-bora-hansgrohe-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -1162,9 +1162,9 @@
       "timeDifference": "+19:58",
       "team": "Q36.5 Pro Cycling Team",
       "shortName": "q365-pro-cycing-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "it",
@@ -1176,9 +1176,9 @@
       "timeDifference": "+36:34",
       "team": "Intermarché - Wanty",
       "shortName": "intermarche-wanty-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "co",
@@ -1190,9 +1190,9 @@
       "timeDifference": "+30:12",
       "team": "EF Education - EasyPost",
       "shortName": "ef-education-easypost-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "fr",
@@ -1204,9 +1204,9 @@
       "timeDifference": "+28:51",
       "team": "Arkéa - B&B Hotels",
       "shortName": "arkea-b-b-hotels-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "it",
@@ -1218,9 +1218,9 @@
       "timeDifference": "+28:23",
       "team": "Arkéa - B&B Hotels",
       "shortName": "arkea-b-b-hotels-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "gb",
@@ -1232,9 +1232,9 @@
       "timeDifference": "+28:14",
       "team": "Team Picnic PostNL",
       "shortName": "team-picnic-postnl-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "si",
@@ -1246,9 +1246,9 @@
       "timeDifference": "+38:55",
       "team": "Alpecin - Deceuninck",
       "shortName": "alpecin-deceuninck-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "au",
@@ -1260,9 +1260,9 @@
       "timeDifference": "+29:09",
       "team": "Team Picnic PostNL",
       "shortName": "team-picnic-postnl-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "fr",
@@ -1274,9 +1274,9 @@
       "timeDifference": "+23:24",
       "team": "Cofidis",
       "shortName": "cofidis-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "ch",
@@ -1288,9 +1288,9 @@
       "timeDifference": "+24:39",
       "team": "Groupama - FDJ",
       "shortName": "groupama-fdj-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "fr",
@@ -1302,9 +1302,9 @@
       "timeDifference": "+28:53",
       "team": "Groupama - FDJ",
       "shortName": "groupama-fdj-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "it",
@@ -1316,9 +1316,9 @@
       "timeDifference": "+31:48",
       "team": "Bahrain - Victorious",
       "shortName": "bahrain-victorious-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "ee",
@@ -1330,9 +1330,9 @@
       "timeDifference": "+31:19",
       "team": "EF Education - EasyPost",
       "shortName": "ef-education-easypost-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "nl",
@@ -1344,9 +1344,9 @@
       "timeDifference": "+20:36",
       "team": "Caja Rural - Seguros RGA",
       "shortName": "caja-rural-seguros-rga-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "at",
@@ -1358,9 +1358,9 @@
       "timeDifference": "+36:42",
       "team": "Alpecin - Deceuninck",
       "shortName": "alpecin-deceuninck-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "ca",
@@ -1372,9 +1372,9 @@
       "timeDifference": "+49:40",
       "team": "Q36.5 Pro Cycling Team",
       "shortName": "q365-pro-cycing-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "de",
@@ -1386,9 +1386,9 @@
       "timeDifference": "+27:27",
       "team": "Cofidis",
       "shortName": "cofidis-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -1400,9 +1400,9 @@
       "timeDifference": "+35:30",
       "team": "Caja Rural - Seguros RGA",
       "shortName": "caja-rural-seguros-rga-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "ve",
@@ -1414,9 +1414,9 @@
       "timeDifference": "+19:31",
       "team": "Movistar Team",
       "shortName": "movistar-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "it",
@@ -1428,9 +1428,9 @@
       "timeDifference": "+18:53",
       "team": "Red Bull - BORA - hansgrohe",
       "shortName": "red-bull-bora-hansgrohe-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -1442,9 +1442,9 @@
       "timeDifference": "+27:43",
       "team": "Burgos Burpellet BH",
       "shortName": "burgos-burpellet-bh-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "fr",
@@ -1456,9 +1456,9 @@
       "timeDifference": "+25:41",
       "team": "Decathlon AG2R La Mondiale Team",
       "shortName": "decathlon-ag2r-la-mondiale-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -1470,9 +1470,9 @@
       "timeDifference": "+22:28",
       "team": "Cofidis",
       "shortName": "cofidis-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "be",
@@ -1484,9 +1484,9 @@
       "timeDifference": "+26:28",
       "team": "Team Visma | Lease a Bike",
       "shortName": "team-visma-lease-a-bike-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "ar",
@@ -1498,9 +1498,9 @@
       "timeDifference": "+29:41",
       "team": "Lotto",
       "shortName": "lotto-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "uy",
@@ -1512,9 +1512,9 @@
       "timeDifference": "+26:39",
       "team": "Burgos Burpellet BH",
       "shortName": "burgos-burpellet-bh-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "dk",
@@ -1526,9 +1526,9 @@
       "timeDifference": "+39:46",
       "team": "Team Jayco AlUla",
       "shortName": "team-jayco-alula-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "be",
@@ -1540,9 +1540,9 @@
       "timeDifference": "+28:42",
       "team": "Alpecin - Deceuninck",
       "shortName": "alpecin-deceuninck-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -1554,9 +1554,9 @@
       "timeDifference": "+30:46",
       "team": "Movistar Team",
       "shortName": "movistar-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "fr",
@@ -1568,9 +1568,9 @@
       "timeDifference": "+32:23",
       "team": "Cofidis",
       "shortName": "cofidis-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "be",
@@ -1582,9 +1582,9 @@
       "timeDifference": "+44:53",
       "team": "Intermarché - Wanty",
       "shortName": "intermarche-wanty-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "nz",
@@ -1596,9 +1596,9 @@
       "timeDifference": "+42:30",
       "team": "Intermarché - Wanty",
       "shortName": "intermarche-wanty-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "si",
@@ -1610,9 +1610,9 @@
       "timeDifference": "+52:33",
       "team": "UAE Team Emirates - XRG",
       "shortName": "uae-team-emirates-xrg-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -1624,9 +1624,9 @@
       "timeDifference": "+57:22",
       "team": "Q36.5 Pro Cycling Team",
       "shortName": "q365-pro-cycing-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -1638,9 +1638,9 @@
       "timeDifference": "+36:28",
       "team": "Q36.5 Pro Cycling Team",
       "shortName": "q365-pro-cycing-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -1652,9 +1652,9 @@
       "timeDifference": "+43:47",
       "team": "Caja Rural - Seguros RGA",
       "shortName": "caja-rural-seguros-rga-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "kz",
@@ -1666,9 +1666,9 @@
       "timeDifference": "+42:12",
       "team": "XDS Astana Team",
       "shortName": "xds-astana-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -1680,9 +1680,9 @@
       "timeDifference": "+43:16",
       "team": "Caja Rural - Seguros RGA",
       "shortName": "caja-rural-seguros-rga-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "be",
@@ -1694,9 +1694,9 @@
       "timeDifference": "+54:10",
       "team": "Lotto",
       "shortName": "lotto-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "at",
@@ -1708,9 +1708,9 @@
       "timeDifference": "+33:51",
       "team": "Team Jayco AlUla",
       "shortName": "team-jayco-alula-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -1722,9 +1722,9 @@
       "timeDifference": "+47:55",
       "team": "Burgos Burpellet BH",
       "shortName": "burgos-burpellet-bh-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "au",
@@ -1736,9 +1736,9 @@
       "timeDifference": "+33:54",
       "team": "Team Jayco AlUla",
       "shortName": "team-jayco-alula-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -1750,9 +1750,9 @@
       "timeDifference": "+49:14",
       "team": "Burgos Burpellet BH",
       "shortName": "burgos-burpellet-bh-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "nl",
@@ -1764,9 +1764,9 @@
       "timeDifference": "+40:34",
       "team": "Bahrain - Victorious",
       "shortName": "bahrain-victorious-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "gb",
@@ -1778,9 +1778,9 @@
       "timeDifference": "+36:17",
       "team": "Israel - Premier Tech",
       "shortName": "israel-premier-tech-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "gb",
@@ -1792,9 +1792,9 @@
       "timeDifference": "+34:57",
       "team": "Israel - Premier Tech",
       "shortName": "israel-premier-tech-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "il",
@@ -1806,9 +1806,9 @@
       "timeDifference": "+38:22",
       "team": "Israel - Premier Tech",
       "shortName": "israel-premier-tech-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "ca",
@@ -1820,9 +1820,9 @@
       "timeDifference": "+28:54",
       "team": "Israel - Premier Tech",
       "shortName": "israel-premier-tech-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "nl",
@@ -1834,9 +1834,9 @@
       "timeDifference": "+45:48",
       "team": "Team Picnic PostNL",
       "shortName": "team-picnic-postnl-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "dk",
@@ -1848,9 +1848,9 @@
       "timeDifference": "+35:39",
       "team": "Lotto",
       "shortName": "lotto-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "be",
@@ -1862,9 +1862,9 @@
       "timeDifference": "+29:27",
       "team": "Lotto",
       "shortName": "lotto-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "be",
@@ -1876,9 +1876,9 @@
       "timeDifference": "+39:23",
       "team": "Lotto",
       "shortName": "lotto-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "nl",
@@ -1890,9 +1890,9 @@
       "timeDifference": "+33:20",
       "team": "Team Picnic PostNL",
       "shortName": "team-picnic-postnl-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "gb",
@@ -1904,9 +1904,9 @@
       "timeDifference": "+25:41",
       "team": "EF Education - EasyPost",
       "shortName": "ef-education-easypost-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "nl",
@@ -1918,9 +1918,9 @@
       "timeDifference": "+45:43",
       "team": "Team Picnic PostNL",
       "shortName": "team-picnic-postnl-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "de",
@@ -1932,9 +1932,9 @@
       "timeDifference": "+32:37",
       "team": "Movistar Team",
       "shortName": "movistar-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "dk",
@@ -1946,9 +1946,9 @@
       "timeDifference": "+35:55",
       "team": "Lidl - Trek",
       "shortName": "lidl-trek-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "fr",
@@ -1960,9 +1960,9 @@
       "timeDifference": "+33:51",
       "team": "Arkéa - B&B Hotels",
       "shortName": "arkea-b-b-hotels-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "fr",
@@ -1974,9 +1974,9 @@
       "timeDifference": "+42:15",
       "team": "Arkéa - B&B Hotels",
       "shortName": "arkea-b-b-hotels-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "fr",
@@ -1988,9 +1988,9 @@
       "timeDifference": "+41:08",
       "team": "Arkéa - B&B Hotels",
       "shortName": "arkea-b-b-hotels-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "fr",
@@ -2002,9 +2002,9 @@
       "timeDifference": "+29:07",
       "team": "Groupama - FDJ",
       "shortName": "groupama-fdj-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "be",
@@ -2016,9 +2016,9 @@
       "timeDifference": "+36:31",
       "team": "Lotto",
       "shortName": "lotto-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "it",
@@ -2030,9 +2030,9 @@
       "timeDifference": "+49:54",
       "team": "Lotto",
       "shortName": "lotto-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "nl",
@@ -2044,9 +2044,9 @@
       "timeDifference": "+44:52",
       "team": "Lidl - Trek",
       "shortName": "lidl-trek-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "be",
@@ -2058,9 +2058,9 @@
       "timeDifference": "+42:20",
       "team": "Arkéa - B&B Hotels",
       "shortName": "arkea-b-b-hotels-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "nl",
@@ -2072,9 +2072,9 @@
       "timeDifference": "+39:15",
       "team": "Team Visma | Lease a Bike",
       "shortName": "team-visma-lease-a-bike-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "it",
@@ -2086,9 +2086,9 @@
       "timeDifference": "+35:27",
       "team": "INEOS Grenadiers",
       "shortName": "ineos-grenadiers-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "nl",
@@ -2100,9 +2100,9 @@
       "timeDifference": "+50:51",
       "team": "Red Bull - BORA - hansgrohe",
       "shortName": "red-bull-bora-hansgrohe-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "de",
@@ -2114,9 +2114,9 @@
       "timeDifference": "+40:53",
       "team": "Red Bull - BORA - hansgrohe",
       "shortName": "red-bull-bora-hansgrohe-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "it",
@@ -2128,9 +2128,9 @@
       "timeDifference": "+28:41",
       "team": "Red Bull - BORA - hansgrohe",
       "shortName": "red-bull-bora-hansgrohe-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "nl",
@@ -2142,9 +2142,9 @@
       "timeDifference": "+46:07",
       "team": "Intermarché - Wanty",
       "shortName": "intermarche-wanty-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "be",
@@ -2156,9 +2156,9 @@
       "timeDifference": "+32:29",
       "team": "Intermarché - Wanty",
       "shortName": "intermarche-wanty-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "dk",
@@ -2170,9 +2170,9 @@
       "timeDifference": "+46:22",
       "team": "Team Jayco AlUla",
       "shortName": "team-jayco-alula-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "pl",
@@ -2184,9 +2184,9 @@
       "timeDifference": "+25:12",
       "team": "INEOS Grenadiers",
       "shortName": "ineos-grenadiers-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "gb",
@@ -2198,9 +2198,9 @@
       "timeDifference": "+34:50",
       "team": "INEOS Grenadiers",
       "shortName": "ineos-grenadiers-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "nl",
@@ -2212,9 +2212,9 @@
       "timeDifference": "+1:05:16",
       "team": "Alpecin - Deceuninck",
       "shortName": "alpecin-deceuninck-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "cz",
@@ -2226,9 +2226,9 @@
       "timeDifference": "+42:24",
       "team": "Caja Rural - Seguros RGA",
       "shortName": "caja-rural-seguros-rga-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "dk",
@@ -2240,9 +2240,9 @@
       "timeDifference": "+43:41",
       "team": "UAE Team Emirates - XRG",
       "shortName": "uae-team-emirates-xrg-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "dk",
@@ -2254,9 +2254,9 @@
       "timeDifference": "+28:38",
       "team": "Lidl - Trek",
       "shortName": "lidl-trek-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "ch",
@@ -2268,9 +2268,9 @@
       "timeDifference": "+35:52",
       "team": "Q36.5 Pro Cycling Team",
       "shortName": "q365-pro-cycing-team-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "us",
@@ -2282,9 +2282,9 @@
       "timeDifference": "+39:24",
       "team": "EF Education - EasyPost",
       "shortName": "ef-education-easypost-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "gb",
@@ -2296,9 +2296,9 @@
       "timeDifference": "+39:01",
       "team": "Cofidis",
       "shortName": "cofidis-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "pl",
@@ -2310,9 +2310,9 @@
       "timeDifference": "+45:36",
       "team": "Cofidis",
       "shortName": "cofidis-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "er",
@@ -2324,9 +2324,9 @@
       "timeDifference": "+49:38",
       "team": "Lidl - Trek",
       "shortName": "lidl-trek-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "nl",
@@ -2338,9 +2338,9 @@
       "timeDifference": "+46:39",
       "team": "EF Education - EasyPost",
       "shortName": "ef-education-easypost-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "be",
@@ -2352,9 +2352,9 @@
       "timeDifference": "+33:03",
       "team": "Intermarché - Wanty",
       "shortName": "intermarche-wanty-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "be",
@@ -2366,9 +2366,9 @@
       "timeDifference": "+43:35",
       "team": "Intermarché - Wanty",
       "shortName": "intermarche-wanty-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "be",
@@ -2380,9 +2380,9 @@
       "timeDifference": "+34:29",
       "team": "Alpecin - Deceuninck",
       "shortName": "alpecin-deceuninck-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "be",
@@ -2394,9 +2394,9 @@
       "timeDifference": "+40:49",
       "team": "Alpecin - Deceuninck",
       "shortName": "alpecin-deceuninck-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "pt",
@@ -2408,9 +2408,9 @@
       "timeDifference": "+35:25",
       "team": "UAE Team Emirates - XRG",
       "shortName": "uae-team-emirates-xrg-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "it",
@@ -2422,9 +2422,9 @@
       "timeDifference": "+45:30",
       "team": "Alpecin - Deceuninck",
       "shortName": "alpecin-deceuninck-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "au",
@@ -2436,9 +2436,9 @@
       "timeDifference": "+48:46",
       "team": "Team Picnic PostNL",
       "shortName": "team-picnic-postnl-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "es",
@@ -2450,65 +2450,65 @@
       "timeDifference": "+37:45",
       "team": "Burgos Burpellet BH",
       "shortName": "burgos-burpellet-bh-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "nl",
       "lastName": "Bouwman",
       "firstName": "Koen",
       "startNumber": "152",
-      "gc": "",
-      "place": null,
-      "timeDifference": "",
+      "gc": "-",
+      "place": "-",
+      "timeDifference": "-",
       "team": "Team Jayco AlUla",
       "shortName": "team-jayco-alula-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "gb",
       "lastName": "Carr",
       "firstName": "Simon",
       "startNumber": "174",
-      "gc": "",
-      "place": null,
-      "timeDifference": "",
+      "gc": "-",
+      "place": "-",
+      "timeDifference": "-",
       "team": "Cofidis",
       "shortName": "cofidis-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "nl",
       "lastName": "Reinderink",
       "firstName": "Pepijn",
       "startNumber": "54",
-      "gc": "",
-      "place": null,
-      "timeDifference": "",
+      "gc": "-",
+      "place": "-",
+      "timeDifference": "-",
       "team": "Soudal Quick-Step",
       "shortName": "soudal-quick-step-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     },
     {
       "country": "be",
       "lastName": "Livyns",
       "firstName": "Arjen",
       "startNumber": "203",
-      "gc": "",
-      "place": null,
-      "timeDifference": "",
+      "gc": "-",
+      "place": "-",
+      "timeDifference": "-",
       "team": "Lotto",
       "shortName": "lotto-2025",
-      "uciPoints": "",
-      "points": "",
-      "qualificationTime": ""
+      "uciPoints": "-",
+      "points": "-",
+      "qualificationTime": "-"
     }
   ],
   "generalClassification": [
@@ -7061,5 +7061,5 @@
       "class": "PRT"
     }
   ],
-  "scrapedAt": "2025-08-29T16:32:00.120Z"
+  "scrapedAt": "2025-09-01T17:20:45.446Z"
 }
