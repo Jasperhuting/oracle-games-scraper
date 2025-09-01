@@ -1,0 +1,1234 @@
+{
+  "race": "milano-sanremo",
+  "year": 2025,
+  "source": "https://www.procyclingstats.com/race/milano-sanremo/2025/startlist",
+  "count": 25,
+  "riders": [
+    {
+      "image": "images/shirts/bx/eb/alpecin-deceuninck-2025-n2.png",
+      "name": "Alpecin - Deceuninck (WT)",
+      "shortName": "alpecin-deceuninck-2025",
+      "riders": [
+        {
+          "name": "PHILIPSEN Jasper",
+          "country": "be",
+          "startNumber": "1",
+          "dropout": false
+        },
+        {
+          "name": "DILLIER Silvan",
+          "country": "ch",
+          "startNumber": "2",
+          "dropout": false
+        },
+        {
+          "name": "GROVES Kaden",
+          "country": "au",
+          "startNumber": "3",
+          "dropout": false
+        },
+        {
+          "name": "HERMANS Quinten",
+          "country": "be",
+          "startNumber": "4",
+          "dropout": false
+        },
+        {
+          "name": "MEURISSE Xandro",
+          "country": "be",
+          "startNumber": "5",
+          "dropout": false
+        },
+        {
+          "name": "RIESEBEEK Oscar",
+          "country": "nl",
+          "startNumber": "6",
+          "dropout": false
+        },
+        {
+          "name": "VAN DER POEL Mathieu",
+          "country": "nl",
+          "startNumber": "7",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/arkea-b-b-hotels-2025.png",
+      "name": "Arkéa - B&B Hotels (WT)",
+      "shortName": "arkea-b-b-hotels-2025",
+      "riders": [
+        {
+          "name": "VAUQUELIN Kévin",
+          "country": "fr",
+          "startNumber": "11",
+          "dropout": false
+        },
+        {
+          "name": "DELAPLACE Anthony",
+          "country": "fr",
+          "startNumber": "12",
+          "dropout": false
+        },
+        {
+          "name": "GARCÍA PIERNA Raúl",
+          "country": "es",
+          "startNumber": "13",
+          "dropout": false
+        },
+        {
+          "name": "GUERNALEC Thibault",
+          "country": "fr",
+          "startNumber": "14",
+          "dropout": false
+        },
+        {
+          "name": "GUERNALEC Victor",
+          "country": "fr",
+          "startNumber": "15",
+          "dropout": false
+        },
+        {
+          "name": "LE BERRE Mathis",
+          "country": "fr",
+          "startNumber": "16",
+          "dropout": false
+        },
+        {
+          "name": "VERRE Alessandro",
+          "country": "it",
+          "startNumber": "17",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/bahrain-victorious-2025-n2.png",
+      "name": "Bahrain - Victorious (WT)",
+      "shortName": "bahrain-victorious-2025",
+      "riders": [
+        {
+          "name": "MOHORIČ Matej",
+          "country": "si",
+          "startNumber": "21",
+          "dropout": false
+        },
+        {
+          "name": "CARUSO Damiano",
+          "country": "it",
+          "startNumber": "22",
+          "dropout": false
+        },
+        {
+          "name": "GRADEK Kamil",
+          "country": "pl",
+          "startNumber": "23",
+          "dropout": false
+        },
+        {
+          "name": "PASQUALON Andrea",
+          "country": "it",
+          "startNumber": "24",
+          "dropout": false
+        },
+        {
+          "name": "STANNARD Robert",
+          "country": "au",
+          "startNumber": "25",
+          "dropout": false
+        },
+        {
+          "name": "WRIGHT Fred",
+          "country": "gb",
+          "startNumber": "26",
+          "dropout": false
+        },
+        {
+          "name": "ZAMBANINI Edoardo",
+          "country": "it",
+          "startNumber": "27",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/cofidis-2025-n4.png",
+      "name": "Cofidis (WT)",
+      "shortName": "cofidis-2025",
+      "riders": [
+        {
+          "name": "ARANBURU Alex",
+          "country": "es",
+          "startNumber": "31",
+          "dropout": false
+        },
+        {
+          "name": "LASTRA Jonathan",
+          "country": "es",
+          "startNumber": "32",
+          "dropout": false
+        },
+        {
+          "name": "MAAS Jan",
+          "country": "nl",
+          "startNumber": "33",
+          "dropout": false
+        },
+        {
+          "name": "MAHOUDO Nolann",
+          "country": "fr",
+          "startNumber": "34",
+          "dropout": false
+        },
+        {
+          "name": "OURSELIN Paul",
+          "country": "fr",
+          "startNumber": "35",
+          "dropout": false
+        },
+        {
+          "name": "SAMITIER Sergio",
+          "country": "es",
+          "startNumber": "36",
+          "dropout": false
+        },
+        {
+          "name": "TOUZÉ Damien",
+          "country": "fr",
+          "startNumber": "37",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/decathlon-ag2r-la-mondiale-2025.png",
+      "name": "Decathlon AG2R La Mondiale Team (WT)",
+      "shortName": "decathlon-ag2r-la-mondiale-2025",
+      "riders": [
+        {
+          "name": "NAESEN Oliver",
+          "country": "be",
+          "startNumber": "41",
+          "dropout": false
+        },
+        {
+          "name": "TRONCHON Bastien",
+          "country": "fr",
+          "startNumber": "42",
+          "dropout": false
+        },
+        {
+          "name": "DE PESTEL Sander",
+          "country": "be",
+          "startNumber": "43",
+          "dropout": false
+        },
+        {
+          "name": "GAUTHERAT Pierre",
+          "country": "fr",
+          "startNumber": "44",
+          "dropout": false
+        },
+        {
+          "name": "GUDMESTAD Tord",
+          "country": "no",
+          "startNumber": "45",
+          "dropout": false
+        },
+        {
+          "name": "LAFAY Victor",
+          "country": "fr",
+          "startNumber": "46",
+          "dropout": false
+        },
+        {
+          "name": "PARET-PEINTRE Aurélien",
+          "country": "fr",
+          "startNumber": "47",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/ef-education-easypost-2025.png",
+      "name": "EF Education - EasyPost (WT)",
+      "shortName": "ef-education-easypost-2025",
+      "riders": [
+        {
+          "name": "POWLESS Neilson",
+          "country": "us",
+          "startNumber": "51",
+          "dropout": false
+        },
+        {
+          "name": "ALBANESE Vincenzo",
+          "country": "it",
+          "startNumber": "52",
+          "dropout": false
+        },
+        {
+          "name": "HONORÉ Mikkel Frølich",
+          "country": "dk",
+          "startNumber": "53",
+          "dropout": false
+        },
+        {
+          "name": "MACKELLAR Alastair",
+          "country": "au",
+          "startNumber": "54",
+          "dropout": false
+        },
+        {
+          "name": "MIHKELS Madis",
+          "country": "ee",
+          "startNumber": "55",
+          "dropout": false
+        },
+        {
+          "name": "SWEENY Harry",
+          "country": "au",
+          "startNumber": "56",
+          "dropout": false
+        },
+        {
+          "name": "WALKER Max",
+          "country": "gb",
+          "startNumber": "57",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/groupama-fdj-2025.png",
+      "name": "Groupama - FDJ (WT)",
+      "shortName": "groupama-fdj-2025",
+      "riders": [
+        {
+          "name": "GRÉGOIRE Romain",
+          "country": "fr",
+          "startNumber": "61",
+          "dropout": false
+        },
+        {
+          "name": "ASKEY Lewis",
+          "country": "gb",
+          "startNumber": "62",
+          "dropout": false
+        },
+        {
+          "name": "BYSTRØM Sven Erik",
+          "country": "no",
+          "startNumber": "63",
+          "dropout": false
+        },
+        {
+          "name": "GENIETS Kevin",
+          "country": "lu",
+          "startNumber": "64",
+          "dropout": false
+        },
+        {
+          "name": "GRUEL Thibaud",
+          "country": "fr",
+          "startNumber": "65",
+          "dropout": false
+        },
+        {
+          "name": "PACHER Quentin",
+          "country": "fr",
+          "startNumber": "66",
+          "dropout": false
+        },
+        {
+          "name": "RUSSO Clément",
+          "country": "fr",
+          "startNumber": "67",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/ineos-grenadiers-2025.png",
+      "name": "INEOS Grenadiers (WT)",
+      "shortName": "ineos-grenadiers-2025",
+      "riders": [
+        {
+          "name": "GANNA Filippo",
+          "country": "it",
+          "startNumber": "71",
+          "dropout": false
+        },
+        {
+          "name": "FOSS Tobias",
+          "country": "no",
+          "startNumber": "72",
+          "dropout": false
+        },
+        {
+          "name": "LAURANCE Axel",
+          "country": "fr",
+          "startNumber": "73",
+          "dropout": false
+        },
+        {
+          "name": "SWIFT Ben",
+          "country": "gb",
+          "startNumber": "74",
+          "dropout": false
+        },
+        {
+          "name": "SWIFT Connor",
+          "country": "gb",
+          "startNumber": "75",
+          "dropout": false
+        },
+        {
+          "name": "THOMAS Geraint",
+          "country": "gb",
+          "startNumber": "76",
+          "dropout": false
+        },
+        {
+          "name": "TURNER Ben",
+          "country": "gb",
+          "startNumber": "77",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/intermarche-wanty-2025-n2.png",
+      "name": "Intermarché - Wanty (WT)",
+      "shortName": "intermarche-wanty-2025",
+      "riders": [
+        {
+          "name": "GIRMAY Biniam",
+          "country": "er",
+          "startNumber": "81",
+          "dropout": false
+        },
+        {
+          "name": "BUSATTO Francesco",
+          "country": "it",
+          "startNumber": "82",
+          "dropout": false
+        },
+        {
+          "name": "PAQUOT Tom",
+          "country": "be",
+          "startNumber": "83",
+          "dropout": false
+        },
+        {
+          "name": "REX Laurenz",
+          "country": "be",
+          "startNumber": "84",
+          "dropout": false
+        },
+        {
+          "name": "RUTSCH Jonas",
+          "country": "de",
+          "startNumber": "85",
+          "dropout": false
+        },
+        {
+          "name": "VAN BOVEN Luca",
+          "country": "be",
+          "startNumber": "86",
+          "dropout": false
+        },
+        {
+          "name": "VAN DER HOORN Taco",
+          "country": "nl",
+          "startNumber": "87",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/israel-premier-tech-2025.png",
+      "name": "Israel - Premier Tech (PRT)",
+      "shortName": "israel-premier-tech-2025",
+      "riders": [
+        {
+          "name": "CLARKE Simon",
+          "country": "au",
+          "startNumber": "91",
+          "dropout": false
+        },
+        {
+          "name": "CÔTÉ Pier-André",
+          "country": "ca",
+          "startNumber": "92",
+          "dropout": false
+        },
+        {
+          "name": "FRIGO Marco",
+          "country": "it",
+          "startNumber": "93",
+          "dropout": false
+        },
+        {
+          "name": "FUGLSANG Jakob",
+          "country": "dk",
+          "startNumber": "94",
+          "dropout": false
+        },
+        {
+          "name": "LOUVEL Matis",
+          "country": "fr",
+          "startNumber": "95",
+          "dropout": false
+        },
+        {
+          "name": "STEWART Jake",
+          "country": "gb",
+          "startNumber": "96",
+          "dropout": false
+        },
+        {
+          "name": "STRONG Corbin",
+          "country": "nz",
+          "startNumber": "97",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/lidl-trek-2025.png",
+      "name": "Lidl - Trek (WT)",
+      "shortName": "lidl-trek-2025",
+      "riders": [
+        {
+          "name": "STUYVEN Jasper",
+          "country": "be",
+          "startNumber": "101",
+          "dropout": false
+        },
+        {
+          "name": "CICCONE Giulio",
+          "country": "it",
+          "startNumber": "102",
+          "dropout": false
+        },
+        {
+          "name": "BAGIOLI Andrea",
+          "country": "it",
+          "startNumber": "103",
+          "dropout": false
+        },
+        {
+          "name": "KIRSCH Alex",
+          "country": "lu",
+          "startNumber": "104",
+          "dropout": false
+        },
+        {
+          "name": "MILAN Jonathan",
+          "country": "it",
+          "startNumber": "105",
+          "dropout": false
+        },
+        {
+          "name": "MOSCA Jacopo",
+          "country": "it",
+          "startNumber": "106",
+          "dropout": false
+        },
+        {
+          "name": "PEDERSEN Mads",
+          "country": "dk",
+          "startNumber": "107",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/lotto-2025.png",
+      "name": "Lotto (PRT)",
+      "shortName": "lotto-2025",
+      "riders": [
+        {
+          "name": "BERCKMOES Jenno",
+          "country": "be",
+          "startNumber": "111",
+          "dropout": false
+        },
+        {
+          "name": "BEULLENS Cedric",
+          "country": "be",
+          "startNumber": "112",
+          "dropout": false
+        },
+        {
+          "name": "DRIZNERS Jarrad",
+          "country": "au",
+          "startNumber": "113",
+          "dropout": false
+        },
+        {
+          "name": "GIDDINGS Joshua",
+          "country": "gb",
+          "startNumber": "114",
+          "dropout": false
+        },
+        {
+          "name": "GRIGNARD Sébastien",
+          "country": "be",
+          "startNumber": "115",
+          "dropout": false
+        },
+        {
+          "name": "LIVYNS Arjen",
+          "country": "be",
+          "startNumber": "116",
+          "dropout": false
+        },
+        {
+          "name": "VEISTROFFER Baptiste",
+          "country": "fr",
+          "startNumber": "117",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/movistar-team-2025.png",
+      "name": "Movistar Team (WT)",
+      "shortName": "movistar-team-2025",
+      "riders": [
+        {
+          "name": "GARCÍA CORTINA Iván",
+          "country": "es",
+          "startNumber": "121",
+          "dropout": false
+        },
+        {
+          "name": "AULAR Orluis",
+          "country": "ve",
+          "startNumber": "122",
+          "dropout": false
+        },
+        {
+          "name": "BARRENETXEA Jon",
+          "country": "es",
+          "startNumber": "123",
+          "dropout": false
+        },
+        {
+          "name": "CANAL Carlos",
+          "country": "es",
+          "startNumber": "124",
+          "dropout": false
+        },
+        {
+          "name": "MILESI Lorenzo",
+          "country": "it",
+          "startNumber": "125",
+          "dropout": false
+        },
+        {
+          "name": "SERRANO Gonzalo",
+          "country": "es",
+          "startNumber": "126",
+          "dropout": false
+        },
+        {
+          "name": "MORO Manlio",
+          "country": "it",
+          "startNumber": "127",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/q365-pro-cycing-team-2025-n2.png",
+      "name": "Q36.5 Pro Cycling Team (PRT)",
+      "shortName": "q365-pro-cycing-team-2025",
+      "riders": [
+        {
+          "name": "PIDCOCK Thomas",
+          "country": "gb",
+          "startNumber": "131",
+          "dropout": false
+        },
+        {
+          "name": "AZPARREN Xabier Mikel",
+          "country": "es",
+          "startNumber": "132",
+          "dropout": false
+        },
+        {
+          "name": "CHRISTEN Fabio",
+          "country": "ch",
+          "startNumber": "133",
+          "dropout": false
+        },
+        {
+          "name": "DONOVAN Mark",
+          "country": "gb",
+          "startNumber": "134",
+          "dropout": false
+        },
+        {
+          "name": "LIEPIŅŠ Emīls",
+          "country": "lv",
+          "startNumber": "135",
+          "dropout": false
+        },
+        {
+          "name": "VADER Milan",
+          "country": "nl",
+          "startNumber": "136",
+          "dropout": false
+        },
+        {
+          "name": "ZUKOWSKY Nickolas",
+          "country": "ca",
+          "startNumber": "137",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/red-bull-bora-hansgrohe-2025.png",
+      "name": "Red Bull - BORA - hansgrohe (WT)",
+      "shortName": "red-bull-bora-hansgrohe-2025",
+      "riders": [
+        {
+          "name": "VAN GILS Maxim",
+          "country": "be",
+          "startNumber": "141",
+          "dropout": false
+        },
+        {
+          "name": "ADRIÀ Roger",
+          "country": "es",
+          "startNumber": "142",
+          "dropout": false
+        },
+        {
+          "name": "MACIEJUK Filip",
+          "country": "pl",
+          "startNumber": "143",
+          "dropout": false
+        },
+        {
+          "name": "MOSCON Gianni",
+          "country": "it",
+          "startNumber": "144",
+          "dropout": false
+        },
+        {
+          "name": "MULLEN Ryan",
+          "country": "ie",
+          "startNumber": "145",
+          "dropout": false
+        },
+        {
+          "name": "PITHIE Laurence",
+          "country": "nz",
+          "startNumber": "146",
+          "dropout": false
+        },
+        {
+          "name": "VAN POPPEL Danny",
+          "country": "nl",
+          "startNumber": "147",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/team-solution-tech-vini-fantini-2025.png",
+      "name": "Team Solution Tech - Vini Fantini (PRT)",
+      "shortName": "team-solution-tech-vini-fantini-2025",
+      "riders": [
+        {
+          "name": "SBARAGLI Kristian",
+          "country": "it",
+          "startNumber": "151",
+          "dropout": false
+        },
+        {
+          "name": "MEO Felix James",
+          "country": "nz",
+          "startNumber": "152",
+          "dropout": false
+        },
+        {
+          "name": "GONZÁLEZ Roberto Carlos",
+          "country": "pa",
+          "startNumber": "153",
+          "dropout": false
+        },
+        {
+          "name": "NENCINI Tommaso",
+          "country": "it",
+          "startNumber": "154",
+          "dropout": false
+        },
+        {
+          "name": "RAJOVIĆ Dušan",
+          "country": "rs",
+          "startNumber": "155",
+          "dropout": false
+        },
+        {
+          "name": "STEWART Mark",
+          "country": "gb",
+          "startNumber": "156",
+          "dropout": false
+        },
+        {
+          "name": "TSARENKO Kyrylo",
+          "country": "ua",
+          "startNumber": "157",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/soudal-quick-step-2025.png",
+      "name": "Soudal Quick-Step (WT)",
+      "shortName": "soudal-quick-step-2025",
+      "riders": [
+        {
+          "name": "SCHACHMANN Maximilian",
+          "country": "de",
+          "startNumber": "161",
+          "dropout": false
+        },
+        {
+          "name": "BASTIAENS Ayco",
+          "country": "be",
+          "startNumber": "162",
+          "dropout": false
+        },
+        {
+          "name": "CATTANEO Mattia",
+          "country": "it",
+          "startNumber": "163",
+          "dropout": false
+        },
+        {
+          "name": "ČERNÝ Josef",
+          "country": "cz",
+          "startNumber": "164",
+          "dropout": false
+        },
+        {
+          "name": "PEDERSEN Casper",
+          "country": "dk",
+          "startNumber": "165",
+          "dropout": false
+        },
+        {
+          "name": "REINDERINK Pepijn",
+          "country": "nl",
+          "startNumber": "166",
+          "dropout": false
+        },
+        {
+          "name": "SVRČEK Martin",
+          "country": "sk",
+          "startNumber": "167",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/team-jayco-alula-2025.png",
+      "name": "Team Jayco AlUla (WT)",
+      "shortName": "team-jayco-alula-2025",
+      "riders": [
+        {
+          "name": "MATTHEWS Michael",
+          "country": "au",
+          "startNumber": "171",
+          "dropout": false
+        },
+        {
+          "name": "DE PRETTO Davide",
+          "country": "it",
+          "startNumber": "172",
+          "dropout": false
+        },
+        {
+          "name": "ENGELHARDT Felix",
+          "country": "de",
+          "startNumber": "173",
+          "dropout": false
+        },
+        {
+          "name": "GAMPER Patrick",
+          "country": "at",
+          "startNumber": "174",
+          "dropout": false
+        },
+        {
+          "name": "SCHMID Mauro",
+          "country": "ch",
+          "startNumber": "175",
+          "dropout": false
+        },
+        {
+          "name": "SÜTTERLIN Jasha",
+          "country": "de",
+          "startNumber": "176",
+          "dropout": false
+        },
+        {
+          "name": "ZANA Filippo",
+          "country": "it",
+          "startNumber": "177",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/team-picnic-postnl-2025.png",
+      "name": "Team Picnic PostNL (WT)",
+      "shortName": "team-picnic-postnl-2025",
+      "riders": [
+        {
+          "name": "DEGENKOLB John",
+          "country": "de",
+          "startNumber": "181",
+          "dropout": false
+        },
+        {
+          "name": "BARGUIL Warren",
+          "country": "fr",
+          "startNumber": "182",
+          "dropout": false
+        },
+        {
+          "name": "COMBAUD Romain",
+          "country": "fr",
+          "startNumber": "183",
+          "dropout": false
+        },
+        {
+          "name": "FLYNN Sean",
+          "country": "gb",
+          "startNumber": "184",
+          "dropout": false
+        },
+        {
+          "name": "HAMILTON Chris",
+          "country": "au",
+          "startNumber": "185",
+          "dropout": false
+        },
+        {
+          "name": "KOERDT Bjorn",
+          "country": "gb",
+          "startNumber": "186",
+          "dropout": false
+        },
+        {
+          "name": "VERMAERKE Kevin",
+          "country": "us",
+          "startNumber": "187",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/team-visma-lease-a-bike-2025.png",
+      "name": "Team Visma | Lease a Bike (WT)",
+      "shortName": "team-visma-lease-a-bike-2025",
+      "riders": [
+        {
+          "name": "KOOIJ Olav",
+          "country": "nl",
+          "startNumber": "191",
+          "dropout": false
+        },
+        {
+          "name": "CAMPENAERTS Victor",
+          "country": "be",
+          "startNumber": "192",
+          "dropout": false
+        },
+        {
+          "name": "MCLAY Daniel",
+          "country": "gb",
+          "startNumber": "193",
+          "dropout": false
+        },
+        {
+          "name": "TULETT Ben",
+          "country": "gb",
+          "startNumber": "194",
+          "dropout": false
+        },
+        {
+          "name": "VALTER Attila",
+          "country": "hu",
+          "startNumber": "195",
+          "dropout": false
+        },
+        {
+          "name": "VAN DER SANDE Tosh",
+          "country": "be",
+          "startNumber": "196",
+          "dropout": false
+        },
+        {
+          "name": "ZINGLE Axel",
+          "country": "fr",
+          "startNumber": "197",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/tudor-pro-cycling-team-2025.png",
+      "name": "Tudor Pro Cycling Team (PRT)",
+      "shortName": "tudor-pro-cycling-team-2025",
+      "riders": [
+        {
+          "name": "ALAPHILIPPE Julian",
+          "country": "fr",
+          "startNumber": "201",
+          "dropout": false
+        },
+        {
+          "name": "BRENNER Marco",
+          "country": "de",
+          "startNumber": "202",
+          "dropout": false
+        },
+        {
+          "name": "HALLER Marco",
+          "country": "at",
+          "startNumber": "203",
+          "dropout": false
+        },
+        {
+          "name": "KRIEGER Alexander",
+          "country": "de",
+          "startNumber": "204",
+          "dropout": false
+        },
+        {
+          "name": "LIENHARD Fabian",
+          "country": "ch",
+          "startNumber": "205",
+          "dropout": false
+        },
+        {
+          "name": "PLUIMERS Rick",
+          "country": "nl",
+          "startNumber": "206",
+          "dropout": false
+        },
+        {
+          "name": "TRENTIN Matteo",
+          "country": "it",
+          "startNumber": "207",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/uae-team-emirates-xrg-2025.png",
+      "name": "UAE Team Emirates - XRG (WT)",
+      "shortName": "uae-team-emirates-xrg-2025",
+      "riders": [
+        {
+          "name": "POGAČAR Tadej",
+          "country": "si",
+          "startNumber": "211",
+          "dropout": false
+        },
+        {
+          "name": "DEL TORO Isaac",
+          "country": "mx",
+          "startNumber": "212",
+          "dropout": false
+        },
+        {
+          "name": "LAENGEN Vegard Stake",
+          "country": "no",
+          "startNumber": "213",
+          "dropout": false
+        },
+        {
+          "name": "NARVÁEZ Jhonatan",
+          "country": "ec",
+          "startNumber": "214",
+          "dropout": false
+        },
+        {
+          "name": "NOVAK Domen",
+          "country": "si",
+          "startNumber": "215",
+          "dropout": false
+        },
+        {
+          "name": "POLITT Nils",
+          "country": "de",
+          "startNumber": "216",
+          "dropout": false
+        },
+        {
+          "name": "WELLENS Tim",
+          "country": "be",
+          "startNumber": "217",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/uno-x-mobility-2025.png",
+      "name": "Uno-X Mobility (PRT)",
+      "shortName": "uno-x-mobility-2025",
+      "riders": [
+        {
+          "name": "CORT Magnus",
+          "country": "dk",
+          "startNumber": "221",
+          "dropout": false
+        },
+        {
+          "name": "ABRAHAMSEN Jonas",
+          "country": "no",
+          "startNumber": "222",
+          "dropout": false
+        },
+        {
+          "name": "DVERSNES Fredrik",
+          "country": "no",
+          "startNumber": "223",
+          "dropout": false
+        },
+        {
+          "name": "HOELGAARD Markus",
+          "country": "no",
+          "startNumber": "224",
+          "dropout": false
+        },
+        {
+          "name": "JOHANNESSEN Anders Halland",
+          "country": "no",
+          "startNumber": "225",
+          "dropout": false
+        },
+        {
+          "name": "JOHANNESSEN Tobias Halland",
+          "country": "no",
+          "startNumber": "226",
+          "dropout": false
+        },
+        {
+          "name": "SKAARSETH Anders",
+          "country": "no",
+          "startNumber": "227",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/vf-group-bardiani-csf-faizane-2025.png",
+      "name": "VF Group - Bardiani CSF - Faizanè (PRT)",
+      "shortName": "vf-group-bardiani-csf-faizane-2025",
+      "riders": [
+        {
+          "name": "FIORELLI Filippo",
+          "country": "it",
+          "startNumber": "231",
+          "dropout": false
+        },
+        {
+          "name": "MARCELLUSI Martin",
+          "country": "it",
+          "startNumber": "232",
+          "dropout": false
+        },
+        {
+          "name": "MARTINELLI Alessio",
+          "country": "it",
+          "startNumber": "233",
+          "dropout": false
+        },
+        {
+          "name": "PALETTI Luca",
+          "country": "it",
+          "startNumber": "234",
+          "dropout": false
+        },
+        {
+          "name": "ROJAS Vicente",
+          "country": "cl",
+          "startNumber": "235",
+          "dropout": false
+        },
+        {
+          "name": "TAROZZI Manuele",
+          "country": "it",
+          "startNumber": "236",
+          "dropout": false
+        },
+        {
+          "name": "TURCONI Filippo",
+          "country": "it",
+          "startNumber": "237",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/xds-astana-team-2025.png",
+      "name": "XDS Astana Team (WT)",
+      "shortName": "xds-astana-team-2025",
+      "riders": [
+        {
+          "name": "BETTIOL Alberto",
+          "country": "it",
+          "startNumber": "241",
+          "dropout": false
+        },
+        {
+          "name": "BALLERINI Davide",
+          "country": "it",
+          "startNumber": "242",
+          "dropout": false
+        },
+        {
+          "name": "FEDOROV Yevgeniy",
+          "country": "kz",
+          "startNumber": "243",
+          "dropout": false
+        },
+        {
+          "name": "TEUNISSEN Mike",
+          "country": "nl",
+          "startNumber": "244",
+          "dropout": false
+        },
+        {
+          "name": "ULISSI Diego",
+          "country": "it",
+          "startNumber": "245",
+          "dropout": false
+        },
+        {
+          "name": "VELASCO Simone",
+          "country": "it",
+          "startNumber": "246",
+          "dropout": false
+        },
+        {
+          "name": "VINOKUROV Nicolas",
+          "country": "kz",
+          "startNumber": "247",
+          "dropout": false
+        }
+      ]
+    }
+  ],
+  "scrapedAt": "2025-09-01T18:19:15.450Z"
+}
