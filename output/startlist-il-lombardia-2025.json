@@ -1,0 +1,216 @@
+{
+  "race": "il-lombardia",
+  "year": 2025,
+  "source": "https://www.procyclingstats.com/race/il-lombardia/2025/startlist",
+  "count": 21,
+  "riders": [
+    {
+      "image": "images/shirts/bx/eb/team-solution-tech-vini-fantini-2025.png",
+      "name": "Team Solution Tech - Vini Fantini (PRT)",
+      "shortName": "team-solution-tech-vini-fantini-2025",
+      "riders": []
+    },
+    {
+      "image": "images/shirts/bx/eb/tudor-pro-cycling-team-2025-n2.png",
+      "name": "Tudor Pro Cycling Team (PRT)",
+      "shortName": "tudor-pro-cycling-team-2025",
+      "riders": []
+    },
+    {
+      "image": "images/shirts/bx/eb/vf-group-bardiani-csf-faizane-2025.png",
+      "name": "VF Group - Bardiani CSF - Faizanè (PRT)",
+      "shortName": "vf-group-bardiani-csf-faizane-2025",
+      "riders": []
+    },
+    {
+      "image": "images/shirts/bx/eb/ef-education-easypost-2025-n3.png",
+      "name": "EF Education - EasyPost (WT)",
+      "shortName": "ef-education-easypost-2025",
+      "riders": [
+        {
+          "name": "CARAPAZ Richard",
+          "country": "ec",
+          "startNumber": "-",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/alpecin-deceuninck-2025-n2.png",
+      "name": "Alpecin - Deceuninck (WT)",
+      "shortName": "alpecin-deceuninck-2025",
+      "riders": [
+        {
+          "name": "VERGALLITO Luca",
+          "country": "it",
+          "startNumber": "-",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/arkea-b-b-hotels-2025.png",
+      "name": "Arkéa - B&B Hotels (WT)",
+      "shortName": "arkea-b-b-hotels-2025",
+      "riders": []
+    },
+    {
+      "image": "images/shirts/bx/eb/xds-astana-team-2025.png",
+      "name": "XDS Astana Team (WT)",
+      "shortName": "xds-astana-team-2025",
+      "riders": []
+    },
+    {
+      "image": "images/shirts/bx/eb/bahrain-victorious-2025-n2.png",
+      "name": "Bahrain - Victorious (WT)",
+      "shortName": "bahrain-victorious-2025",
+      "riders": []
+    },
+    {
+      "image": "images/shirts/bx/eb/cofidis-2025-n4.png",
+      "name": "Cofidis (WT)",
+      "shortName": "cofidis-2025",
+      "riders": []
+    },
+    {
+      "image": "images/shirts/bx/eb/decathlon-ag2r-la-mondiale-2025-n2.png",
+      "name": "Decathlon AG2R La Mondiale Team (WT)",
+      "shortName": "decathlon-ag2r-la-mondiale-2025",
+      "riders": [
+        {
+          "name": "SEIXAS Paul",
+          "country": "fr",
+          "startNumber": "-",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/groupama-fdj-2025-n2.png",
+      "name": "Groupama - FDJ (WT)",
+      "shortName": "groupama-fdj-2025",
+      "riders": []
+    },
+    {
+      "image": "images/shirts/bx/eb/ineos-grenadiers-2025-n2.png",
+      "name": "INEOS Grenadiers (WT)",
+      "shortName": "ineos-grenadiers-2025",
+      "riders": []
+    },
+    {
+      "image": "images/shirts/bx/eb/intermarche-wanty-2025-n2.png",
+      "name": "Intermarché - Wanty (WT)",
+      "shortName": "intermarche-wanty-2025",
+      "riders": [
+        {
+          "name": "GOOSSENS Kobe",
+          "country": "be",
+          "startNumber": "-",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/lidl-trek-2025-n2.png",
+      "name": "Lidl - Trek (WT)",
+      "shortName": "lidl-trek-2025",
+      "riders": [
+        {
+          "name": "CICCONE Giulio",
+          "country": "it",
+          "startNumber": "-",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/movistar-team-2025-n2.png",
+      "name": "Movistar Team (WT)",
+      "shortName": "movistar-team-2025",
+      "riders": []
+    },
+    {
+      "image": "images/shirts/bx/eb/red-bull-bora-hansgrohe-2025.png",
+      "name": "Red Bull - BORA - hansgrohe (WT)",
+      "shortName": "red-bull-bora-hansgrohe-2025",
+      "riders": [
+        {
+          "name": "LIPOWITZ Florian",
+          "country": "de",
+          "startNumber": "-",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/soudal-quick-step-2025.png",
+      "name": "Soudal Quick-Step (WT)",
+      "shortName": "soudal-quick-step-2025",
+      "riders": [
+        {
+          "name": "EVENEPOEL Remco",
+          "country": "be",
+          "startNumber": "-",
+          "dropout": false
+        },
+        {
+          "name": "VAN WILDER Ilan",
+          "country": "be",
+          "startNumber": "-",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/team-picnic-postnl-2025.png",
+      "name": "Team Picnic PostNL (WT)",
+      "shortName": "team-picnic-postnl-2025",
+      "riders": []
+    },
+    {
+      "image": "images/shirts/bx/eb/team-jayco-alula-2025.png",
+      "name": "Team Jayco AlUla (WT)",
+      "shortName": "team-jayco-alula-2025",
+      "riders": [
+        {
+          "name": "O'CONNOR Ben",
+          "country": "au",
+          "startNumber": "-",
+          "dropout": false
+        }
+      ]
+    },
+    {
+      "image": "images/shirts/bx/eb/team-visma-lease-a-bike-2025-n3.png",
+      "name": "Team Visma | Lease a Bike (WT)",
+      "shortName": "team-visma-lease-a-bike-2025",
+      "riders": []
+    },
+    {
+      "image": "images/shirts/bx/eb/uae-team-emirates-xrg-2025.png",
+      "name": "UAE Team Emirates - XRG (WT)",
+      "shortName": "uae-team-emirates-xrg-2025",
+      "riders": [
+        {
+          "name": "POGAČAR Tadej",
+          "country": "si",
+          "startNumber": "-",
+          "dropout": false
+        },
+        {
+          "name": "AYUSO Juan",
+          "country": "es",
+          "startNumber": "-",
+          "dropout": false
+        },
+        {
+          "name": "MAJKA Rafał",
+          "country": "pl",
+          "startNumber": "-",
+          "dropout": false
+        }
+      ]
+    }
+  ],
+  "scrapedAt": "2025-09-01T18:18:20.744Z"
+}
